@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?visitid=18338</URL>
+    <CP>56°N 12°E</CP>
+    <TEXT>
+07-Apr-2012 -- A long overdue trip around the North-East of Sjælland. The day started overcast and snowy. Late morning it cleared up and became rather sunny, but a cold northerly wind kept the temperature at a few degrees Celsius above 0. Our goal for the day was to pick up a number of Geocaches and visit this confluence point along the way. Our trip started in Copenhagen, then we drove via Helsingor, Hornbæk, Søborg Castle and Lisleje beach to the CP. From there we continued South via Frederikssund and Roskilde back to Copenhagen. All-in-all a 170 km round trip.
+
+Getting close to the CP by car is easy; the roads in Denmark on average are pretty good. Only the last few hundreds of meters is through a nice quiet area with (holiday) homes in a very rustic setting, including dirt roads and lots of potholes. The last 250 m to the CP is not accessible by car. We parked in the Myretuevej (at N 56 00.074 E012 00.132) and leisurely walked over the paths (Picture #7) to the CP.
+
+The CP itself is unmarked and located in the middle of an -in our opinion- not so very interesting forest called Brødemose Skov. This forest apparently is really old, dating back from prehistory, although it does look like it is a planted forest, due to the trees standing nicely in line (especially to the South and West of the CP, Picture #4 &amp; #5).
+
+Details:
+
+    Date/Time of arrival: 7 April 2012, 13:51
+    GPS Devices: Garmin Oregon 450/Garmin etrex vista HCx
+    GPS Altitude: -3 m (Oregon) / -7 m (etrex) [Both are incorrect and need to be calibrated. Altitude is ±13 m (Google Earth)]
+    GPS Latitude: N 56 00.000 (Oregon) / N 55 59.998 (etrex)
+    GPS Longitude: E012 00.000 (Oregon) / E012 00.005 (etrex)
+    GPS accuracy: ±3 m (Oregon) / ±5 m (etrex)
+    Minimal distance: ±0 m
+    Distance to nearest road: ±174 m (direct line) / ±250m (following paths)
+    Road name: Myretuevej (Frederiksværk, Denmark)
+    Visible Terrain/Area: Forest, the terrain appears flat.
+    Weather: Sunny and a strong Northerly wind; ±4°C
+    Description of the CP: On a dirtpath through Brødemose Skov (Brødemose forest), surrounded by trees.
+    CP Name: (none as far as we know)
+    Means of transport: Car (rental) and walking the last ±250 m
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="" end="-1" start="-1" id="T0"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T1"/>
+        <TRAJECTOR text="this confluence point" end="329" start="308" id="T2"/>
+        <TRAJECTOR text="we" end="384" start="382" id="T3"/>
+        <TRAJECTOR text="we" end="471" start="469" id="T4"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T5"/>
+        <TRAJECTOR text="the roads" end="621" start="612" id="T6"/>
+        <TRAJECTOR text="a nice quiet area" end="726" start="709" id="T10"/>
+        <TRAJECTOR text="The last 250 m" end="831" start="817" id="T11"/>
+        <TRAJECTOR text="We" end="870" start="868" id="T12"/>
+        <TRAJECTOR text="The CP" end="992" start="986" id="T13"/>
+        <TRAJECTOR text="the trees" end="1249" start="1240" id="T14"/>
+        <LANDMARK text="the way" end="343" start="336" id="L0"/>
+        <LANDMARK text="Denmark" end="632" start="625" id="L1"/>
+        <LANDMARK text="(holiday) homes in a very rustic setting, including dirt roads and lots of potholes" end="815" start="732" id="L3"/>
+        <LANDMARK text="the CP" end="841" start="835" id="L4"/>
+        <LANDMARK text="the Myretuevej (at N 56 00.074 E012 00.132)" end="924" start="881" id="L5"/>
+        <LANDMARK text="an -in our opinion- not so very interesting forest called Brødemose Skov" end="1113" start="1041" id="L6"/>
+        <LANDMARK text="the CP" end="1317" start="1311" id="L7"/>
+        <SPATIAL_INDICATOR text="along" end="335" start="330" id="S0"/>
+        <SPATIAL_INDICATOR text="in" end="624" start="622" id="S1"/>
+        <SPATIAL_INDICATOR text="with" end="731" start="727" id="S2"/>
+        <SPATIAL_INDICATOR text="to" end="834" start="832" id="S3"/>
+        <SPATIAL_INDICATOR text="in" end="880" start="878" id="S4"/>
+        <SPATIAL_INDICATOR text="located in the middle of" end="1040" start="1016" id="S6"/>
+        <SPATIAL_INDICATOR text="to" end="1288" start="1286" id="S7"/>
+        <MOTION_INDICATOR text="A long overdue trip" end="35" start="16" id="M0"/>
+        <MOTION_INDICATOR text="visit" end="307" start="302" id="M1"/>
+        <MOTION_INDICATOR text="drove" end="390" start="385" id="M3"/>
+        <MOTION_INDICATOR text="started" end="361" start="354" id="M4"/>
+        <MOTION_INDICATOR text="continued" end="481" start="472" id="M5"/>
+        <MOTION_INDICATOR text="Getting" end="579" start="572" id="M6"/>
+        <MOTION_INDICATOR text="walked" end="945" start="939" id="M7"/>
+        <PATH text="around the North-East of Sjælland" end="69" start="36" id="P0"/>
+        <PATH text="this confluence point along the way" end="343" start="308" id="P1"/>
+        <PATH text="in Copenhagen" end="375" start="362" id="P2"/>
+        <PATH text="via Helsingor, Hornbæk, Søborg Castle and Lisleje beach to the CP" end="456" start="391" id="P3"/>
+        <PATH text="via Frederikssund and Roskilde back to Copenhagen" end="537" start="488" id="P4"/>
+        <PATH text="to the CP" end="595" start="586" id="P5"/>
+        <PATH text="over the paths (Picture #7) to the CP" end="983" start="946" id="P6"/>
+        <DIRECTION text="South" end="487" start="482" id="DIR1"/>
+        <DIRECTION text="the South" end="1298" start="1289" id="DIR2"/>
+        <DIRECTION text="West" end="1307" start="1303" id="DIR3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="intrinsic" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR4"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR5"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="DIR1" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR6"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR7"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T6" id="SR8"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP-1" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L3" trajector_id="T10" id="SR9"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L4" trajector_id="T11" id="SR10"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L5" trajector_id="T12" id="SR11"/>
+        <RELATION FoR="" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T12" id="SR12"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L6" trajector_id="T13" id="SR14"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR2" motion_id="" spatial_indicator_id="S7" landmark_id="L7" trajector_id="T14" id="SR15"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="West" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR3" motion_id="" spatial_indicator_id="S7" landmark_id="L7" trajector_id="T14" id="SR16"/>
+    </TAGS>
+</SpRL>

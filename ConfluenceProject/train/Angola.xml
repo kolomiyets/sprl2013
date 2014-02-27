@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=5515</URL>
+    <CP>17°S 12°E</CP>
+    <TEXT>
+26-Dec-2004 -- Our group, eleven people using four 4x4s, left Luanda on December 18 moving south along the coast of Angola until Namibe where we arrived on the 22nd. On the way we stayed overnight at the beaches of Equimina and crossed the hills of Lucira. On the 23rd, we left for Tambor and Omauha where we were until the 26th, and taking advantage of this, we prepared everything to be able to succeed on our programmed objectives:
+
+    Objective 1 - Visit the confluence point designated by us as 17-12, in other words, 17S 12E.
+    Objective 2 - Starting from the delta of the river Cunene a drive along the coast of the desert of Namibe until we arrive at the villa of Tombwa.
+
+In order to reach these objectives successfully we needed provisions and fuel for 4 days of trip on the plains and deserted zones of Iona, followed by the desert of Namibe: 300 liters of diesel, 150 liters of gasoline, 200 liters of water, food for eleven people, etc, etc.
+
+On the 26th we left in direction of Iona and the confluence point 17S 12E. The ground was quite hard and with lots of stone, holes and cracks, which made us cautious and required a big effort from the cars that where quite loaded. The ambient temperature was 41ºC with 64ºC above the ground.
+
+At about 16:45 we lost the tracks that we were following, other tracks could be seen but were not well defined, perhaps due to wind erosion. We climbed to 400 m, then slightly down to 300 m, always moving west towards the confluence point. The terrain continued to be quite difficult but flat, which facilitated our course, until we reached the objective 17S 12E.
+
+We took the photos and resumed our journey, this time in direction to the Cunene river delta, where we had programmed our next stop. The whole group was fine and we made a careful revision to the cars because the next stage didn't allow flaws due to the land conditions and the schedule that we would have to meet. Great part of the coast of the desert of Namibe is submerged during high tide and the dunes close to the sea have about 40 meters of height along 40 km of shore.
+
+On the 28th we resumed our trip, first in direction to the Cunene delta and then followed the 155 km of coast of the Namibe desert. Here our course was much slower due to the sand that is very loose, and to the enormous stress on the cars whose weight was practically the same. Our travel of 68 km on the first day was delayed by four hours, and at 3 p.m. we decided to stop in front of Baía dos Tigres (Tigers' Bay) to stay overnight. A lot of wind, a lot of sand in the air, in the food and in everything, but a unique landscape.
+
+The following day we made the remaining distance and arrived, without big problems, into Tombwa close to 1:00 p.m. Some small mishaps but all were satisfied. We now know a little more of this great country that is Angola.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="Our group, eleven people" end="40" start="16" id="T0"/>
+        <TRAJECTOR text="we" end="145" start="143" id="T1"/>
+        <TRAJECTOR text="we" end="180" start="178" id="T2"/>
+        <TRAJECTOR text="we" end="273" start="271" id="T3"/>
+        <TRAJECTOR text="we" end="309" start="307" id="T4"/>
+        <TRAJECTOR text="the beaches" end="212" start="201" id="T5"/>
+        <TRAJECTOR text="the hills" end="246" start="237" id="T6"/>
+        <TRAJECTOR text="the delta" end="575" start="566" id="T7"/>
+        <TRAJECTOR text="the coast" end="619" start="610" id="T8"/>
+        <TRAJECTOR text="the desert" end="633" start="623" id="T9"/>
+        <TRAJECTOR text="the plains and deserted zones" end="814" start="785" id="T10"/>
+        <TRAJECTOR text="the desert" end="846" start="836" id="T11"/>
+        <TRAJECTOR text="we" end="974" start="972" id="T12"/>
+        <TRAJECTOR text="The ground" end="1045" start="1035" id="T13"/>
+        <TRAJECTOR text="We" end="1396" start="1394" id="T15"/>
+        <TRAJECTOR text="we" end="1294" start="1292" id="T16"/>
+        <TRAJECTOR text="we" end="1585" start="1583" id="T18"/>
+        <TRAJECTOR text="We" end="1620" start="1618" id="T19"/>
+        <TRAJECTOR text="the dunes" end="2024" start="2015" id="T20"/>
+        <TRAJECTOR text="we" end="2110" start="2108" id="T21"/>
+        <TRAJECTOR text="we" end="2454" start="2452" id="T23"/>
+        <TRAJECTOR text="we" end="2649" start="2647" id="T24"/>
+        <TRAJECTOR text="coast" end="2205" start="2200" id="T26"/>
+        <TRAJECTOR text="where" end="142" start="137" id="T14"/>
+        <TRAJECTOR text="where" end="306" start="301" id="T17"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T22"/>
+        <TRAJECTOR text="we" end="652" start="650" id="T27"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T28"/>
+        <TRAJECTOR text="that" end="1291" start="1287" id="T29"/>
+        <TRAJECTOR text="Great part of the coast" end="1956" start="1933" id="T30"/>
+        <TRAJECTOR text="the desert" end="1970" start="1960" id="T31"/>
+        <TRAJECTOR text="where" end="1717" start="1712" id="T32"/>
+        <LANDMARK text="the beaches of Equimina" end="224" start="201" id="L1"/>
+        <LANDMARK text="where" end="306" start="301" id="L2"/>
+        <LANDMARK text="Equimina" end="224" start="216" id="L3"/>
+        <LANDMARK text="Lucira" end="256" start="250" id="L4"/>
+        <LANDMARK text="the river Cunene" end="595" start="579" id="L5"/>
+        <LANDMARK text="the desert of Namibe" end="643" start="623" id="L6"/>
+        <LANDMARK text="Namibe" end="643" start="637" id="L7"/>
+        <LANDMARK text="Iona" end="822" start="818" id="L8"/>
+        <LANDMARK text="Namibe" end="856" start="850" id="L9"/>
+        <LANDMARK text="lots of stone, holes and cracks" end="1101" start="1070" id="L10"/>
+        <LANDMARK text="the sea" end="2041" start="2034" id="L11"/>
+        <LANDMARK text="40 km of shore" end="2093" start="2079" id="L12"/>
+        <LANDMARK text="Baía dos Tigres (Tigers' Bay)" end="2512" start="2483" id="L13"/>
+        <LANDMARK text="the Namibe desert" end="2226" start="2209" id="L15"/>
+        <LANDMARK text="Namibe" end="136" start="130" id="L0"/>
+        <LANDMARK text="Omauha" end="300" start="294" id="L16"/>
+        <LANDMARK text="the tracks" end="1286" start="1276" id="L17"/>
+        <LANDMARK text="Namibe" end="1980" start="1974" id="L18"/>
+        <LANDMARK text="the desert of Namibe" end="1980" start="1960" id="L19"/>
+        <LANDMARK text="the Cunene river delta" end="1710" start="1688" id="L20"/>
+        <SPATIAL_INDICATOR text="at" end="200" start="198" id="S0"/>
+        <SPATIAL_INDICATOR text="of" end="215" start="213" id="S1"/>
+        <SPATIAL_INDICATOR text="of" end="249" start="247" id="S2"/>
+        <SPATIAL_INDICATOR text="were" end="314" start="310" id="S3"/>
+        <SPATIAL_INDICATOR text="of" end="578" start="576" id="S4"/>
+        <SPATIAL_INDICATOR text="of" end="622" start="620" id="S5"/>
+        <SPATIAL_INDICATOR text="of" end="636" start="634" id="S6"/>
+        <SPATIAL_INDICATOR text="of" end="817" start="815" id="S7"/>
+        <SPATIAL_INDICATOR text="of" end="849" start="847" id="S8"/>
+        <SPATIAL_INDICATOR text="with" end="1069" start="1065" id="S9"/>
+        <SPATIAL_INDICATOR text="along" end="2078" start="2073" id="S11"/>
+        <SPATIAL_INDICATOR text="in front of" end="2482" start="2471" id="S12"/>
+        <SPATIAL_INDICATOR text="of" end="2208" start="2206" id="S14"/>
+        <SPATIAL_INDICATOR text="of" end="1959" start="1957" id="S13"/>
+        <SPATIAL_INDICATOR text="of" end="1973" start="1971" id="S15"/>
+        <SPATIAL_INDICATOR text="to" end="2033" start="2031" id="S16"/>
+        <MOTION_INDICATOR text="left" end="62" start="58" id="M0"/>
+        <MOTION_INDICATOR text="moving" end="91" start="85" id="M1"/>
+        <MOTION_INDICATOR text="arrived" end="153" start="146" id="M2"/>
+        <MOTION_INDICATOR text="crossed" end="236" start="229" id="M3"/>
+        <MOTION_INDICATOR text="left" end="278" start="274" id="M4"/>
+        <MOTION_INDICATOR text="left" end="979" start="975" id="M5"/>
+        <MOTION_INDICATOR text="following" end="1309" start="1300" id="M7"/>
+        <MOTION_INDICATOR text="climbed" end="1404" start="1397" id="M8"/>
+        <MOTION_INDICATOR text="moving" end="1457" start="1451" id="M9"/>
+        <MOTION_INDICATOR text="reached" end="1593" start="1586" id="M10"/>
+        <MOTION_INDICATOR text="our journey" end="1660" start="1649" id="M11"/>
+        <MOTION_INDICATOR text="our trip" end="2127" start="2119" id="M12"/>
+        <MOTION_INDICATOR text="Our travel" end="2384" start="2374" id="M13"/>
+        <MOTION_INDICATOR text="made" end="2654" start="2650" id="M14"/>
+        <MOTION_INDICATOR text="arrived" end="2689" start="2682" id="M15"/>
+        <MOTION_INDICATOR text="Visit" end="460" start="455" id="M6"/>
+        <MOTION_INDICATOR text="Starting" end="560" start="552" id="M16"/>
+        <MOTION_INDICATOR text="drive" end="603" start="598" id="M17"/>
+        <MOTION_INDICATOR text="arrive" end="659" start="653" id="M18"/>
+        <MOTION_INDICATOR text="followed" end="2185" start="2177" id="M19"/>
+        <PATH text="Luanda" end="69" start="63" id="P0"/>
+        <PATH text="along the coast of Angola until Namibe" end="136" start="98" id="P1"/>
+        <PATH text="where" end="142" start="137" id="P2"/>
+        <PATH text="On the way" end="177" start="167" id="P3"/>
+        <PATH text="the hills of Lucira" end="256" start="237" id="P4"/>
+        <PATH text="for Tambor and Omauha" end="300" start="279" id="P5"/>
+        <PATH text="in direction of Iona and the confluence point 17S 12E" end="1033" start="980" id="P7"/>
+        <PATH text="to 400 m" end="1413" start="1405" id="P9"/>
+        <PATH text="slightly down to 300 m" end="1442" start="1420" id="P10"/>
+        <PATH text="towards the confluence point" end="1491" start="1463" id="P11"/>
+        <PATH text="the objective 17S 12E" end="1615" start="1594" id="P12"/>
+        <PATH text="the remaining distance" end="2677" start="2655" id="P17"/>
+        <PATH text="into Tombwa" end="2724" start="2713" id="P18"/>
+        <PATH text="the confluence point" end="481" start="461" id="P6"/>
+        <PATH text="from the delta of the river Cunene" end="595" start="561" id="P13"/>
+        <PATH text="along the coast of the desert of Namibe" end="643" start="604" id="P19"/>
+        <PATH text="at the villa of Tombwa" end="682" start="660" id="P20"/>
+        <PATH text="that" end="1291" start="1287" id="P21"/>
+        <PATH text="to the Cunene delta" end="2167" start="2148" id="P22"/>
+        <PATH text="the 155 km of coast of the Namibe desert" end="2226" start="2186" id="P23"/>
+        <PATH text="to the Cunene river delta" end="1710" start="1685" id="P24"/>
+        <DIRECTION text="south" end="97" start="92" id="DIR0"/>
+        <DIRECTION text="west" end="1462" start="1458" id="DIR1"/>
+        <DISTANCE text="close" end="2030" start="2025" id="DIS0"/>
+        <DISTANCE text="155 km" end="2196" start="2190" id="DIS1"/>
+        <DISTANCE text="68 km" end="2393" start="2388" id="DIS2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="DIR0" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L1" trajector_id="T2" id="SR4"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T2" id="SR5"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR6"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L3" trajector_id="T5" id="SR7"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L4" trajector_id="T6" id="SR8"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L2" trajector_id="T4" id="SR9"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L5" trajector_id="T7" id="SR10"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L6" trajector_id="T8" id="SR11"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L7" trajector_id="T9" id="SR12"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S7" landmark_id="L8" trajector_id="T10" id="SR13"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L9" trajector_id="T11" id="SR14"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P7" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T12" id="SR15"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP-1" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S9" landmark_id="L10" trajector_id="T13" id="SR16"/>
+        <RELATION FoR="relative" relative_value="ABOVE" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P9" direction_id="" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR19"/>
+        <RELATION FoR="relative" relative_value="BELOW" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P10" direction_id="" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR20"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="West" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P11" direction_id="DIR1" motion_id="M9" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR21"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P12" direction_id="" motion_id="M10" spatial_indicator_id="" landmark_id="" trajector_id="T18" id="SR22"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS0" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S16" landmark_id="L11" trajector_id="T20" id="SR24"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S11" landmark_id="L12" trajector_id="T20" id="SR25"/>
+        <RELATION FoR="intrinsic" relative_value="FRONT" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION/DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S12" landmark_id="L13" trajector_id="T23" id="SR28"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P17" direction_id="" motion_id="M14" spatial_indicator_id="" landmark_id="" trajector_id="T24" id="SR29"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P18" direction_id="" motion_id="M15" spatial_indicator_id="" landmark_id="" trajector_id="T24" id="SR30"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S14" landmark_id="L15" trajector_id="T26" id="SR32"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L0" trajector_id="T14" id="SR2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L16" trajector_id="T17" id="SR17"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T22" id="SR33"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P13" direction_id="" motion_id="M16" spatial_indicator_id="" landmark_id="" trajector_id="T28" id="SR34"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P19" direction_id="" motion_id="M17" spatial_indicator_id="" landmark_id="" trajector_id="T28" id="SR35"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P20" direction_id="" motion_id="M18" spatial_indicator_id="" landmark_id="" trajector_id="T27" id="SR36"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P21" direction_id="" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T16" id="SR37"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L17" trajector_id="T29" id="SR38"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S13" landmark_id="L19" trajector_id="T30" id="SR39"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S15" landmark_id="L18" trajector_id="T31" id="SR40"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P22" direction_id="" motion_id="M12" spatial_indicator_id="" landmark_id="" trajector_id="T21" id="SR41"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS1" path_id="P23" direction_id="" motion_id="M19" spatial_indicator_id="" landmark_id="" trajector_id="T21" id="SR42"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS2" path_id="" direction_id="" motion_id="M13" spatial_indicator_id="" landmark_id="" trajector_id="T23" id="SR43"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P24" direction_id="" motion_id="M11" spatial_indicator_id="" landmark_id="" trajector_id="T19" id="SR44"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L20" trajector_id="T32" id="SR45"/>
+    </TAGS>
+</SpRL>

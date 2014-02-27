@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=17109</URL>
+    <CP>57°N 8°E</CP>
+    <TEXT>
+28-Apr-2002 -- On our way from Argentina to Saint Petersburg, today, after 21 days of navigation, we entered the Skagerrak (Skaw), the strait between Skandinavia and Denmark.
+
+Shortly before, in the SW, there is the confluence 57°N/8°E, and due the fine weather and the exceptional good visibility the low coast of Jylland could be clearly discerned.
+
+According to the GPS we were only a 7 m NE of the confluence.
+
+In early times the Danes, of the same tribal origin as the Swedes, moved West to occupy what is now Jylland, in the 5th and 6th centuries AD. During the Viking period Danish Vikings attacked England, Scotland and Ireland, besieging London in 994. From the Middle Ages to the 17th century Denmark was primarily an agricultural country. It was the disintegration of the Scandinavian Union in the 15th and 16th centuries which resulted in the lasting Danish interest in the North Atlantic islands, her trade with Iceland, the Faeroes and Greenland. In the 17th century the Danes became established in the Caribbean and in the 18th century sugar refining became a major industry in Copenhagen.
+
+Late in the 19th century the opening up of the American prairies grain trade encouraged the Danes to make a rapid transition from grain production to intensive animal husbandry, thus doubling their output and trebling their export of livestock within a period of 20 years. Denmark acquired most of its present boundaries in 1815 after Norway was transferred to the Swedish crown the year before. It became a monarchy in 1849. During the Second World War Denmark was occupied by Germany from 1940 to 1945 and in postwar years made a marked industrial expansion.
+
+Hanstholm is the closest settlement and a small harbor. Unfortunately I could not go closer to make a better picture, as there are shoals around. So I submit a plan of this small port.
+
+Traffic is quite heavy here, everybody bound for or coming from the Baltic Sea is passing this corner. The car and truck ferry &quot;Tor Selandia&quot; from Gothenburg/Göteborg (Sweden) had the impertinence to even overtake us! Refrigerated cargo ships, as our one, carrying perishable goods are among the fastest ships in the world, so we are not very used to be overtaken by others. But it goes without saying that &quot;Tor Selandia&quot; could never ever had overtaken us if we went on maximum speed. We are currently running on reduced speed as we are not in a hurry :-)
+
+Today we had a visitor on the navigating bridge: It's Viktor, our refrigerating engineer, being responsible for the cooling plant and maintaining the proper temperatures in the cargo holds, therefore the most important man on board.
+
+&quot;Viktor Andriyevitch, why you are looking so melancholy?&quot;, we asked him. &quot;TOSKA PO RODINA ROSSIYA ..., homesick for Russia&quot;, he answered.
+
+Well, only a three days more to Saint Petersburg ... 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="we" end="101" start="99" id="T0"/>
+        <TRAJECTOR text="Argentina" end="41" start="32" id="T1"/>
+        <TRAJECTOR text="the strait" end="142" start="132" id="T2"/>
+        <TRAJECTOR text="Skandinavia" end="162" start="151" id="T3"/>
+        <TRAJECTOR text="the confluence 57°N/8°E" end="236" start="213" id="T4"/>
+        <TRAJECTOR text="we" end="376" start="374" id="T5"/>
+        <TRAJECTOR text="the Danes, of the same tribal origin as the Swedes" end="481" start="431" id="T6"/>
+        <TRAJECTOR text="Danish Vikings" end="597" start="583" id="T7"/>
+        <TRAJECTOR text="a major industry" end="1090" start="1074" id="T8"/>
+        <TRAJECTOR text="the closest settlement and a small harbor" end="1723" start="1682" id="T10"/>
+        <TRAJECTOR text="shoals" end="1806" start="1800" id="T11"/>
+        <TRAJECTOR text="everybody" end="1893" start="1884" id="T12"/>
+        <TRAJECTOR text="The car and truck ferry &quot;Tor Selandia&quot;" end="1996" start="1958" id="T13"/>
+        <TRAJECTOR text="&quot;Tor Selandia&quot;" end="2276" start="2262" id="T15"/>
+        <TRAJECTOR text="we" end="2316" start="2314" id="T16"/>
+        <TRAJECTOR text="We" end="2342" start="2340" id="T17"/>
+        <TRAJECTOR text="a visitor" end="2434" start="2425" id="T18"/>
+        <TRAJECTOR text="the most important man" end="2634" start="2612" id="T19"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T20"/>
+        <LANDMARK text="Saint Petersburg" end="61" start="45" id="L0"/>
+        <LANDMARK text="Skandinavia" end="162" start="151" id="L1"/>
+        <LANDMARK text="Denmark" end="174" start="167" id="L2"/>
+        <LANDMARK text="" end="-1" start="-1" id="L3"/>
+        <LANDMARK text="the confluence" end="413" start="399" id="L4"/>
+        <LANDMARK text="Copenhagen" end="1104" start="1094" id="L5"/>
+        <LANDMARK text="" end="-1" start="-1" id="L7"/>
+        <LANDMARK text="" end="-1" start="-1" id="L8"/>
+        <LANDMARK text="the navigating bridge" end="2459" start="2438" id="L10"/>
+        <LANDMARK text="board" end="2643" start="2638" id="L11"/>
+        <SPATIAL_INDICATOR text="to" end="44" start="42" id="S0"/>
+        <SPATIAL_INDICATOR text="between" end="150" start="143" id="S1"/>
+        <SPATIAL_INDICATOR text="and" end="166" start="163" id="S2"/>
+        <SPATIAL_INDICATOR text="in" end="195" start="193" id="S3"/>
+        <SPATIAL_INDICATOR text="of" end="398" start="396" id="S4"/>
+        <SPATIAL_INDICATOR text="in" end="1093" start="1091" id="S5"/>
+        <SPATIAL_INDICATOR text="around" end="1813" start="1807" id="S7"/>
+        <SPATIAL_INDICATOR text="on" end="2437" start="2435" id="S8"/>
+        <SPATIAL_INDICATOR text="on" end="2637" start="2635" id="S9"/>
+        <MOTION_INDICATOR text="our way" end="26" start="19" id="M0"/>
+        <MOTION_INDICATOR text="entered" end="109" start="102" id="M1"/>
+        <MOTION_INDICATOR text="moved" end="488" start="483" id="M2"/>
+        <MOTION_INDICATOR text="attacked" end="606" start="598" id="M3"/>
+        <MOTION_INDICATOR text="coming" end="1913" start="1907" id="M4"/>
+        <MOTION_INDICATOR text="passing" end="1944" start="1937" id="M5"/>
+        <MOTION_INDICATOR text="overtake" end="2068" start="2060" id="M6"/>
+        <MOTION_INDICATOR text="overtaken" end="2307" start="2298" id="M7"/>
+        <MOTION_INDICATOR text="went" end="2321" start="2317" id="M8"/>
+        <MOTION_INDICATOR text="running" end="2364" start="2357" id="M9"/>
+        <PATH text="from Argentina to Saint Petersburg" end="61" start="27" id="P1"/>
+        <PATH text="the Skagerrak (Skaw)" end="130" start="110" id="P2"/>
+        <PATH text="England, Scotland and Ireland" end="636" start="607" id="P3"/>
+        <PATH text="from the Baltic Sea" end="1933" start="1914" id="P4"/>
+        <PATH text="this corner" end="1956" start="1945" id="P5"/>
+        <PATH text="us" end="2071" start="2069" id="P6"/>
+        <PATH text="us" end="2310" start="2308" id="P7"/>
+        <PATH text="to Saint Petersburg" end="2833" start="2814" id="P8"/>
+        <DIRECTION text="the SW" end="202" start="196" id="DIR0"/>
+        <DIRECTION text="NE" end="395" start="393" id="DIR1"/>
+        <DIRECTION text="West" end="493" start="489" id="DIR2"/>
+        <DISTANCE text="Shortly before" end="191" start="177" id="DIS0"/>
+        <DISTANCE text="7 m" end="392" start="389" id="DIS1"/>
+        <DISTANCE text="closest" end="1693" start="1686" id="DIS2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T2" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L2" trajector_id="T2" id="SR4"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T3" id="SR5"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="SW" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="DIS0" quantitative_value="" path_id="" direction_id="DIR0" motion_id="" spatial_indicator_id="S3" landmark_id="L3" trajector_id="T4" id="SR6"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="NE" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="DIR1" motion_id="" spatial_indicator_id="S4" landmark_id="L4" trajector_id="T5" id="SR7"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="West" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR2" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T6" id="SR8"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR9"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L5" trajector_id="T8" id="SR10"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS2" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L7" trajector_id="T10" id="SR12"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP-1" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S7" landmark_id="L8" trajector_id="T11" id="SR13"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T12" id="SR14"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T12" id="SR15"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T13" id="SR16"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P7" direction_id="" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR17"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T16" id="SR18"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M9" spatial_indicator_id="" landmark_id="" trajector_id="T17" id="SR19"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L10" trajector_id="T18" id="SR20"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S9" landmark_id="L11" trajector_id="T19" id="SR21"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P8" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="" trajector_id="T20" id="SR22"/>
+    </TAGS>
+</SpRL>

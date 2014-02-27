@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?visitid=14210</URL>
+    <CP>17°S 54°W</CP>
+    <TEXT>
+22-Aug-2007 -- After visiting 17S-53W yesterday evening and driving to Santa Rita do Araguaia and then to Alto Garças, MT and stayed in a hotel at night. The confluence 17S-54W is less than 62 mi from there, the terrain is flat, the roads in the region are better and with all day to visit that CP, it was mandatory to do that.
+
+I left town and headed west on BR364. This highway has an intense traffic of trucks carrying cereals that are harvested in this large agricultural region. The main crops are corn, soy and cotton.
+
+After 37.3 mi, I turned left into a decent gravel road, heading south to the city of Itiquira. After 11.2 mi, near parallel 17S, I turned left towards the confluence. The GPS indicated 4.4 mi until the CP. This road serves the farms of the region. It had some curves and returns, but followed in direction of the confluence. I quickly drove to get close to CP and at 1.2 mi to the CP, there was a fence with a gate without a lock, so I entered the gate and continued in direction of the confluence. (The farms and ranches in Brazil seldom use the “No Trespassing” sign. It’s more common to see the sign “No hunting, No fishing”). The road ended at the house of Mr Silvio Vilela de Carvalho, the farm owner, 1,640 ft from the confluence.
+
+I told him what I was doing and asked for permission to go to the CP. Mr Silvio kindly joined me to walk until the CP. After crossing some streams and springs of crystalline waters, we arrived at the point in a native pasture, where I took the photos registering the visit and we returned to Mr. Silvio’s house where he gently prepared a delicious coffee.
+
+This region is an extensive plateau dominated by large farming of soy, corn and cotton. Intercalated in this plain area, there are some depressions and hills that are used for cattle pastures. At the proximities of the confluence there are two tall mounts that are the only elevations at the entire region, and are visible from a long distance. 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="" end="-1" start="-1" id="T0"/>
+        <TRAJECTOR text="The confluence 17S-54W" end="177" start="155" id="T1"/>
+        <TRAJECTOR text="I" end="331" start="330" id="T2"/>
+        <TRAJECTOR text="I" end="543" start="542" id="T4"/>
+        <TRAJECTOR text="I" end="657" start="656" id="T5"/>
+        <TRAJECTOR text="It" end="777" start="775" id="T6"/>
+        <TRAJECTOR text="I" end="853" start="852" id="T7"/>
+        <TRAJECTOR text="a fence with a gate without a lock" end="956" start="922" id="T9"/>
+        <TRAJECTOR text="I" end="962" start="961" id="T10"/>
+        <TRAJECTOR text="The road" end="1165" start="1157" id="T11"/>
+        <TRAJECTOR text="Mr Silvio" end="1344" start="1335" id="T12"/>
+        <TRAJECTOR text="we" end="1449" start="1447" id="T13"/>
+        <TRAJECTOR text="we" end="1544" start="1542" id="T14"/>
+        <TRAJECTOR text="some depressions and hills" end="1779" start="1753" id="T16"/>
+        <TRAJECTOR text="the proximities of the confluence" end="1851" start="1818" id="T18"/>
+        <TRAJECTOR text="the roads" end="239" start="230" id="T3"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T8"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T15"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T17"/>
+        <TRAJECTOR text="the farms" end="759" start="750" id="T19"/>
+        <TRAJECTOR text="The farms and ranches" end="1048" start="1027" id="T20"/>
+        <TRAJECTOR text="I" end="1282" start="1281" id="T21"/>
+        <TRAJECTOR text="the point" end="1470" start="1461" id="T22"/>
+        <TRAJECTOR text="where" end="1497" start="1492" id="T23"/>
+        <TRAJECTOR text="where" end="1581" start="1576" id="T24"/>
+        <TRAJECTOR text="This region" end="1633" start="1622" id="T25"/>
+        <TRAJECTOR text="that" end="1882" start="1878" id="T26"/>
+        <TRAJECTOR text="the only elevations" end="1906" start="1887" id="T27"/>
+        <LANDMARK text="a hotel" end="144" start="137" id="L1"/>
+        <LANDMARK text="there" end="207" start="202" id="L2"/>
+        <LANDMARK text="17S" end="654" start="651" id="L4"/>
+        <LANDMARK text="the confluence" end="850" start="836" id="L5"/>
+        <LANDMARK text="the CP" end="910" start="904" id="L6"/>
+        <LANDMARK text="the house of Mr Silvio Vilela de Carvalho, the farm owner" end="1232" start="1175" id="L7"/>
+        <LANDMARK text="the confluence" end="1262" start="1248" id="L8"/>
+        <LANDMARK text="this plain area" end="1741" start="1726" id="L9"/>
+        <LANDMARK text="two tall mounts" end="1877" start="1862" id="L10"/>
+        <LANDMARK text="the region" end="253" start="243" id="L0"/>
+        <LANDMARK text="this large agricultural region" end="483" start="453" id="L11"/>
+        <LANDMARK text="the CP" end="731" start="725" id="L12"/>
+        <LANDMARK text="the region" end="773" start="763" id="L13"/>
+        <LANDMARK text="Brazil" end="1058" start="1052" id="L14"/>
+        <LANDMARK text="a native pasture" end="1490" start="1474" id="L15"/>
+        <LANDMARK text="Mr. Silvio’s house" end="1575" start="1557" id="L16"/>
+        <LANDMARK text="an extensive plateau" end="1657" start="1637" id="L17"/>
+        <LANDMARK text="that" end="1882" start="1878" id="L18"/>
+        <LANDMARK text="the entire region" end="1927" start="1910" id="L19"/>
+        <SPATIAL_INDICATOR text="in" end="136" start="134" id="S0"/>
+        <SPATIAL_INDICATOR text="from" end="201" start="197" id="S1"/>
+        <SPATIAL_INDICATOR text="near parallel" end="650" start="637" id="S2"/>
+        <SPATIAL_INDICATOR text="followed in direction of" end="835" start="811" id="S4"/>
+        <SPATIAL_INDICATOR text="to" end="903" start="901" id="S5"/>
+        <SPATIAL_INDICATOR text="at" end="1174" start="1172" id="S6"/>
+        <SPATIAL_INDICATOR text="from" end="1247" start="1243" id="S7"/>
+        <SPATIAL_INDICATOR text="Intercalated in" end="1725" start="1710" id="S8"/>
+        <SPATIAL_INDICATOR text="At" end="1817" start="1815" id="S9"/>
+        <SPATIAL_INDICATOR text="in" end="242" start="240" id="S3"/>
+        <SPATIAL_INDICATOR text="in" end="452" start="450" id="S10"/>
+        <SPATIAL_INDICATOR text="until" end="724" start="719" id="S11"/>
+        <SPATIAL_INDICATOR text="of" end="762" start="760" id="S12"/>
+        <SPATIAL_INDICATOR text="in" end="1051" start="1049" id="S13"/>
+        <SPATIAL_INDICATOR text="in" end="1473" start="1471" id="S15"/>
+        <SPATIAL_INDICATOR text="at" end="1909" start="1907" id="S16"/>
+        <MOTION_INDICATOR text="visiting" end="30" start="22" id="M0"/>
+        <MOTION_INDICATOR text="driving" end="68" start="61" id="M1"/>
+        <MOTION_INDICATOR text="left" end="336" start="332" id="M2"/>
+        <MOTION_INDICATOR text="headed" end="352" start="346" id="M3"/>
+        <MOTION_INDICATOR text="turned" end="550" start="544" id="M5"/>
+        <MOTION_INDICATOR text="heading" end="590" start="583" id="M6"/>
+        <MOTION_INDICATOR text="turned" end="664" start="658" id="M7"/>
+        <MOTION_INDICATOR text="drove" end="867" start="862" id="M8"/>
+        <MOTION_INDICATOR text="entered" end="970" start="963" id="M9"/>
+        <MOTION_INDICATOR text="continued" end="993" start="984" id="M10"/>
+        <MOTION_INDICATOR text="walk" end="1369" start="1365" id="M11"/>
+        <MOTION_INDICATOR text="crossing" end="1398" start="1390" id="M12"/>
+        <MOTION_INDICATOR text="arrived" end="1457" start="1450" id="M13"/>
+        <MOTION_INDICATOR text="returned" end="1553" start="1545" id="M14"/>
+        <MOTION_INDICATOR text="visit" end="290" start="285" id="M4"/>
+        <MOTION_INDICATOR text="go" end="1323" start="1321" id="M15"/>
+        <PATH text="17S-53W" end="38" start="31" id="P0"/>
+        <PATH text="to Santa Rita do Araguaia and then to Alto Garças, MT" end="122" start="69" id="P1"/>
+        <PATH text="town" end="341" start="337" id="P2"/>
+        <PATH text="on BR364" end="366" start="358" id="P3"/>
+        <PATH text="into a decent gravel road" end="581" start="556" id="P4"/>
+        <PATH text="to the city of Itiquira" end="620" start="597" id="P5"/>
+        <PATH text="towards the confluence" end="692" start="670" id="P6"/>
+        <PATH text="to CP" end="886" start="881" id="P7"/>
+        <PATH text="the gate" end="979" start="971" id="P8"/>
+        <PATH text="in direction of the confluence" end="1024" start="994" id="P9"/>
+        <PATH text="until the CP" end="1382" start="1370" id="P11"/>
+        <PATH text="some streams and springs of crystalline waters" end="1445" start="1399" id="P12"/>
+        <PATH text="at the point in a native pasture" end="1490" start="1458" id="P13"/>
+        <PATH text="to Mr. Silvio’s house" end="1575" start="1554" id="P14"/>
+        <PATH text="that CP" end="298" start="291" id="P10"/>
+        <PATH text="to the CP" end="1333" start="1324" id="P15"/>
+        <DIRECTION text="west" end="357" start="353" id="DIR0"/>
+        <DIRECTION text="left" end="555" start="551" id="DIR1"/>
+        <DIRECTION text="south" end="596" start="591" id="DIR2"/>
+        <DIRECTION text="left" end="669" start="665" id="DIR3"/>
+        <DISTANCE text="less than 62 mi" end="196" start="181" id="DIS0"/>
+        <DISTANCE text="37.3 mi" end="540" start="533" id="DIS1"/>
+        <DISTANCE text="11.2 mi" end="635" start="628" id="DIS2"/>
+        <DISTANCE text="1.2 mi" end="900" start="894" id="DIS3"/>
+        <DISTANCE text="1,640 ft" end="1242" start="1234" id="DIS4"/>
+        <DISTANCE text="4.4 mi" end="718" start="712" id="DIS5"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR1"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L1" trajector_id="T0" id="SR2"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L2" trajector_id="T1" id="SR3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T2" id="SR4"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="West" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="DIR0" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T2" id="SR5"/>
+        <RELATION FoR="relative" relative_value="LEFT" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="DIR1" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR6"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="DIR2" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR7"/>
+        <RELATION FoR="relative" relative_value="LEFT" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION/DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="DIR3" motion_id="" spatial_indicator_id="S2" landmark_id="L4" trajector_id="T5" id="SR8"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L5" trajector_id="T6" id="SR9"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P7" direction_id="" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR10"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS3" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L6" trajector_id="T9" id="SR11"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P8" direction_id="" motion_id="M9" spatial_indicator_id="" landmark_id="" trajector_id="T10" id="SR12"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P9" direction_id="" motion_id="M10" spatial_indicator_id="" landmark_id="" trajector_id="T10" id="SR13"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L7" trajector_id="T11" id="SR14"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS4" path_id="" direction_id="" motion_id="" spatial_indicator_id="S7" landmark_id="L8" trajector_id="T11" id="SR15"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P11" direction_id="" motion_id="M11" spatial_indicator_id="" landmark_id="" trajector_id="T12" id="SR16"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P12" direction_id="" motion_id="M12" spatial_indicator_id="" landmark_id="" trajector_id="T13" id="SR17"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P13" direction_id="" motion_id="M13" spatial_indicator_id="" landmark_id="" trajector_id="T13" id="SR18"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P14" direction_id="" motion_id="M14" spatial_indicator_id="" landmark_id="" trajector_id="T14" id="SR19"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L9" trajector_id="T16" id="SR20"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S9" landmark_id="L10" trajector_id="T18" id="SR21"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L0" trajector_id="T3" id="SR22"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P10" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T8" id="SR23"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L11" trajector_id="T15" id="SR24"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS5" path_id="" direction_id="" motion_id="" spatial_indicator_id="S11" landmark_id="L12" trajector_id="T17" id="SR25"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S12" landmark_id="L13" trajector_id="T19" id="SR26"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S13" landmark_id="L14" trajector_id="T20" id="SR27"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P15" direction_id="" motion_id="M15" spatial_indicator_id="" landmark_id="" trajector_id="T21" id="SR28"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S15" landmark_id="L15" trajector_id="T22" id="SR29"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L15" trajector_id="T23" id="SR30"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L16" trajector_id="T24" id="SR31"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L17" trajector_id="T25" id="SR32"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L10" trajector_id="T26" id="SR33"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L18" trajector_id="T27" id="SR34"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S16" landmark_id="L19" trajector_id="T27" id="SR35"/>
+    </TAGS>
+</SpRL>

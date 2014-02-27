@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=1951</URL>
+    <CP>52°N 5°E</CP>
+    <TEXT>
+05-Apr-2008 -- Having spent the night in Aachen we went to the Netherlands in the morning with a friend to attend the GeoCaching Multi Event 2008, an international meeting of geocachers. Since the confluence point N52° E005° is located just a few kilometres from the highway we were using we decided to revisit this point.
+
+At about 10:45 a.m. we parked our rental car at the northern side of the roundabout where the confluence point is located. Some rain was drizzling as we were taking the necessary photos, but due to the great GPS reception (using EGNOS we were getting an EPE of 2m) it was easy to locate the exact position.
+
+No obvious changes were made to the area since our visit back in october 2003. Some confluence inhabitants were watching us from the nearby meadow.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="we" end="51" start="49" id="T0"/>
+        <TRAJECTOR text="the confluence point N52° E005°" end="225" start="194" id="T1"/>
+        <TRAJECTOR text="our rental car" end="369" start="355" id="T3"/>
+        <TRAJECTOR text="the confluence point" end="435" start="415" id="T4"/>
+        <TRAJECTOR text="we" end="292" start="290" id="T5"/>
+        <TRAJECTOR text="where" end="414" start="409" id="T6"/>
+        <TRAJECTOR text="Some confluence inhabitants" end="739" start="712" id="T7"/>
+        <LANDMARK text="the highway" end="275" start="264" id="L0"/>
+        <LANDMARK text="Aachen" end="48" start="42" id="L3"/>
+        <LANDMARK text="the roundabout" end="408" start="394" id="L4"/>
+        <LANDMARK text="where" end="414" start="409" id="L5"/>
+        <LANDMARK text="the nearby meadow" end="779" start="762" id="L1"/>
+        <SPATIAL_INDICATOR text="from" end="263" start="259" id="S0"/>
+        <SPATIAL_INDICATOR text="at" end="372" start="370" id="S1"/>
+        <SPATIAL_INDICATOR text="in" end="41" start="39" id="S3"/>
+        <SPATIAL_INDICATOR text="located" end="446" start="439" id="S5"/>
+        <SPATIAL_INDICATOR text="from" end="761" start="757" id="S2"/>
+        <MOTION_INDICATOR text="went" end="56" start="52" id="M0"/>
+        <MOTION_INDICATOR text="revisit" end="311" start="304" id="M1"/>
+        <PATH text="to the Netherlands" end="75" start="57" id="P0"/>
+        <PATH text="this point" end="322" start="312" id="P1"/>
+        <DIRECTION text="the northern side" end="390" start="373" id="DIR0"/>
+        <DISTANCE text="a few kilometres" end="258" start="242" id="DIS0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L0" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L3" trajector_id="T0" id="SR5"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L5" trajector_id="T4" id="SR8"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L4" trajector_id="T6" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L1" trajector_id="T7" id="SR4"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="North" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR0" motion_id="" spatial_indicator_id="S1" landmark_id="L4" trajector_id="T3" id="SR9"/>
+    </TAGS>
+</SpRL>

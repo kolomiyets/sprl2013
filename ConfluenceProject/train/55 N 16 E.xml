@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=24750</URL>
+    <CP>55°N 16°E</CP>
+    <TEXT>
+22-Jan-2004 -- After more than three weeks discharging in Königsberg/Kaliningrad (Russia), we left this port on 21st January late evening. As our next employment is still unknown, the owners of the ship decided to send us to Mukran (Germany), in order to replenish us with provisions and stores there.
+
+Mukran is today used as the ferry port for Sassnitz (Rügen Island). Most ferries go to Trelleborg (Sweden) and some to Klaipeda (Lithuania). When the German Democratic Republic was still in existence (until 1989), Mukran was used by the Soviet Red Army for its shipments of military equipment to East Germany. Mukran is therefore the only port in Western Europe being able to receive and handle the Russian wide gauge railway trucks.
+
+55N16E is usually &quot;nowhere&quot;, but on clear winter days the visibility in the Baltic Sea can be amazing. So I expected to see something, even on a distance of more then 50 km.
+
+When I had a first look out of my bulleye this morning, I was surprised to see the Polish coast so well, far better then the Island of Bornholm, lying a 7 km or so closer to the confluence than the Polish mainland.
+
+The reason for the Polish coast appearing closer is a mirage effect towards the low sun, which can be clearly proved by the fact how well the wind rotors in the area of Jaroslawiec/Jershöft and Darlowo/Rügenwalde can be seen. Under normal circumstances they would not be visible at all.
+
+Frequent snowfall in Königsberg/Kaliningrad turned our ship into a romantic winter resort. Since many years I am complaining about the fact that seamen usually suffer from a lack of physical activity due to the restricted sports facilities on board. For sports we have available on board only a selfmade pool billard, a TV-set, some cases of beer and plenty bottles of Scotch. So I decided today to change that and ordered the crew to remove the snow from the Upper Deck.
+
+That is fun! - especially for the younger ones of my Filipino crew, coming from a tropical country around 12° North of the Equator. Most of them had never seen snow so far and certainly they had never to remove some! They still have to exercise. Frequently they have been told never to work &quot;against&quot; the wind. I explained them many times &quot;either you are vomiting when seasick or when having a piss, - do it always &quot;with&quot; the wind, and never &quot;against&quot; it!&quot; But they are lacking abstract thinking, so they make the same beginners' mistake with the snow. Shovelling it to the wrong direction causes immediate return onto their faces. But probably they like it this way???
+
+Cadet Ernesto is exempted from snow removal. His assigned duty is sweeping the navigation bridge, in order to develop a good sense for cleanliness, being essential for a future officer. And he learns the benefits one can enjoy when deciding himself for the officer's career. Sweeping with a corn broom instead of shovelling snow :-) 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="we" end="94" start="92" id="T0"/>
+        <TRAJECTOR text="us" end="222" start="220" id="T1"/>
+        <TRAJECTOR text="Most ferries" end="384" start="372" id="T2"/>
+        <TRAJECTOR text="some" end="419" start="415" id="T3"/>
+        <TRAJECTOR text="military equipment" end="596" start="578" id="T4"/>
+        <TRAJECTOR text="the only port" end="647" start="634" id="T5"/>
+        <TRAJECTOR text="the Island of Bornholm" end="1057" start="1035" id="T6"/>
+        <TRAJECTOR text="the wind rotors" end="1283" start="1268" id="T7"/>
+        <TRAJECTOR text="Frequent snowfall" end="1435" start="1418" id="T8"/>
+        <TRAJECTOR text="the restricted sports facilities" end="1657" start="1625" id="T10"/>
+        <TRAJECTOR text="a selfmade pool billard, a TV-set, some cases of beer and plenty bottles of Scotch" end="1793" start="1711" id="T11"/>
+        <TRAJECTOR text="the snow" end="1868" start="1860" id="T12"/>
+        <TRAJECTOR text="a tropical country" end="1989" start="1971" id="T13"/>
+        <TRAJECTOR text="it" end="2457" start="2455" id="T14"/>
+        <LANDMARK text="Königsberg/Kaliningrad (Russia)" end="90" start="59" id="L0"/>
+        <LANDMARK text="Western Europe" end="665" start="651" id="L1"/>
+        <LANDMARK text="the confluence" end="1102" start="1088" id="L2"/>
+        <LANDMARK text="the area of Jaroslawiec/Jershöft and Darlowo/Rügenwalde" end="1342" start="1287" id="L3"/>
+        <LANDMARK text="Königsberg/Kaliningrad" end="1461" start="1439" id="L4"/>
+        <LANDMARK text="board" end="1666" start="1661" id="L5"/>
+        <LANDMARK text="board" end="1705" start="1700" id="L6"/>
+        <LANDMARK text="the Equator" end="2021" start="2010" id="L7"/>
+        <SPATIAL_INDICATOR text="in" end="58" start="56" id="S0"/>
+        <SPATIAL_INDICATOR text="in" end="650" start="648" id="S2"/>
+        <SPATIAL_INDICATOR text="to" end="1087" start="1085" id="S3"/>
+        <SPATIAL_INDICATOR text="in" end="1286" start="1284" id="S4"/>
+        <SPATIAL_INDICATOR text="in" end="1438" start="1436" id="S5"/>
+        <SPATIAL_INDICATOR text="on" end="1660" start="1658" id="S6"/>
+        <SPATIAL_INDICATOR text="on" end="1699" start="1697" id="S7"/>
+        <SPATIAL_INDICATOR text="of" end="2009" start="2007" id="S9"/>
+        <MOTION_INDICATOR text="left" end="99" start="95" id="M0"/>
+        <MOTION_INDICATOR text="send" end="219" start="215" id="M1"/>
+        <MOTION_INDICATOR text="go" end="387" start="385" id="M2"/>
+        <MOTION_INDICATOR text="shipments" end="574" start="565" id="M3"/>
+        <MOTION_INDICATOR text="remove" end="1859" start="1853" id="M4"/>
+        <MOTION_INDICATOR text="Shovelling" end="2454" start="2444" id="M5"/>
+        <MOTION_INDICATOR text="return" end="2504" start="2498" id="M6"/>
+        <PATH text="this port" end="109" start="100" id="P0"/>
+        <PATH text="to Mukran (Germany)" end="242" start="223" id="P1"/>
+        <PATH text="to Trelleborg (Sweden)" end="410" start="388" id="P2"/>
+        <PATH text="to Klaipeda (Lithuania)" end="443" start="420" id="P3"/>
+        <PATH text="to East Germany" end="612" start="597" id="P4"/>
+        <PATH text="from the Upper Deck" end="1888" start="1869" id="P5"/>
+        <PATH text="to the wrong direction" end="2480" start="2458" id="P6"/>
+        <PATH text="onto their faces" end="2521" start="2505" id="P7"/>
+        <DIRECTION text="North" end="2006" start="2001" id="DIR0"/>
+        <DISTANCE text="a 7 km or so closer" end="1084" start="1065" id="DIS0"/>
+        <DISTANCE text="around 12° North" end="2006" start="1990" id="DIS1"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T2" id="SR3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR4"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR5"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L2" trajector_id="T6" id="SR6"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L3" trajector_id="T7" id="SR7"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L4" trajector_id="T8" id="SR8"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L5" trajector_id="T10" id="SR9"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S7" landmark_id="L6" trajector_id="T11" id="SR10"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T12" id="SR11"/>
+        <RELATION FoR="" relative_value="" absolute_value="North" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="DIS1" quantitative_value="" path_id="" direction_id="DIR0" motion_id="" spatial_indicator_id="S9" landmark_id="L7" trajector_id="T13" id="SR12"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T14" id="SR13"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P7" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T14" id="SR14"/>
+    </TAGS>
+</SpRL>

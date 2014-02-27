@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=8057</URL>
+    <CP>55°N 10°E</CP>
+    <TEXT>
+18-May-2002 -- Whitsuntide 2002, the time for our traditional meeting with good old friends at a private small beach of the Baltic sea in Denmark.
+
+Our inflatable boat at hand we watched the map and, oh what a surprise, there is a confluence not far away and unvisited because of lying in the water.
+
+This is our aim. Sunny weather above, some people watching our preparations beside and the fairway of a ferry ahead we started canoing the 1.3 km distance to the confluence.
+
+No wind and only some waves coming from crossing motorboats made the tour an easy one. Arriving just a quarter of an hour after our start the finetuning went like this: Wolfgang adjusted the course and Silke gave the direction and took the pictures from the front of the raft.
+
+No special incidents made this trip a very nice one. Fortunately we did not go overboard because the Baltic sea was only 16 °C &quot;warm&quot;. 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="a private small beach" end="117" start="96" id="T0"/>
+        <TRAJECTOR text="a confluence" end="242" start="230" id="T1"/>
+        <TRAJECTOR text="we" end="420" start="418" id="T2"/>
+        <TRAJECTOR text="waves" end="504" start="499" id="T3"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T4"/>
+        <TRAJECTOR text="Silke" end="684" start="679" id="T5"/>
+        <LANDMARK text="the Baltic sea" end="135" start="121" id="L0"/>
+        <LANDMARK text="Denmark" end="146" start="139" id="L1"/>
+        <LANDMARK text="" end="-1" start="-1" id="L2"/>
+        <LANDMARK text="the water" end="299" start="290" id="L3"/>
+        <LANDMARK text="the raft" end="752" start="744" id="L4"/>
+        <SPATIAL_INDICATOR text="of" end="120" start="118" id="S0"/>
+        <SPATIAL_INDICATOR text="in" end="138" start="136" id="S1"/>
+        <SPATIAL_INDICATOR text="in" end="289" start="287" id="S2"/>
+        <SPATIAL_INDICATOR text="the front of" end="743" start="731" id="S3"/>
+        <MOTION_INDICATOR text="canoing" end="436" start="429" id="M0"/>
+        <MOTION_INDICATOR text="coming" end="511" start="505" id="M1"/>
+        <MOTION_INDICATOR text="Arriving" end="572" start="564" id="M2"/>
+        <PATH text="to the confluence" end="474" start="457" id="P0"/>
+        <PATH text="from crossing motorboats" end="536" start="512" id="P1"/>
+        <DISTANCE text="not far away" end="255" start="243" id="DIS0"/>
+        <DISTANCE text="the 1.3 km distance" end="456" start="437" id="DIS1"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T0" id="SR1"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS0" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L2" trajector_id="T1" id="SR2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L3" trajector_id="T1" id="SR3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS1" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T2" id="SR4"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR5"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR6"/>
+        <RELATION FoR="relative" relative_value="FRONT" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L4" trajector_id="T5" id="SR7"/>
+    </TAGS>
+</SpRL>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <CP>52N 5E</CP>
+    <TEXT>
+06-Jul-2012 -- A short detour on our trip from Frimley (England) to Havelte (Netherlands) for the Dutch Radio-orienteering Championships this confluence was just too close to our route to miss out.
+
+We could have done the whole visit without getting out of the car - but that would have been a shame as it was a lovely warm and sunny evening - after what seems like weeks of cold and rain.
+
+Although currently a rural/agricultural location there is lots of new development around, spreading from the east - so perhaps the confluence roundabout is in preparation.
+
+We had an audience of curious and excitable heifers and bullocks who paid close attention to our visit. Perhaps they thought we might have food. 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="assumed we" end="-1" start="-1" id="T0"/>
+        <TRAJECTOR text="this confluence" end="153" start="138" id="T1"/>
+        <TRAJECTOR text="lots of new development" end="473" start="450" id="T2"/>
+        <TRAJECTOR text="We" end="202" start="200" id="T3"/>
+        <LANDMARK text="a rural/agricultural location" end="440" start="411" id="L1"/>
+        <LANDMARK text="our route" end="185" start="176" id="L0"/>
+        <SPATIAL_INDICATOR text="to" end="175" start="173" id="S0"/>
+        <SPATIAL_INDICATOR text="spreading from" end="496" start="482" id="S1"/>
+        <MOTION_INDICATOR text="our trip" end="42" start="34" id="M0"/>
+        <MOTION_INDICATOR text="the whole visit" end="234" start="219" id="M2"/>
+        <PATH text="from Frimley (England) to Havelte (Netherlands)" end="90" start="43" id="P0"/>
+        <DIRECTION text="the east" end="505" start="497" id="DIR0"/>
+        <DISTANCE text="just too close" end="172" start="158" id="DIS0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS0" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T1" id="SR2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR3"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="East" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR0" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T2" id="SR1"/>
+    </TAGS>
+</SpRL>

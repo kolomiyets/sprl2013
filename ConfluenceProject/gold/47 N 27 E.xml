@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=9804</URL>
+    <CP>47°N 27°E</CP>
+    <TEXT>
+12-Aug-2004 -- We visited this confluence on our way home from 48N 28E. We took the bus from Chisinau (Moldova) to Roman, the town 10 kilometers from the confluence. We got ourselves a lift to Burueneşti, a small village just three kilometers from the confluence.
+
+One of us waited with the car, the other one (me) went to take the pictures the confluence last 2-3 kilometers. I literally had to run, because the car would wait only short time. Burueneşti lies at the River Siret, and the confluence on a plateau northeast of it.
+
+When reached the top of the slope and caught a first glimpse of the plateau I was a bit disappointed: again nothing but large cornfields. Luckily the confluence lies actually between and not in the middle of the fields.
+
+Near the spot local villagers were guarding their cows.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="We" end="18" start="16" id="T0"/>
+        <TRAJECTOR text="We" end="75" start="73" id="T1"/>
+        <TRAJECTOR text="the town" end="131" start="123" id="T2"/>
+        <TRAJECTOR text="a small village" end="221" start="206" id="T4"/>
+        <TRAJECTOR text="the other one" end="310" start="297" id="T6"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T7"/>
+        <TRAJECTOR text="I" end="379" start="378" id="T8"/>
+        <TRAJECTOR text="Burueneşti" end="456" start="446" id="T9"/>
+        <TRAJECTOR text="the confluence" end="500" start="486" id="T10"/>
+        <TRAJECTOR text="it" end="529" start="527" id="T11"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T12"/>
+        <TRAJECTOR text="the top" end="552" start="545" id="T13"/>
+        <TRAJECTOR text="the confluence" end="692" start="678" id="T15"/>
+        <TRAJECTOR text="the spot" end="766" start="758" id="T16"/>
+        <TRAJECTOR text="One of us" end="275" start="266" id="T5"/>
+        <TRAJECTOR text="We" end="169" start="167" id="T3"/>
+        <TRAJECTOR text="a plateau" end="513" start="504" id="T14"/>
+        <LANDMARK text="Roman" end="121" start="116" id="L0"/>
+        <LANDMARK text="the confluence" end="165" start="151" id="L1"/>
+        <LANDMARK text="Burueneşti" end="204" start="194" id="L2"/>
+        <LANDMARK text="the confluence" end="263" start="249" id="L3"/>
+        <LANDMARK text="the car" end="295" start="288" id="L4"/>
+        <LANDMARK text="the River Siret" end="480" start="465" id="L6"/>
+        <LANDMARK text="a plateau northeast of it" end="529" start="504" id="L7"/>
+        <LANDMARK text="the slope" end="565" start="556" id="L9"/>
+        <LANDMARK text="" end="-1" start="-1" id="L10"/>
+        <LANDMARK text="the fields" end="750" start="740" id="L11"/>
+        <LANDMARK text="local villagers" end="782" start="767" id="L12"/>
+        <LANDMARK text="it" end="529" start="527" id="L5"/>
+        <SPATIAL_INDICATOR text="from" end="150" start="146" id="S0"/>
+        <SPATIAL_INDICATOR text="from" end="248" start="244" id="S1"/>
+        <SPATIAL_INDICATOR text="with" end="287" start="283" id="S2"/>
+        <SPATIAL_INDICATOR text="lies at" end="464" start="457" id="S3"/>
+        <SPATIAL_INDICATOR text="on" end="503" start="501" id="S4"/>
+        <SPATIAL_INDICATOR text="of" end="555" start="553" id="S5"/>
+        <SPATIAL_INDICATOR text="in the middle of" end="739" start="723" id="S6"/>
+        <MOTION_INDICATOR text="visited" end="26" start="19" id="M0"/>
+        <MOTION_INDICATOR text="a lift" end="190" start="184" id="M3"/>
+        <MOTION_INDICATOR text="went" end="320" start="316" id="M4"/>
+        <MOTION_INDICATOR text="run" end="400" start="397" id="M5"/>
+        <MOTION_INDICATOR text="reached" end="544" start="537" id="M6"/>
+        <MOTION_INDICATOR text="our way" end="53" start="46" id="M1"/>
+        <MOTION_INDICATOR text="took the bus" end="88" start="76" id="M2"/>
+        <PATH text="this confluence" end="42" start="27" id="P0"/>
+        <PATH text="to Burueneşti" end="204" start="191" id="P2"/>
+        <PATH text="the confluence" end="356" start="342" id="P3"/>
+        <PATH text="the top of the slope" end="565" start="545" id="P4"/>
+        <PATH text="home from 48N 28E" end="71" start="54" id="P5"/>
+        <PATH text="from Chisinau (Moldova) to Roman" end="121" start="89" id="P1"/>
+        <DIRECTION text="northeast" end="523" start="514" id="DIR0"/>
+        <DISTANCE text="10 kilometers" end="145" start="132" id="DIS0"/>
+        <DISTANCE text="just three kilometers" end="243" start="222" id="DIS1"/>
+        <DISTANCE text="last 2-3 kilometers" end="376" start="357" id="DIS2"/>
+        <DISTANCE text="Near" end="757" start="753" id="DIS3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L0" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L1" trajector_id="T2" id="SR3"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L3" trajector_id="T4" id="SR6"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS2" path_id="P3" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T6" id="SR8"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T8" id="SR10"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L6" trajector_id="T9" id="SR11"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L7" trajector_id="T10" id="SR12"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L6" trajector_id="T11" id="SR13"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T12" id="SR14"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L9" trajector_id="T13" id="SR15"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS3" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L12" trajector_id="T16" id="SR18"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR19"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L11" trajector_id="T15" id="SR20"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR17"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L2" trajector_id="T4" id="SR21"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L4" trajector_id="T5" id="SR22"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR1"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="NE" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR0" motion_id="" spatial_indicator_id="" landmark_id="L5" trajector_id="T14" id="SR5"/>
+    </TAGS>
+</SpRL>

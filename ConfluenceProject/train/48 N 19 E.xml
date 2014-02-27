@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=7383</URL>
+    <CP>48°N 19°E</CP>
+    <TEXT>
+14-Oct-2001 -- The confluence of 48°N 19°E is located on the northern part of Hungary near the Slovakian border. This is the only Hungarian confluence point situated on mountain land. The name of this mountain is Börzsöny whose highest point is the Csóványos peak. The Csóványos peak is 939 meters above the sea level and less than 5 km away from the degree confluence.
+
+Before the visit which brought success I went twice on an exploratory survey by car in order to find the best route to approach the confluence. I tried to get as close as possible to the confluence in order to reduce the distance of the walking tour. I found the steep mountain-sides and the deep valleys to be a very hard terrain. Having traveled round the area by car I selected the best starting point which was 1.7 km away from the confluence. To my surprise, except for a short part the walk was very easy all the way to the confluence. The confluence is situated near a grassy road in the forest on the steep mountain-side, less than 20 meters from the grassy road. 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="The confluence of 48°N 19°E" end="43" start="16" id="T0"/>
+        <TRAJECTOR text="the northern part" end="75" start="58" id="T1"/>
+        <TRAJECTOR text="the northern part of Hungary" end="86" start="58" id="T2"/>
+        <TRAJECTOR text="the only Hungarian confluence point" end="157" start="122" id="T3"/>
+        <TRAJECTOR text="The Csóványos peak" end="284" start="266" id="T4"/>
+        <TRAJECTOR text="I" end="412" start="411" id="T5"/>
+        <TRAJECTOR text="I" end="517" start="516" id="T6"/>
+        <TRAJECTOR text="I" end="743" start="742" id="T7"/>
+        <TRAJECTOR text="the best starting point" end="776" start="753" id="T8"/>
+        <TRAJECTOR text="The confluence" end="928" start="914" id="T9"/>
+        <TRAJECTOR text="a grassy road" end="959" start="946" id="T10"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T11"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T12"/>
+        <LANDMARK text="the northern part of Hungary" end="86" start="58" id="L0"/>
+        <LANDMARK text="Hungary" end="86" start="79" id="L1"/>
+        <LANDMARK text="the Slovakian border" end="112" start="92" id="L2"/>
+        <LANDMARK text="mountain land" end="183" start="170" id="L3"/>
+        <LANDMARK text="the sea level" end="318" start="305" id="L4"/>
+        <LANDMARK text="the degree confluence" end="369" start="348" id="L5"/>
+        <LANDMARK text="the confluence" end="818" start="804" id="L6"/>
+        <LANDMARK text="a grassy road" end="959" start="946" id="L7"/>
+        <LANDMARK text="the forest" end="973" start="963" id="L8"/>
+        <LANDMARK text="the steep mountain-side" end="1000" start="977" id="L9"/>
+        <LANDMARK text="the grassy road" end="1042" start="1027" id="L10"/>
+        <SPATIAL_INDICATOR text="located on" end="57" start="47" id="S0"/>
+        <SPATIAL_INDICATOR text="of" end="78" start="76" id="S1"/>
+        <SPATIAL_INDICATOR text="situated on" end="169" start="158" id="S2"/>
+        <SPATIAL_INDICATOR text="situated" end="940" start="932" id="S3"/>
+        <SPATIAL_INDICATOR text="in" end="962" start="960" id="S4"/>
+        <SPATIAL_INDICATOR text="on" end="976" start="974" id="S5"/>
+        <SPATIAL_INDICATOR text="from" end="1026" start="1022" id="S6"/>
+        <SPATIAL_INDICATOR text="away from" end="347" start="338" id="S7"/>
+        <SPATIAL_INDICATOR text="away from" end="803" start="794" id="S8"/>
+        <MOTION_INDICATOR text="went" end="417" start="413" id="M0"/>
+        <MOTION_INDICATOR text="get" end="530" start="527" id="M1"/>
+        <MOTION_INDICATOR text="traveled round" end="725" start="711" id="M2"/>
+        <MOTION_INDICATOR text="approach" end="499" start="491" id="M3"/>
+        <MOTION_INDICATOR text="the walk" end="868" start="860" id="M4"/>
+        <PATH text="on an exploratory survey" end="448" start="424" id="P0"/>
+        <PATH text="to the confluence" end="569" start="552" id="P1"/>
+        <PATH text="the area" end="734" start="726" id="P2"/>
+        <PATH text="the confluence" end="514" start="500" id="P3"/>
+        <PATH text="to the confluence" end="912" start="895" id="P4"/>
+        <DIRECTION text="above" end="304" start="299" id="DIR1"/>
+        <DISTANCE text="near" end="91" start="87" id="DIS0"/>
+        <DISTANCE text="939 meters" end="298" start="288" id="DIS1"/>
+        <DISTANCE text="less than 5 km" end="337" start="323" id="DIS2"/>
+        <DISTANCE text="1.7 km" end="793" start="787" id="DIS3"/>
+        <DISTANCE text="near" end="945" start="941" id="DIS4"/>
+        <DISTANCE text="less than 20 meters" end="1021" start="1002" id="DIS5"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS0" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L2" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L3" trajector_id="T3" id="SR3"/>
+        <RELATION FoR="" relative_value="ABOVE" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="DIR1" motion_id="" spatial_indicator_id="" landmark_id="L4" trajector_id="T4" id="SR4"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS2" path_id="" direction_id="" motion_id="" spatial_indicator_id="S7" landmark_id="L5" trajector_id="T4" id="SR5"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR6"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T6" id="SR7"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS3" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L6" trajector_id="T8" id="SR9"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS4" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L7" trajector_id="T9" id="SR10"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L8" trajector_id="T10" id="SR11"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L9" trajector_id="T10" id="SR12"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS5" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L10" trajector_id="T9" id="SR13"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR14"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T11" id="SR8"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T12" id="SR15"/>
+    </TAGS>
+</SpRL>

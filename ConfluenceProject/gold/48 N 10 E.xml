@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=2343</URL>
+    <CP>48°N 10°E</CP>
+    <TEXT>
+02-Jan-2010 -- On the way back from our winter sports holiday the Confluence Point 48N 10E was situated only a few kilometres away from the autobahn A96 resp. A7. Such an opportunity should be taken.
+
+The GPS routed us through the village ‘Rot an der Rot’. In a very friendly atmosphere we saw an affectionately restored monastery building. Furthermore the trip lead us into the village of Spindelwag. Woodwork seems to play an important role here.
+
+On the one hand I never saw more palettes on a heap before. On the other hand a big wooden hull was produced over the street. After about 1,000 meters we reached the confluence point on a court from a homestead.
+
+In these late hours I didn't wanted to disturb anybody, so I did my short confluence dance without the approval of the owners. Apart from the noises of the live stock in the stable I couldn't hear anything or see anybody. Despite the darkness the needed pictures turned out quite well. The GPS reception was very good and stable in spite of the buildings around.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="the Confluence Point 48N 10E" end="91" start="63" id="T0"/>
+        <TRAJECTOR text="us" end="219" start="217" id="T1"/>
+        <TRAJECTOR text="us" end="370" start="368" id="T3"/>
+        <TRAJECTOR text="a big wooden hull" end="546" start="529" id="T4"/>
+        <TRAJECTOR text="we" end="604" start="602" id="T5"/>
+        <TRAJECTOR text="the confluence point" end="633" start="613" id="T6"/>
+        <TRAJECTOR text="a court" end="644" start="637" id="T7"/>
+        <TRAJECTOR text="palettes" end="492" start="484" id="T8"/>
+        <TRAJECTOR text="the live stock" end="830" start="816" id="T10"/>
+        <TRAJECTOR text="I" end="724" start="723" id="T11"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T2"/>
+        <LANDMARK text="the autobahn A96 resp. A7" end="162" start="137" id="L0"/>
+        <LANDMARK text="" end="-1" start="-1" id="L1"/>
+        <LANDMARK text="the street" end="575" start="565" id="L2"/>
+        <LANDMARK text="a court from a homestead" end="661" start="637" id="L3"/>
+        <LANDMARK text="a homestead" end="661" start="650" id="L4"/>
+        <LANDMARK text="a heap" end="502" start="496" id="L5"/>
+        <LANDMARK text="the stable" end="844" start="834" id="L6"/>
+        <LANDMARK text="the buildings" end="1018" start="1005" id="L7"/>
+        <SPATIAL_INDICATOR text="from" end="136" start="132" id="S0"/>
+        <SPATIAL_INDICATOR text="over" end="564" start="560" id="S1"/>
+        <SPATIAL_INDICATOR text="on" end="636" start="634" id="S2"/>
+        <SPATIAL_INDICATOR text="from" end="649" start="645" id="S3"/>
+        <SPATIAL_INDICATOR text="on" end="495" start="493" id="S4"/>
+        <SPATIAL_INDICATOR text="in" end="833" start="831" id="S5"/>
+        <SPATIAL_INDICATOR text="around" end="1025" start="1019" id="S6"/>
+        <MOTION_INDICATOR text="routed" end="216" start="210" id="M0"/>
+        <MOTION_INDICATOR text="lead" end="367" start="363" id="M1"/>
+        <MOTION_INDICATOR text="reached" end="612" start="605" id="M2"/>
+        <MOTION_INDICATOR text="After" end="582" start="577" id="M3"/>
+        <MOTION_INDICATOR text="my short confluence dance" end="754" start="729" id="M4"/>
+        <MOTION_INDICATOR text="the way" end="26" start="19" id="M5"/>
+        <PATH text="through the village ‘Rot an der Rot’" end="256" start="220" id="P0"/>
+        <PATH text="into the village of Spindelwag" end="401" start="371" id="P1"/>
+        <PATH text="the confluence point" end="633" start="613" id="P2"/>
+        <PATH text="On the way back" end="31" start="16" id="P3"/>
+        <DISTANCE text="only a few kilometres" end="126" start="105" id="DIS0"/>
+        <DISTANCE text="about 1,000 meters" end="601" start="583" id="DIS1"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L2" trajector_id="T4" id="SR4"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L3" trajector_id="T6" id="SR5"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L4" trajector_id="T7" id="SR6"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR7"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L5" trajector_id="T8" id="SR8"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR9"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L6" trajector_id="T10" id="SR10"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T11" id="SR11"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L7" trajector_id="T2" id="SR12"/>
+    </TAGS>
+</SpRL>

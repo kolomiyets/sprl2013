@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?visitid=7308</URL>
+    <CP>57°N 10°E</CP>
+    <TEXT>
+11-Sep-2003 -- This is our fourth confluence trip to the scandinavian countries, this time especially to Denmark. Our idea is to be the first people who have visited all confluences in this country. Besides Wolfgang and me a travelbug named Tweety joins us. We found him in a geocache right at the confluence 55N 15E. He really travels now!
+
+The sky had cleared up and we were in a better mood again. This confluence is in one of the outer parts of Aalborg, a small industrial area. The exact confluence is in the wall of the house and it was funny to search for it, hearing the people working in this building at the other side. 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="" end="-1" start="-1" id="T0"/>
+        <TRAJECTOR text="who" end="153" start="150" id="T1"/>
+        <TRAJECTOR text="all confluences" end="182" start="167" id="T2"/>
+        <TRAJECTOR text="him" end="271" start="268" id="T3"/>
+        <TRAJECTOR text="a geocache" end="285" start="275" id="T4"/>
+        <TRAJECTOR text="This confluence" end="417" start="402" id="T5"/>
+        <TRAJECTOR text="one of the outer parts" end="446" start="424" id="T6"/>
+        <TRAJECTOR text="The exact confluence" end="504" start="484" id="T7"/>
+        <TRAJECTOR text="the people" end="586" start="576" id="T8"/>
+        <LANDMARK text="this country" end="198" start="186" id="L0"/>
+        <LANDMARK text="a geocache" end="285" start="275" id="L1"/>
+        <LANDMARK text="the confluence 55N 15E" end="317" start="295" id="L2"/>
+        <LANDMARK text="one of the outer parts of Aalborg, a small industrial area" end="482" start="424" id="L3"/>
+        <LANDMARK text="Aalborg" end="457" start="450" id="L4"/>
+        <LANDMARK text="the wall of the house" end="532" start="511" id="L5"/>
+        <LANDMARK text="this building at the other side" end="629" start="598" id="L6"/>
+        <SPATIAL_INDICATOR text="in" end="185" start="183" id="S0"/>
+        <SPATIAL_INDICATOR text="in" end="274" start="272" id="S1"/>
+        <SPATIAL_INDICATOR text="right at" end="294" start="286" id="S2"/>
+        <SPATIAL_INDICATOR text="in" end="423" start="421" id="S3"/>
+        <SPATIAL_INDICATOR text="of" end="449" start="447" id="S4"/>
+        <SPATIAL_INDICATOR text="in" end="510" start="508" id="S5"/>
+        <SPATIAL_INDICATOR text="in" end="597" start="595" id="S6"/>
+        <MOTION_INDICATOR text="trip" end="50" start="46" id="M0"/>
+        <MOTION_INDICATOR text="visited" end="166" start="159" id="M1"/>
+        <PATH text="to the scandinavian countries" end="80" start="51" id="P0"/>
+        <PATH text="to Denmark" end="113" start="103" id="P1"/>
+        <PATH text="all confluences in this country" end="198" start="167" id="P2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1, P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T3" id="SR3"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T4" id="SR4"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L3" trajector_id="T5" id="SR5"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L4" trajector_id="T6" id="SR6"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L5" trajector_id="T7" id="SR7"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L6" trajector_id="T8" id="SR8"/>
+    </TAGS>
+</SpRL>

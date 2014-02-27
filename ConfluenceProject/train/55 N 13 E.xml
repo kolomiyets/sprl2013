@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=17666</URL>
+    <CP>55°N 13°E</CP>
+    <TEXT>
+22-Jul-2002 -- Coming from St. Petersburg and bound for Lorient (Brittany, France) today we visited 55N 13E, an additional Danish offshore confluence, about 30 km East of Møn Island, and just South of a patch of about 20 metres (11 fathoms) depth, called Kriegers Flak (Man-of-War Patch).
+
+In the North of the confluence there is Sweden, in its South is Germany with the island of Rügen, with its chalk rocks, under better conditions well visible from this point as well.
+
+The East Coast of Møn attains an elevation of up to 140 metres, of which the highest are the Kongsbjerg (King's Mountain) and the Dronningsstolen (Queen's Chair).
+
+Today there are gale force winds due to a low pressure over Southern Sweden. On its Western side strong NW-ly winds are blowing into the sea between Denmark and Sweden and the Western Baltic, quite rare in summer in this area.
+
+However, the clouds are now dissolving and this means, the worst is over. 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="we" end="92" start="90" id="T0"/>
+        <TRAJECTOR text="55N 13E, an additional Danish offshore confluence" end="150" start="101" id="T1"/>
+        <TRAJECTOR text="Sweden" end="337" start="331" id="T2"/>
+        <TRAJECTOR text="Germany" end="362" start="355" id="T4"/>
+        <TRAJECTOR text="the island of Rügen" end="387" start="368" id="T6"/>
+        <TRAJECTOR text="The East Coast" end="488" start="474" id="T7"/>
+        <TRAJECTOR text="its Western side" end="734" start="718" id="T8"/>
+        <TRAJECTOR text="the sea" end="778" start="771" id="T9"/>
+        <TRAJECTOR text="Denmark" end="794" start="787" id="T10"/>
+        <LANDMARK text="Møn Island" end="182" start="172" id="L0"/>
+        <LANDMARK text="a patch of about 20 metres (11 fathoms) depth, called Kriegers Flak (Man-of-War Patch)" end="288" start="202" id="L1"/>
+        <LANDMARK text="the confluence" end="321" start="307" id="L2"/>
+        <LANDMARK text="its" end="345" start="342" id="L3"/>
+        <LANDMARK text="the island of Rügen" end="387" start="368" id="L4"/>
+        <LANDMARK text="its chalk rocks" end="409" start="394" id="L5"/>
+        <LANDMARK text="Møn" end="495" start="492" id="L6"/>
+        <LANDMARK text="" end="-1" start="-1" id="L7"/>
+        <LANDMARK text="Denmark" end="794" start="787" id="L8"/>
+        <LANDMARK text="Sweden" end="805" start="799" id="L9"/>
+        <SPATIAL_INDICATOR text="of" end="171" start="169" id="S0"/>
+        <SPATIAL_INDICATOR text="of" end="201" start="199" id="S1"/>
+        <SPATIAL_INDICATOR text="of" end="306" start="304" id="S3"/>
+        <SPATIAL_INDICATOR text="in" end="341" start="339" id="S4"/>
+        <SPATIAL_INDICATOR text="with" end="367" start="363" id="S5"/>
+        <SPATIAL_INDICATOR text="with" end="393" start="389" id="S6"/>
+        <SPATIAL_INDICATOR text="of" end="491" start="489" id="S7"/>
+        <SPATIAL_INDICATOR text="On" end="717" start="715" id="S8"/>
+        <SPATIAL_INDICATOR text="between" end="786" start="779" id="S9"/>
+        <SPATIAL_INDICATOR text="and" end="798" start="795" id="S10"/>
+        <MOTION_INDICATOR text="Coming" end="22" start="16" id="M0"/>
+        <MOTION_INDICATOR text="visited" end="100" start="93" id="M1"/>
+        <PATH text="from St. Petersburg and bound for Lorient (Brittany, France)" end="83" start="23" id="P0"/>
+        <PATH text="55N 13E, an additional Danish offshore confluence" end="150" start="101" id="P1"/>
+        <DIRECTION text="East" end="168" start="164" id="DIR0"/>
+        <DIRECTION text="South" end="198" start="193" id="DIR1"/>
+        <DIRECTION text="the North" end="303" start="294" id="DIR2"/>
+        <DIRECTION text="South" end="351" start="346" id="DIR4"/>
+        <DIRECTION text="East" end="482" start="478" id="DIR5"/>
+        <DIRECTION text="Western" end="729" start="722" id="DIR6"/>
+        <DISTANCE text="about 30 km" end="163" start="152" id="DIS0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR1"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="East" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="DIR0" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T1" id="SR2"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR1" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T1" id="SR3"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="North" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR2" motion_id="" spatial_indicator_id="S3" landmark_id="L2" trajector_id="T2" id="SR4"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR4" motion_id="" spatial_indicator_id="S4" landmark_id="L3" trajector_id="T4" id="SR6"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP-1" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L4" trajector_id="T4" id="SR7"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP-1" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L5" trajector_id="T6" id="SR8"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="East" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR5" motion_id="" spatial_indicator_id="S7" landmark_id="L6" trajector_id="T7" id="SR9"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="West" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR6" motion_id="" spatial_indicator_id="S8" landmark_id="L7" trajector_id="T8" id="SR10"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S9" landmark_id="L8" trajector_id="T9" id="SR11"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S9" landmark_id="L9" trajector_id="T9" id="SR12"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S10" landmark_id="L9" trajector_id="T10" id="SR13"/>
+    </TAGS>
+</SpRL>

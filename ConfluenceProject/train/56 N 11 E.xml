@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=17115</URL>
+    <CP>56°N 11°E</CP>
+    <TEXT>
+06-May-2002 -- On April 29th, when inbound to the Baltic Sea, we had visited 55°N 11°E, this time, outbound, we can submit 56°N11°E, an offshore point very close to the so called &quot;T-Route&quot;, a buoyed transit route from the North Sea to the Baltic Sea through the Danish Islands.
+
+About three hours prior our arrival at the confluence, coming from the South, we had passed below the Østerrenden Bridge (&quot;Bridge over the Eastern Channel&quot;). The Bridge is part of the connection between Sjælland and Fyn Island. The Østerrenden Bridge connects Sjælland with Sprogø, and the connection of Sprogø with Fyn is called Vesterrenden Bridge (&quot;Bridge over the Western Channel&quot;). The construction was completed around1990. Between the two pillars of the Østerrenden Bridge there is a narrow buoyed channel. Navigation under the bridge is tricky and therefore Captain Peter took the wheel himself for a while.
+
+Approaching the bridge looks strange in the Radar, it seems to steer the ship against a wall.
+
+The moment when being exactly below the span is always spectacular and worth another photo.
+
+Sejerø Island is the closest land to the confluence. The &quot;capital&quot; of Sejerø is Sejerby.
+
+And from this confluence we saw something very beautiful: First we did not realize it, then Captain Peter spotted land in a direction where no one was supposed to be. It was a mirage. Checking the radar we found out that this land was the Swedish coast, about 53 nautical miles (almost 100 km) away! On the chart we learned it to be coast around the small Swedish village of Höganäs reflecting there.
+
+Mirage, or in this particular case - Super-refraction, is a downward bending of rays, caused either when humidity decreases with height or when the temperature lapse rate is less than normal. When temperature increases with height (i.e. when an inversion is present), the downward bending of rays is particularly enhanced. Super-refraction increases both the optical and radio horizons, so that it is possible to see and to detect objects which are actually beyond the geometrical horizon.
+
+Super-refraction can be expected either:
+
+    in high latitudes wherever the sea surface temperature is exceptionally low
+    in coastal areas where warm air blows offshore over a cooler sea
+    and occasionally behind a cold front 
+
+Objects beyond the geometrical horizon may become visible, so that lights may be raised at much greater distances than expected.
+
+In this particular case we see even a superior mirage as well, i.e. an inverted image above the real object. This is an occasional effect produced when the air is appreciably warmer then the sea. Sometimes an erect image is seen immediately above and touching the inverted one. The object and its images in this distance are quite well-defined. Superior mirage is most often experienced in high latitudes and wherever the sea surface temperature is exceptionally low. 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="we" end="65" start="63" id="T0"/>
+        <TRAJECTOR text="we" end="112" start="110" id="T1"/>
+        <TRAJECTOR text="an offshore point" end="151" start="134" id="T3"/>
+        <TRAJECTOR text="a buoyed transit route" end="213" start="191" id="T4"/>
+        <TRAJECTOR text="we" end="360" start="358" id="T5"/>
+        <TRAJECTOR text="part of the connection" end="474" start="452" id="T6"/>
+        <TRAJECTOR text="Sjælland" end="491" start="483" id="T7"/>
+        <TRAJECTOR text="The Østerrenden Bridge" end="530" start="508" id="T8"/>
+        <TRAJECTOR text="Sjælland" end="548" start="540" id="T9"/>
+        <TRAJECTOR text="Sprogø" end="590" start="584" id="T10"/>
+        <TRAJECTOR text="a narrow buoyed channel" end="792" start="769" id="T11"/>
+        <TRAJECTOR text="the two pillars" end="733" start="718" id="T12"/>
+        <TRAJECTOR text="the ship" end="974" start="966" id="T13"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T14"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T15"/>
+        <TRAJECTOR text="the closest land" end="1118" start="1102" id="T16"/>
+        <TRAJECTOR text="the Swedish coast" end="1427" start="1410" id="T17"/>
+        <TRAJECTOR text="coast" end="1513" start="1508" id="T18"/>
+        <TRAJECTOR text="which" end="2021" start="2016" id="T19"/>
+        <TRAJECTOR text="Objects" end="2309" start="2302" id="T20"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T21"/>
+        <TRAJECTOR text="an erect image" end="2652" start="2638" id="T22"/>
+        <TRAJECTOR text="Superior mirage" end="2792" start="2777" id="T23"/>
+        <LANDMARK text="the so called &quot;T-Route&quot;" end="189" start="166" id="L0"/>
+        <LANDMARK text="the North Sea" end="232" start="219" id="L1"/>
+        <LANDMARK text="the Baltic Sea" end="250" start="236" id="L2"/>
+        <LANDMARK text="the Danish Islands" end="277" start="259" id="L3"/>
+        <LANDMARK text="Sjælland" end="491" start="483" id="L4"/>
+        <LANDMARK text="Fyn Island" end="506" start="496" id="L5"/>
+        <LANDMARK text="Sjælland" end="548" start="540" id="L6"/>
+        <LANDMARK text="Sprogø" end="560" start="554" id="L7"/>
+        <LANDMARK text="Fyn" end="599" start="596" id="L8"/>
+        <LANDMARK text="the Østerrenden Bridge" end="759" start="737" id="L9"/>
+        <LANDMARK text="the two pillars of the Østerrenden Bridge" end="759" start="718" id="L10"/>
+        <LANDMARK text="the span" end="1036" start="1028" id="L11"/>
+        <LANDMARK text="the confluence" end="1136" start="1122" id="L12"/>
+        <LANDMARK text="" end="-1" start="-1" id="L13"/>
+        <LANDMARK text="the small Swedish village of Höganäs" end="1557" start="1521" id="L14"/>
+        <LANDMARK text="the geometrical horizon" end="2065" start="2042" id="L15"/>
+        <LANDMARK text="the geometrical horizon" end="2340" start="2317" id="L16"/>
+        <LANDMARK text="high latitudes" end="2131" start="2117" id="L17"/>
+        <LANDMARK text="coastal areas" end="2210" start="2197" id="L18"/>
+        <LANDMARK text="a cold front" end="2299" start="2287" id="L19"/>
+        <LANDMARK text="the inverted one" end="2708" start="2692" id="L20"/>
+        <LANDMARK text="high latitudes" end="2836" start="2822" id="L21"/>
+        <SPATIAL_INDICATOR text="to" end="165" start="163" id="S0"/>
+        <SPATIAL_INDICATOR text="from" end="218" start="214" id="S1"/>
+        <SPATIAL_INDICATOR text="to" end="235" start="233" id="S2"/>
+        <SPATIAL_INDICATOR text="through" end="258" start="251" id="S3"/>
+        <SPATIAL_INDICATOR text="between" end="482" start="475" id="S4"/>
+        <SPATIAL_INDICATOR text="and" end="495" start="492" id="S5"/>
+        <SPATIAL_INDICATOR text="connects" end="539" start="531" id="S6"/>
+        <SPATIAL_INDICATOR text="with" end="553" start="549" id="S7"/>
+        <SPATIAL_INDICATOR text="with" end="595" start="591" id="S8"/>
+        <SPATIAL_INDICATOR text="Between" end="717" start="710" id="S9"/>
+        <SPATIAL_INDICATOR text="of" end="736" start="734" id="S10"/>
+        <SPATIAL_INDICATOR text="below" end="1027" start="1022" id="S11"/>
+        <SPATIAL_INDICATOR text="to" end="1121" start="1119" id="S12"/>
+        <SPATIAL_INDICATOR text="away" end="1473" start="1469" id="S13"/>
+        <SPATIAL_INDICATOR text="in" end="2116" start="2114" id="S14"/>
+        <SPATIAL_INDICATOR text="in" end="2196" start="2194" id="S15"/>
+        <SPATIAL_INDICATOR text="touching" end="2691" start="2683" id="S16"/>
+        <SPATIAL_INDICATOR text="in" end="2821" start="2819" id="S17"/>
+        <MOTION_INDICATOR text="inbound" end="43" start="36" id="M0"/>
+        <MOTION_INDICATOR text="visited" end="77" start="70" id="M1"/>
+        <MOTION_INDICATOR text="outbound" end="108" start="100" id="M2"/>
+        <MOTION_INDICATOR text="our arrival" end="315" start="304" id="M3"/>
+        <MOTION_INDICATOR text="coming" end="341" start="335" id="M4"/>
+        <MOTION_INDICATOR text="passed" end="371" start="365" id="M5"/>
+        <MOTION_INDICATOR text="steer" end="965" start="960" id="M6"/>
+        <MOTION_INDICATOR text="Approaching" end="908" start="897" id="M7"/>
+        <PATH text="to the Baltic Sea" end="61" start="44" id="P0"/>
+        <PATH text="55°N 11°E" end="87" start="78" id="P1"/>
+        <PATH text="at the confluence" end="333" start="316" id="P2"/>
+        <PATH text="below the Østerrenden Bridge (&quot;Bridge over the Eastern Channel&quot;)" end="436" start="372" id="P3"/>
+        <PATH text="against a wall" end="989" start="975" id="P4"/>
+        <PATH text="the bridge" end="919" start="909" id="P5"/>
+        <DIRECTION text="the South" end="356" start="347" id="DIR0"/>
+        <DIRECTION text="beyond" end="2041" start="2035" id="DIR1"/>
+        <DIRECTION text="beyond" end="2316" start="2310" id="DIR2"/>
+        <DIRECTION text="behind" end="2286" start="2280" id="DIR3"/>
+        <DIRECTION text="above" end="2678" start="2673" id="DIR4"/>
+        <DISTANCE text="very close" end="162" start="152" id="DIS0"/>
+        <DISTANCE text="closest" end="1113" start="1106" id="DIS1"/>
+        <DISTANCE text="about 53 nautical miles (almost 100 km)" end="1468" start="1429" id="DIS2"/>
+        <DISTANCE text="around" end="1520" start="1514" id="DIS3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR1"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS0" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T3" id="SR2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T4" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T4" id="SR4"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L3" trajector_id="T4" id="SR5"/>
+        <RELATION FoR="intrinsic" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR7"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="North" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR0" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR8"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR9"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L4" trajector_id="T6" id="SR10"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L5" trajector_id="T6" id="SR11"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L5" trajector_id="T7" id="SR12"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L6" trajector_id="T8" id="SR13"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L7" trajector_id="T8" id="SR14"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S7" landmark_id="L7" trajector_id="T9" id="SR15"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L8" trajector_id="T10" id="SR16"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S9" landmark_id="L10" trajector_id="T11" id="SR17"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S10" landmark_id="L9" trajector_id="T12" id="SR18"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T14" id="SR19"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T13" id="SR20"/>
+        <RELATION FoR="relative" relative_value="BELOW" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S11" landmark_id="L11" trajector_id="T15" id="SR21"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS1" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S12" landmark_id="L12" trajector_id="T16" id="SR22"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS2" path_id="" direction_id="" motion_id="" spatial_indicator_id="S13" landmark_id="L13" trajector_id="T17" id="SR23"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS3" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L14" trajector_id="T18" id="SR24"/>
+        <RELATION FoR="relative" relative_value="BEHIND" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR1" motion_id="" spatial_indicator_id="" landmark_id="L15" trajector_id="T19" id="SR25"/>
+        <RELATION FoR="relative" relative_value="BEHIND" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR2" motion_id="" spatial_indicator_id="" landmark_id="L16" trajector_id="T20" id="SR26"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S14" landmark_id="L17" trajector_id="T21" id="SR27"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S15" landmark_id="L18" trajector_id="T21" id="SR28"/>
+        <RELATION FoR="relative" relative_value="BEHIND" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR3" motion_id="" spatial_indicator_id="" landmark_id="L19" trajector_id="T21" id="SR29"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S16" landmark_id="L20" trajector_id="T22" id="SR30"/>
+        <RELATION FoR="relative" relative_value="ABOVE" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR4" motion_id="" spatial_indicator_id="" landmark_id="L20" trajector_id="T22" id="SR31"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S17" landmark_id="L21" trajector_id="T23" id="SR32"/>
+    </TAGS>
+</SpRL>

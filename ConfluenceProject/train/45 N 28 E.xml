@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=9788</URL>
+    <CP>45°N 28°E</CP>
+    <TEXT>
+04-Apr-2004 -- Our start point was Hotel Belvedere in Galaţi. The first stop was a gas station in Galaţi, because up to this time we had no road map from Romania and we only knew the CP is 47km south from Galaţi (and also the spare tire needed some air ;-)). Equipped with this new map, we headed in the direction of Brăila. In Brăila it was not easy to find the right ferryboat to cross the Danube River, but with the help of the local people (and Rudi's sense of orientation) we found at last the right one.
+
+It took around half an hour to cross the river and on the other side of the river it was not difficult to find the right way, because there is only one road on this island. This road is in really bad condition (potholes like bomb craters), and so it took more than one hour to come next to the CP. Around 2.5 km from the CP we found an intersection straight into direction of the CP and so we moved again with the car up to 100 m next to the CP. Now only a few meters walk left and we successfully reached 45N 28E. The whole island where the CP is placed is like one big field, and you can look in all directions and you only see field, field, field...
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="Hotel Belvedere" end="51" start="36" id="T0"/>
+        <TRAJECTOR text="a gas station" end="95" start="82" id="T1"/>
+        <TRAJECTOR text="the CP" end="186" start="180" id="T2"/>
+        <TRAJECTOR text="we" end="290" start="288" id="T3"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T4"/>
+        <TRAJECTOR text="one road" end="668" start="660" id="T6"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T7"/>
+        <TRAJECTOR text="the CP" end="835" start="829" id="T8"/>
+        <TRAJECTOR text="we" end="904" start="902" id="T9"/>
+        <TRAJECTOR text="we" end="996" start="994" id="T10"/>
+        <TRAJECTOR text="the CP" end="1056" start="1050" id="T12"/>
+        <TRAJECTOR text="an intersection" end="860" start="845" id="T5"/>
+        <TRAJECTOR text="where" end="1049" start="1044" id="T11"/>
+        <LANDMARK text="Galaţi" end="61" start="55" id="L0"/>
+        <LANDMARK text="Galaţi" end="105" start="99" id="L1"/>
+        <LANDMARK text="Galaţi" end="212" start="206" id="L2"/>
+        <LANDMARK text="this island" end="683" start="672" id="L4"/>
+        <LANDMARK text="an intersection" end="860" start="845" id="L5"/>
+        <LANDMARK text="The whole island" end="1043" start="1027" id="L6"/>
+        <LANDMARK text="Brăila" end="335" start="329" id="L7"/>
+        <LANDMARK text="the other side of the river" end="593" start="566" id="L8"/>
+        <LANDMARK text="the CP" end="894" start="888" id="L9"/>
+        <LANDMARK text="the CP" end="956" start="950" id="L10"/>
+        <LANDMARK text="where" end="1049" start="1044" id="L11"/>
+        <SPATIAL_INDICATOR text="in" end="54" start="52" id="S0"/>
+        <SPATIAL_INDICATOR text="in" end="98" start="96" id="S1"/>
+        <SPATIAL_INDICATOR text="from" end="205" start="201" id="S2"/>
+        <SPATIAL_INDICATOR text="on" end="671" start="669" id="S4"/>
+        <SPATIAL_INDICATOR text="from" end="828" start="824" id="S5"/>
+        <SPATIAL_INDICATOR text="is placed" end="1066" start="1057" id="S6"/>
+        <SPATIAL_INDICATOR text="In" end="328" start="326" id="S7"/>
+        <SPATIAL_INDICATOR text="on" end="565" start="563" id="S8"/>
+        <SPATIAL_INDICATOR text="into direction of" end="887" start="870" id="S9"/>
+        <SPATIAL_INDICATOR text="to" end="949" start="947" id="S10"/>
+        <MOTION_INDICATOR text="headed" end="297" start="291" id="M0"/>
+        <MOTION_INDICATOR text="cross" end="548" start="543" id="M1"/>
+        <MOTION_INDICATOR text="come" end="793" start="789" id="M2"/>
+        <MOTION_INDICATOR text="moved" end="910" start="905" id="M3"/>
+        <MOTION_INDICATOR text="walk" end="984" start="980" id="M4"/>
+        <MOTION_INDICATOR text="reached" end="1017" start="1010" id="M5"/>
+        <MOTION_INDICATOR text="cross" end="388" start="383" id="M6"/>
+        <MOTION_INDICATOR text="way" end="636" start="633" id="M7"/>
+        <PATH text="in the direction of Brăila" end="324" start="298" id="P0"/>
+        <PATH text="the river" end="558" start="549" id="P1"/>
+        <PATH text="next to the CP" end="808" start="794" id="P2"/>
+        <PATH text="up to 100 m next to the CP" end="956" start="930" id="P3"/>
+        <PATH text="45N 28E" end="1025" start="1018" id="P4"/>
+        <PATH text="the Danube River" end="405" start="389" id="P5"/>
+        <PATH text="the right way" end="636" start="623" id="P6"/>
+        <DIRECTION text="south" end="200" start="195" id="DIR0"/>
+        <DISTANCE text="47km" end="194" start="190" id="DIS0"/>
+        <DISTANCE text="Around 2.5 km" end="823" start="810" id="DIS1"/>
+        <DISTANCE text="100 m" end="941" start="936" id="DIS2"/>
+        <DISTANCE text="a few meters" end="979" start="967" id="DIS3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="DIR0" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR4"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L4" trajector_id="T6" id="SR6"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR7"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L5" trajector_id="T8" id="SR8"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T9" id="SR9"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS3" path_id="" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T10" id="SR10"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T10" id="SR11"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M6" spatial_indicator_id="S7" landmark_id="L7" trajector_id="T4" id="SR13"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="" motion_id="M7" spatial_indicator_id="S8" landmark_id="L8" trajector_id="T4" id="SR14"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S9" landmark_id="L9" trajector_id="T5" id="SR15"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS2" path_id="" direction_id="" motion_id="" spatial_indicator_id="S10" landmark_id="L10" trajector_id="T4" id="SR16"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L6" trajector_id="T11" id="SR17"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L11" trajector_id="T12" id="SR18"/>
+    </TAGS>
+</SpRL>

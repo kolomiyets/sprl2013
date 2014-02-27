@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=7381</URL>
+    <CP>47°N 21°E</CP>
+    <TEXT>
+20-Sep-2001 -- We were travelling to Transylvania, Romania for a trip when we realized that a confluence spot was very close to us. We had to make a small change in our plan and we were able to get about a distance of 20 meters from the spot by car. It was near a farm which was supervised by a really huge, but not very dutiful dog. Finally we reached the spot, took some pictures and performed the well-tried horse riding... This will be the trade mark of our team. 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="We" end="18" start="16" id="T0"/>
+        <TRAJECTOR text="a confluence spot" end="110" start="93" id="T1"/>
+        <TRAJECTOR text="we" end="181" start="179" id="T3"/>
+        <TRAJECTOR text="It" end="253" start="251" id="T4"/>
+        <TRAJECTOR text="we" end="345" start="343" id="T5"/>
+        <TRAJECTOR text="Transylvania" end="50" start="38" id="T2"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T6"/>
+        <TRAJECTOR text="which" end="275" start="270" id="T7"/>
+        <LANDMARK text="us" end="131" start="129" id="L0"/>
+        <LANDMARK text="a farm" end="269" start="263" id="L1"/>
+        <LANDMARK text="Romania" end="59" start="52" id="L2"/>
+        <LANDMARK text="the spot" end="242" start="234" id="L3"/>
+        <SPATIAL_INDICATOR text="to" end="128" start="126" id="S0"/>
+        <SPATIAL_INDICATOR text="," end="51" start="50" id="S1"/>
+        <SPATIAL_INDICATOR text="from" end="233" start="229" id="S2"/>
+        <MOTION_INDICATOR text="travelling" end="34" start="24" id="M0"/>
+        <MOTION_INDICATOR text="get" end="198" start="195" id="M1"/>
+        <MOTION_INDICATOR text="reached" end="353" start="346" id="M2"/>
+        <MOTION_INDICATOR text="riding" end="424" start="418" id="M3"/>
+        <PATH text="to Transylvania, Romania" end="59" start="35" id="P0"/>
+        <PATH text="the spot" end="362" start="354" id="P2"/>
+        <DISTANCE text="very close" end="125" start="115" id="DIS0"/>
+        <DISTANCE text="about a distance of 20 meters" end="228" start="199" id="DIS1"/>
+        <DISTANCE text="near" end="262" start="258" id="DIS2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS0" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS2" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L1" trajector_id="T4" id="SR3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR4"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L2" trajector_id="T2" id="SR5"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR6"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L3" trajector_id="T6" id="SR7"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L1" trajector_id="T7" id="SR8"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR9"/>
+    </TAGS>
+</SpRL>

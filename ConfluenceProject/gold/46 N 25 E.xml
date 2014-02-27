@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=9789</URL>
+    <CP>46°N 25°E</CP>
+    <TEXT>
+19-Apr-2012 -- The conditions of our further trip allowed it to make an excursion into the upstate of Romania and to visit this confluence point at this opportunity. Partially, the roads were very shabby and it seemed not only because of the last winter.
+
+We could park our car appr. 950 m away from the point and could make a comfortable walk to the mountain ridge. There is a herdsmen station not far from the point, but only the dogs came to visit us.
+
+Because we had good weather and still a bit time we decided to drive on small roads to the west to point 46N 24E.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="" end="-1" start="-1" id="T0"/>
+        <TRAJECTOR text="the upstate" end="99" start="88" id="T1"/>
+        <TRAJECTOR text="our car" end="278" start="271" id="T3"/>
+        <TRAJECTOR text="We" end="259" start="257" id="T4"/>
+        <TRAJECTOR text="the dogs" end="437" start="429" id="T5"/>
+        <TRAJECTOR text="a herdsmen station" end="395" start="377" id="T6"/>
+        <TRAJECTOR text="we" end="508" start="506" id="T7"/>
+        <LANDMARK text="Romania" end="110" start="103" id="L0"/>
+        <LANDMARK text="the point" end="310" start="301" id="L1"/>
+        <LANDMARK text="the point" end="418" start="409" id="L2"/>
+        <LANDMARK text="small roads" end="540" start="529" id="L3"/>
+        <SPATIAL_INDICATOR text="of" end="102" start="100" id="S0"/>
+        <SPATIAL_INDICATOR text="from" end="300" start="296" id="S1"/>
+        <SPATIAL_INDICATOR text="from" end="408" start="404" id="S2"/>
+        <SPATIAL_INDICATOR text="on" end="528" start="526" id="S3"/>
+        <MOTION_INDICATOR text="visit" end="123" start="118" id="M1"/>
+        <MOTION_INDICATOR text="a comfortable walk" end="344" start="326" id="M2"/>
+        <MOTION_INDICATOR text="visit" end="451" start="446" id="M3"/>
+        <MOTION_INDICATOR text="drive" end="525" start="520" id="M4"/>
+        <MOTION_INDICATOR text="an excursion" end="82" start="70" id="M0"/>
+        <PATH text="into the upstate of Romania" end="110" start="83" id="P0"/>
+        <PATH text="this confluence point" end="145" start="124" id="P1"/>
+        <PATH text="to the mountain ridge" end="366" start="345" id="P2"/>
+        <PATH text="us" end="454" start="452" id="P3"/>
+        <PATH text="to the west to point 46N 24E" end="569" start="541" id="P4"/>
+        <DIRECTION text="the west" end="552" start="544" id="DIR0"/>
+        <DISTANCE text="appr. 950 m" end="290" start="279" id="DIS0"/>
+        <DISTANCE text="not far" end="403" start="396" id="DIS1"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR2"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T3" id="SR3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR4"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR5"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS1" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T6" id="SR6"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="West" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="DIR0" motion_id="M4" spatial_indicator_id="S3" landmark_id="L3" trajector_id="T7" id="SR7"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR8"/>
+    </TAGS>
+</SpRL>

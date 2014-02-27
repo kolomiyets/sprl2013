@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=9805</URL>
+    <CP>45°N 26°E</CP>
+    <TEXT>
+17-Apr-2012 -- We arrived in Romania during our round trip and hired a car. On the street map this confluence point seemed to be easily reachable and that was true.
+
+We visited it on our trip to Sinaia.
+
+We asked the western neighbour of the site where the confluence point is located, but he didn’t understand us. But he also didn’t prevent us from opening the wire fence of the appearingly abandoned site where we expected to find the confluence point.
+
+When we were on this site we realized that the zero is situated on the adjoining property in the east of this site. Unfortunately this site is very well secured and nobody was there to ask.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="We" end="18" start="16" id="T0"/>
+        <TRAJECTOR text="the western neighbour" end="235" start="214" id="T2"/>
+        <TRAJECTOR text="we" end="464" start="462" id="T4"/>
+        <TRAJECTOR text="the zero" end="508" start="500" id="T5"/>
+        <TRAJECTOR text="the adjoining property" end="546" start="524" id="T6"/>
+        <TRAJECTOR text="We" end="169" start="167" id="T1"/>
+        <TRAJECTOR text="where" end="253" start="248" id="T3"/>
+        <TRAJECTOR text="the confluence point" end="274" start="254" id="T8"/>
+        <TRAJECTOR text="nobody" end="628" start="622" id="T9"/>
+        <LANDMARK text="the site" end="247" start="239" id="L0"/>
+        <LANDMARK text="this site" end="482" start="473" id="L1"/>
+        <LANDMARK text="the adjoining property" end="546" start="524" id="L2"/>
+        <LANDMARK text="this site" end="571" start="562" id="L3"/>
+        <LANDMARK text="where" end="253" start="248" id="L4"/>
+        <LANDMARK text="there" end="638" start="633" id="L5"/>
+        <SPATIAL_INDICATOR text="of" end="238" start="236" id="S0"/>
+        <SPATIAL_INDICATOR text="on" end="472" start="470" id="S1"/>
+        <SPATIAL_INDICATOR text="situated on" end="523" start="512" id="S2"/>
+        <SPATIAL_INDICATOR text="located" end="285" start="278" id="S4"/>
+        <SPATIAL_INDICATOR text="was" end="632" start="629" id="S5"/>
+        <SPATIAL_INDICATOR text="in" end="549" start="547" id="S6"/>
+        <MOTION_INDICATOR text="arrived" end="26" start="19" id="M0"/>
+        <MOTION_INDICATOR text="visited" end="177" start="170" id="M1"/>
+        <MOTION_INDICATOR text="our trip" end="192" start="184" id="M2"/>
+        <PATH text="in Romania" end="37" start="27" id="P0"/>
+        <PATH text="it" end="180" start="178" id="P1"/>
+        <PATH text="to Sinaia" end="202" start="193" id="P2"/>
+        <DIRECTION text="western" end="225" start="218" id="DIR0"/>
+        <DIRECTION text="the east" end="558" start="550" id="DIR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="West" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR0" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T4" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T5" id="SR4"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="East" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR1" motion_id="" spatial_indicator_id="S6" landmark_id="L3" trajector_id="T6" id="SR5"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR7"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR8"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L0" trajector_id="T3" id="SR1"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L4" trajector_id="T8" id="SR9"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L5" trajector_id="T9" id="SR10"/>
+    </TAGS>
+</SpRL>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=7387</URL>
+    <CP>47°N 17°E</CP>
+    <TEXT>
+08-Jul-2006 -- For today we´ve planned to visit some geocaches north-west of Keszthely near Lake Balaton. But we´ve also visited N47° E017° which is located in an area mainly used for agricultural purposes.
+
+On some narrow paths we could go as near as 210 metres to the point by Jeep. There we parked near a raised hide and walked towards the point, which can be found in the middle of a corn field.
+
+Getting the exact position was easy due to the great GPS reception. We took some photos of the surrounding area, which show mainly corn field, hedges and wood. Than, we went back to the car and off to the next geocache.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="we" end="28" start="26" id="T0"/>
+        <TRAJECTOR text="some geocaches north-west of Keszthely" end="87" start="49" id="T2"/>
+        <TRAJECTOR text="some geocaches" end="63" start="49" id="T3"/>
+        <TRAJECTOR text="we" end="113" start="111" id="T4"/>
+        <TRAJECTOR text="we" end="232" start="230" id="T6"/>
+        <TRAJECTOR text="we" end="294" start="292" id="T7"/>
+        <TRAJECTOR text="we" end="570" start="568" id="T10"/>
+        <TRAJECTOR text="which" end="146" start="141" id="T1"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T5"/>
+        <TRAJECTOR text="which" end="356" start="351" id="T11"/>
+        <TRAJECTOR text="which" end="520" start="515" id="T12"/>
+        <LANDMARK text="Lake Balaton" end="105" start="93" id="L0"/>
+        <LANDMARK text="Keszthely" end="87" start="78" id="L1"/>
+        <LANDMARK text="an area mainly used for agricultural purposes" end="206" start="161" id="L2"/>
+        <LANDMARK text="a raised hide" end="320" start="307" id="L3"/>
+        <LANDMARK text="N47° E017°" end="140" start="130" id="L6"/>
+        <LANDMARK text="some narrow paths" end="229" start="212" id="L7"/>
+        <LANDMARK text="the point" end="276" start="267" id="L8"/>
+        <LANDMARK text="a corn field" end="399" start="387" id="L9"/>
+        <LANDMARK text="the point" end="349" start="340" id="L10"/>
+        <LANDMARK text="the surrounding area" end="513" start="493" id="L11"/>
+        <SPATIAL_INDICATOR text="of" end="77" start="75" id="S0"/>
+        <SPATIAL_INDICATOR text="located in" end="160" start="150" id="S1"/>
+        <SPATIAL_INDICATOR text="On" end="211" start="209" id="S4"/>
+        <SPATIAL_INDICATOR text="to" end="266" start="264" id="S5"/>
+        <SPATIAL_INDICATOR text="in the middle of" end="386" start="370" id="S6"/>
+        <MOTION_INDICATOR text="visit" end="48" start="43" id="M0"/>
+        <MOTION_INDICATOR text="visited" end="129" start="122" id="M1"/>
+        <MOTION_INDICATOR text="go" end="241" start="239" id="M2"/>
+        <MOTION_INDICATOR text="walked" end="331" start="325" id="M3"/>
+        <MOTION_INDICATOR text="went back" end="580" start="571" id="M4"/>
+        <MOTION_INDICATOR text="off" end="599" start="596" id="M5"/>
+        <PATH text="some geocaches north-west of Keszthely near Lake Balaton" end="105" start="49" id="P0"/>
+        <PATH text="N47° E017°" end="140" start="130" id="P1"/>
+        <PATH text="towards the point" end="349" start="332" id="P3"/>
+        <PATH text="to the car" end="591" start="581" id="P4"/>
+        <PATH text="to the next geocache" end="620" start="600" id="P5"/>
+        <PATH text="to the point" end="276" start="264" id="P6"/>
+        <DIRECTION text="north-west" end="74" start="64" id="DIR1"/>
+        <DISTANCE text="near" end="92" start="88" id="DIS0"/>
+        <DISTANCE text="210 metres" end="263" start="253" id="DIS1"/>
+        <DISTANCE text="near" end="306" start="302" id="DIS2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS0" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L0" trajector_id="T2" id="SR1"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="NW" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR1" motion_id="" spatial_indicator_id="S0" landmark_id="L1" trajector_id="T3" id="SR2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR3"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS2" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L3" trajector_id="T7" id="SR5"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR6"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T10" id="SR9"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T10" id="SR10"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L6" trajector_id="T1" id="SR4"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L2" trajector_id="T1" id="SR13"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="" motion_id="M2" spatial_indicator_id="S4" landmark_id="L7" trajector_id="T6" id="SR14"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L8" trajector_id="T5" id="SR15"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L10" trajector_id="T11" id="SR16"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L9" trajector_id="T11" id="SR17"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L11" trajector_id="T12" id="SR18"/>
+    </TAGS>
+</SpRL>

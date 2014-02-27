@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=3042</URL>
+    <CP>17°N 89°W</CP>
+    <TEXT>
+20-Jan-2004 -- My boyfriend Chris and I were backpacking through Belize for 3 weeks. Halfway through the trip, we stopped in San Ignacio where we explored Mayan ruins, canoed through caves that Mayans once inhabited, and made arrangements for a guide for this project.
+
+We met up with Jose in town in the late morning, and drove through the villages outside town into Mountain Pine Ridge Park. It wasn't too far, and we stopped the car less than a mile from the confluence along a logging road.
+
+The jungle didn't look too bad, it was open pine forest with low-lying vegetation. Jose originally intended just to drop us off and wait for us to be picked up, but decided at the last minute to go with us a bit to show us the dangerous plants to watch for.
+
+Of course, the GPS unit didn't show the topography of what we were about to get into... we found ourselves climbing straight up and over unexcavated ruins surrounded by dense jungle, with trees covered with thousands of needles and vines covered with pretty little flowers and tiny thorns.
+
+The grass in the low-lying vegetation was strong and sharp, and would shred our pants if we didn't walk carefully through it. Fields of ferns grew thick and high, and as each person would disappear in it, it would re-tangle behind them to challenge the next person.
+
+The confluence was just across the Rio On, so we had to rock-hop across the rushing river, and one slip of the foot would send us over waterfalls. We handed bags back and forth in case of accidents in slimy spots. Straight up the other bank, we reached our destination in the most open forested area of the trip.
+
+It was getting to be late afternoon, and we headed back down the hill after hitting the exact GPS spot. Our guide knew of a road that parallels the river further up, so we began scrambling up river, rock-hopping the whole way because the jungle was too dense around the river to stay on land. 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="My boyfriend Chris and I" end="40" start="16" id="T0"/>
+        <TRAJECTOR text="we" end="114" start="112" id="T1"/>
+        <TRAJECTOR text="we" end="146" start="144" id="T2"/>
+        <TRAJECTOR text="We" end="273" start="271" id="T3"/>
+        <TRAJECTOR text="the villages" end="350" start="338" id="T4"/>
+        <TRAJECTOR text="the car" end="436" start="429" id="T6"/>
+        <TRAJECTOR text="the confluence" end="473" start="459" id="T7"/>
+        <TRAJECTOR text="we" end="846" start="844" id="T8"/>
+        <TRAJECTOR text="unexcavated ruins" end="910" start="893" id="T9"/>
+        <TRAJECTOR text="trees" end="949" start="944" id="T10"/>
+        <TRAJECTOR text="vines" end="993" start="988" id="T11"/>
+        <TRAJECTOR text="The grass" end="1056" start="1047" id="T12"/>
+        <TRAJECTOR text="The confluence" end="1328" start="1314" id="T14"/>
+        <TRAJECTOR text="we" end="1362" start="1360" id="T15"/>
+        <TRAJECTOR text="we" end="1558" start="1556" id="T16"/>
+        <TRAJECTOR text="our destination" end="1582" start="1567" id="T17"/>
+        <TRAJECTOR text="we" end="1671" start="1669" id="T18"/>
+        <TRAJECTOR text="we" end="1799" start="1797" id="T20"/>
+        <TRAJECTOR text="the jungle" end="1872" start="1862" id="T21"/>
+        <TRAJECTOR text="where" end="143" start="138" id="T22"/>
+        <TRAJECTOR text="It" end="397" start="395" id="T23"/>
+        <TRAJECTOR text="Jose" end="584" start="580" id="T24"/>
+        <TRAJECTOR text="we" end="1138" start="1136" id="T25"/>
+        <TRAJECTOR text="us" end="1443" start="1441" id="T26"/>
+        <TRAJECTOR text="that" end="1761" start="1757" id="T27"/>
+        <LANDMARK text="San Ignacio" end="137" start="126" id="L0"/>
+        <LANDMARK text="town" end="298" start="294" id="L1"/>
+        <LANDMARK text="town" end="363" start="359" id="L2"/>
+        <LANDMARK text="the confluence along a logging road" end="494" start="459" id="L4"/>
+        <LANDMARK text="a logging road" end="494" start="480" id="L5"/>
+        <LANDMARK text="dense jungle" end="937" start="925" id="L6"/>
+        <LANDMARK text="thousands of needles" end="983" start="963" id="L8"/>
+        <LANDMARK text="pretty little flowers and tiny thorns" end="1044" start="1007" id="L9"/>
+        <LANDMARK text="the low-lying vegetation" end="1084" start="1060" id="L10"/>
+        <LANDMARK text="the Rio On" end="1355" start="1345" id="L11"/>
+        <LANDMARK text="the most open forested area of the trip" end="1625" start="1586" id="L13"/>
+        <LANDMARK text="the river" end="1781" start="1772" id="L14"/>
+        <LANDMARK text="the river" end="1903" start="1894" id="L15"/>
+        <LANDMARK text="" end="-1" start="-1" id="L3"/>
+        <LANDMARK text="a road" end="1756" start="1750" id="L7"/>
+        <SPATIAL_INDICATOR text="in" end="125" start="123" id="S0"/>
+        <SPATIAL_INDICATOR text="in" end="293" start="291" id="S1"/>
+        <SPATIAL_INDICATOR text="outside" end="358" start="351" id="S2"/>
+        <SPATIAL_INDICATOR text="from" end="458" start="454" id="S3"/>
+        <SPATIAL_INDICATOR text="along" end="479" start="474" id="S4"/>
+        <SPATIAL_INDICATOR text="surrounded by" end="924" start="911" id="S5"/>
+        <SPATIAL_INDICATOR text="covered with" end="962" start="950" id="S7"/>
+        <SPATIAL_INDICATOR text="covered with" end="1006" start="994" id="S8"/>
+        <SPATIAL_INDICATOR text="in" end="1059" start="1057" id="S9"/>
+        <SPATIAL_INDICATOR text="across" end="1344" start="1338" id="S10"/>
+        <SPATIAL_INDICATOR text="in" end="1585" start="1583" id="S11"/>
+        <SPATIAL_INDICATOR text="parallels" end="1771" start="1762" id="S12"/>
+        <SPATIAL_INDICATOR text="around" end="1893" start="1887" id="S13"/>
+        <MOTION_INDICATOR text="backpacking" end="57" start="46" id="M0"/>
+        <MOTION_INDICATOR text="explored" end="155" start="147" id="M1"/>
+        <MOTION_INDICATOR text="canoed" end="175" start="169" id="M2"/>
+        <MOTION_INDICATOR text="drove" end="329" start="324" id="M3"/>
+        <MOTION_INDICATOR text="climbing" end="871" start="863" id="M4"/>
+        <MOTION_INDICATOR text="rock-hop" end="1378" start="1370" id="M6"/>
+        <MOTION_INDICATOR text="reached" end="1566" start="1559" id="M7"/>
+        <MOTION_INDICATOR text="headed back" end="1683" start="1672" id="M8"/>
+        <MOTION_INDICATOR text="scrambling" end="1816" start="1806" id="M9"/>
+        <MOTION_INDICATOR text="rock-hopping" end="1839" start="1827" id="M10"/>
+        <MOTION_INDICATOR text="drop" end="617" start="613" id="M11"/>
+        <MOTION_INDICATOR text="go" end="694" start="692" id="M12"/>
+        <MOTION_INDICATOR text="walk" end="1150" start="1146" id="M13"/>
+        <MOTION_INDICATOR text="send" end="1440" start="1436" id="M14"/>
+        <MOTION_INDICATOR text="hitting" end="1711" start="1704" id="M15"/>
+        <PATH text="through Belize" end="72" start="58" id="P0"/>
+        <PATH text="Halfway through the trip" end="110" start="86" id="P1"/>
+        <PATH text="Mayan ruins" end="167" start="156" id="P2"/>
+        <PATH text="through caves that Mayans once inhabited" end="216" start="176" id="P3"/>
+        <PATH text="through the villages outside town into Mountain Pine Ridge Park" end="393" start="330" id="P4"/>
+        <PATH text="straight up and over unexcavated ruins surrounded by dense jungle, with trees covered with thousands of needles and vines covered with pretty little flowers and tiny thorns" end="1044" start="872" id="P5"/>
+        <PATH text="across the rushing river" end="1403" start="1379" id="P6"/>
+        <PATH text="Straight up the other bank" end="1554" start="1528" id="P7"/>
+        <PATH text="down the hill" end="1697" start="1684" id="P8"/>
+        <PATH text="up river" end="1825" start="1817" id="P9"/>
+        <PATH text="the whole way" end="1853" start="1840" id="P10"/>
+        <PATH text="through it" end="1171" start="1161" id="P11"/>
+        <PATH text="over waterfalls" end="1459" start="1444" id="P12"/>
+        <PATH text="our destination" end="1582" start="1567" id="P13"/>
+        <PATH text="the exact GPS spot" end="1730" start="1712" id="P14"/>
+        <DISTANCE text="too far" end="412" start="405" id="DIS0"/>
+        <DISTANCE text="less than a mile" end="453" start="437" id="DIS1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M1" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M2" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T2" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T3" id="SR4"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR5"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T4" id="SR6"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L4" trajector_id="T6" id="SR8"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L5" trajector_id="T7" id="SR9"/>
+        <RELATION FoR="relative" relative_value="ABOVE" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T8" id="SR10"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L6" trajector_id="T9" id="SR11"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S7" landmark_id="L8" trajector_id="T10" id="SR13"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L9" trajector_id="T11" id="SR14"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S9" landmark_id="L10" trajector_id="T12" id="SR15"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S10" landmark_id="L11" trajector_id="T14" id="SR17"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR18"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S11" landmark_id="L13" trajector_id="T17" id="SR20"/>
+        <RELATION FoR="relative" relative_value="BELOW" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P8" direction_id="" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T18" id="SR21"/>
+        <RELATION FoR="relative" relative_value="ABOVE" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P9" direction_id="" motion_id="M9" spatial_indicator_id="" landmark_id="" trajector_id="T20" id="SR23"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P10" direction_id="" motion_id="M10" spatial_indicator_id="" landmark_id="" trajector_id="T20" id="SR24"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S13" landmark_id="L15" trajector_id="T21" id="SR25"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L0" trajector_id="T22" id="SR12"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS0" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L3" trajector_id="T23" id="SR26"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M11" spatial_indicator_id="" landmark_id="L3" trajector_id="T24" id="SR27"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M12" spatial_indicator_id="" landmark_id="L3" trajector_id="T24" id="SR28"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P11" direction_id="" motion_id="M13" spatial_indicator_id="" landmark_id="" trajector_id="T25" id="SR29"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P12" direction_id="" motion_id="M14" spatial_indicator_id="" landmark_id="" trajector_id="T26" id="SR30"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P13" direction_id="" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T16" id="SR31"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P14" direction_id="" motion_id="M15" spatial_indicator_id="" landmark_id="" trajector_id="T18" id="SR32"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S12" landmark_id="L14" trajector_id="T27" id="SR33"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L7" trajector_id="T27" id="SR34"/>
+    </TAGS>
+</SpRL>

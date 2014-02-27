@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=2523</URL>
+    <CP>47°N 19°E</CP>
+    <TEXT>
+21-Sep-2001 -- The confluence point of 47°N and 19°E can be found in a huge agricultural land. The eastern part of Hungary is a big lowland, called Alfold in Hungarian. In these areas apart from the woods are cultivated land, where they are growing industrial plants.
+
+In this area mainly corn and onion are grown. The exact confluence of 47°N and 19°E is inside of a corn field. The corn was already harvested, when we went there, so on the pictures you can only see the cut stems in the earth.
+
+Just one mile from the confluence on the 51st road is the Restaurant Szalki, where we could rest our tiredness by having a good lunch. 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="The eastern part" end="112" start="96" id="T2"/>
+        <TRAJECTOR text="The confluence point of 47°N and 19°E" end="53" start="16" id="T3"/>
+        <TRAJECTOR text="The exact confluence of 47°N and 19°E" end="353" start="316" id="T4"/>
+        <TRAJECTOR text="the confluence" end="531" start="517" id="T5"/>
+        <TRAJECTOR text="the 51st road" end="548" start="535" id="T6"/>
+        <TRAJECTOR text="the Restaurant Szalki" end="573" start="552" id="T7"/>
+        <TRAJECTOR text="the woods" end="205" start="196" id="T0"/>
+        <TRAJECTOR text="corn and onion" end="304" start="290" id="T1"/>
+        <TRAJECTOR text="we" end="420" start="418" id="T8"/>
+        <TRAJECTOR text="the cut stems" end="482" start="469" id="T9"/>
+        <TRAJECTOR text="where" end="580" start="575" id="T10"/>
+        <LANDMARK text="a huge agricultural land" end="94" start="70" id="L0"/>
+        <LANDMARK text="Hungary" end="123" start="116" id="L1"/>
+        <LANDMARK text="a corn field" end="379" start="367" id="L2"/>
+        <LANDMARK text="the Restaurant Szalki" end="573" start="552" id="L3"/>
+        <LANDMARK text="the 51st road" end="548" start="535" id="L4"/>
+        <LANDMARK text="these areas" end="184" start="173" id="L5"/>
+        <LANDMARK text="this area" end="282" start="273" id="L6"/>
+        <LANDMARK text="the earth" end="495" start="486" id="L7"/>
+        <SPATIAL_INDICATOR text="in" end="69" start="67" id="S0"/>
+        <SPATIAL_INDICATOR text="of" end="115" start="113" id="S1"/>
+        <SPATIAL_INDICATOR text="inside of" end="366" start="357" id="S2"/>
+        <SPATIAL_INDICATOR text="from" end="516" start="512" id="S3"/>
+        <SPATIAL_INDICATOR text="on" end="534" start="532" id="S4"/>
+        <SPATIAL_INDICATOR text="In" end="172" start="170" id="S5"/>
+        <SPATIAL_INDICATOR text="In" end="272" start="270" id="S6"/>
+        <SPATIAL_INDICATOR text="in" end="485" start="483" id="S7"/>
+        <MOTION_INDICATOR text="went" end="425" start="421" id="M0"/>
+        <PATH text="there" end="431" start="426" id="P0"/>
+        <DIRECTION text="eastern" end="107" start="100" id="DIR0"/>
+        <DISTANCE text="one mile" end="511" start="503" id="DIS0"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="East" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR0" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T3" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T4" id="SR4"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L3" trajector_id="T5" id="SR5"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L4" trajector_id="T7" id="SR7"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L5" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L6" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T8" id="SR6"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="PO" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S7" landmark_id="L7" trajector_id="T9" id="SR8"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L3" trajector_id="T10" id="SR9"/>
+    </TAGS>
+</SpRL>

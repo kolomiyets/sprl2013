@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=9803</URL>
+    <CP>47°N 26°E</CP>
+    <TEXT>
+23-Jul-2002 -- 47°N 26°E is located in the Ceahlău mountains near the village Izvoru Alb.
+
+In the 3rd day of our trekking-tour through Ceahlău we visited the confluence at 16:12 o'clock. Only thick forest, nothing to see, only trees. It wasn`t very easy to get there with our big rucksacks on the back.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="we" end="146" start="144" id="T0"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T3"/>
+        <TRAJECTOR text="our big rucksacks" end="290" start="273" id="T4"/>
+        <TRAJECTOR text="47°N 26°E" end="25" start="16" id="T1"/>
+        <LANDMARK text="" end="-1" start="-1" id="L0"/>
+        <LANDMARK text="the back" end="302" start="294" id="L1"/>
+        <LANDMARK text="the Ceahlău mountains" end="61" start="40" id="L2"/>
+        <LANDMARK text="the village Izvoru Alb" end="89" start="67" id="L3"/>
+        <SPATIAL_INDICATOR text="on" end="293" start="291" id="S0"/>
+        <SPATIAL_INDICATOR text="located in" end="39" start="29" id="S1"/>
+        <MOTION_INDICATOR text="visited" end="154" start="147" id="M0"/>
+        <MOTION_INDICATOR text="our trekking-tour" end="127" start="110" id="M1"/>
+        <MOTION_INDICATOR text="get" end="261" start="258" id="M2"/>
+        <PATH text="the confluence" end="169" start="155" id="P0"/>
+        <PATH text="through Ceahlău" end="143" start="128" id="P1"/>
+        <PATH text="there" end="267" start="262" id="P2"/>
+        <DISTANCE text="near" end="66" start="62" id="DIS0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR4"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L1" trajector_id="T4" id="SR5"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L2" trajector_id="T1" id="SR2"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS0" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L3" trajector_id="T1" id="SR3"/>
+    </TAGS>
+</SpRL>

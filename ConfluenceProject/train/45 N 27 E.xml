@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=9790</URL>
+    <CP>45°N 27°E</CP>
+    <TEXT>
+28-Oct-2001 -- For this confluence we took with us two friends, Adina and Cristi. Adina just got her driving license and bought a car so she drove. Although the trip was quite short (aprox. 100km from Bucharest) it took us quite a while to get there.
+
+It's easy to reach this confluence, after you pass through Caragele (coming from Pogoanele) you must turn left on a dirt road (just after a small bridge). There is a huge uncultivated field so if you follow the dirt roads you can get to about 40 meters of the confluence by car. A small walk and that's it. Photo 1 is looking north, photo 2 west, photo 3 south and photo 4 east. Photo 5 is the mandatory GPS picture, photo 6 is with the group (from left to right: Ioana, Adina, Cristi) and photo 7 with myself. 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="you" end="298" start="295" id="T0"/>
+        <TRAJECTOR text="you" end="348" start="345" id="T1"/>
+        <TRAJECTOR text="you" end="452" start="449" id="T2"/>
+        <TRAJECTOR text="she" end="141" start="138" id="T3"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T4"/>
+        <TRAJECTOR text="us" end="223" start="221" id="T5"/>
+        <TRAJECTOR text="you" end="478" start="475" id="T6"/>
+        <LANDMARK text="the confluence" end="523" start="509" id="L0"/>
+        <SPATIAL_INDICATOR text="to" end="489" start="487" id="S0"/>
+        <MOTION_INDICATOR text="pass" end="303" start="299" id="M0"/>
+        <MOTION_INDICATOR text="turn" end="358" start="354" id="M1"/>
+        <MOTION_INDICATOR text="follow" end="459" start="453" id="M2"/>
+        <MOTION_INDICATOR text="get" end="486" start="483" id="M3"/>
+        <MOTION_INDICATOR text="drove" end="147" start="142" id="M4"/>
+        <MOTION_INDICATOR text="the trip" end="166" start="158" id="M5"/>
+        <MOTION_INDICATOR text="get" end="244" start="241" id="M6"/>
+        <MOTION_INDICATOR text="reach" end="271" start="266" id="M7"/>
+        <MOTION_INDICATOR text="A small walk" end="544" start="532" id="M8"/>
+        <PATH text="on a dirt road" end="378" start="364" id="P1"/>
+        <PATH text="the dirt roads" end="474" start="460" id="P2"/>
+        <PATH text="to about 40 meters of the confluence" end="523" start="487" id="P4"/>
+        <PATH text="through Caragele (coming from Pogoanele)" end="344" start="304" id="P0"/>
+        <PATH text="from Bucharest" end="211" start="197" id="P3"/>
+        <PATH text="there" end="250" start="245" id="P5"/>
+        <PATH text="this confluence" end="287" start="272" id="P6"/>
+        <DIRECTION text="left" end="363" start="359" id="DIR0"/>
+        <DISTANCE text="about 40 meters" end="505" start="490" id="DIS0"/>
+        <DISTANCE text="aprox. 100km" end="196" start="184" id="DIS1"/>
+        <RELATION FoR="relative" relative_value="LEFT" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="DIR0" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR4"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS1" path_id="P3" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR5"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR6"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR7"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T6" id="SR8"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T4" id="SR9"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR10"/>
+    </TAGS>
+</SpRL>

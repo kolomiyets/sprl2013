@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=7774</URL>
+    <CP>49°N 21°E</CP>
+    <TEXT>
+19-Oct-2007 -- On cold, cloudy October morning I was travelling from Cracow to Krynica-Zdrój, a mountain resort in the Polish Beskids. Via Bochnia and Brzesko I got to Nowy Sącz and from there I drove along the Poprad River to Piwniczna-Zdrój. At 12:30 PM I crossed the Polish – Slovak border and headed south-east towards Prešov – a regional capital town. In Sabinov, a little town located some 15 km before Prešov, I left the main road, turned south and via local roads through Jarovnice and Daletice I reached Chminianska Nová Ves. There I turned to the west and after ca. 5 km came to a village of Chminianske Jakubovany.
+
+This area is densely populated by Gypsies (or, to be politically correct, by the Romani people) and right before the village I saw their settlement. Improvised dwellings made from scrap plywood, sheets of plastic, corrugated iron and cardboard resembled a South American favela – quite a shocking sight in the middle of the European Union in the 21st century. The Slovakian government has made great efforts to convince those people to change their way of living but tradition seems to be stronger.
+
+I stopped in the village centre, next to Obecný úrad (municipal office) and the police station, and having been granted a permission to park my car safely there, at 14:00 I set off for the search of the confluence. It was quite cold for mid-October – merely 7 ˚C, but fortunately it didn’t rain and even the sun came out occasionally. At the junction in the centre of the village I turned north-east, passed by the yard where the first visitors parked their car and followed a path running up along the stream.
+
+After ca. 700 m I came to a minor fork and took the less distinct path right. I crossed the stream and at the other side I started climbing up the hill. GPS directions were a bit misleading, yet after a short struggle with bushes, branches and muggy, slippery ground I reached a gentle slope where I noticed a plate mounted on the tree. It was the marker left by the first visitors (and so far the only ones). However, according to my device the actual confluence point lay some 10 m further to the south. The plate was in a very good condition (after four years in the forest), firmly fixed to the tree. Even though it is not recommended to leave anything at the confluence point it was a nice remainder of this place history. Slightly different way I returned to the village and having bid farewell to kind police officers I hit the road and drove towards Prešov.
+
+As it was my first confluence visit in Slovakia, according to the tradition I also provide the narrative in the language of the host country – many thanks for the translation to Mr. Michal Kelový.
+
+Visit details:
+
+    Time at the CP: 14:42
+    Distance to the CP: 0 m
+    GPS accuracy: 5 m
+    GPS altitude: 525 m asl
+    Temperature: 10° C
+
+My track (PLT file) is available here.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="I" end="49" start="48" id="T0"/>
+        <TRAJECTOR text="a mountain resort" end="112" start="95" id="T1"/>
+        <TRAJECTOR text="I" end="161" start="160" id="T2"/>
+        <TRAJECTOR text="I" end="195" start="194" id="T3"/>
+        <TRAJECTOR text="I" end="258" start="257" id="T4"/>
+        <TRAJECTOR text="a little town" end="383" start="370" id="T5"/>
+        <TRAJECTOR text="I" end="419" start="418" id="T6"/>
+        <TRAJECTOR text="I" end="505" start="504" id="T7"/>
+        <TRAJECTOR text="I" end="543" start="542" id="T8"/>
+        <TRAJECTOR text="I" end="1129" start="1128" id="T11"/>
+        <TRAJECTOR text="I" end="1509" start="1508" id="T12"/>
+        <TRAJECTOR text="the junction" end="1478" start="1466" id="T13"/>
+        <TRAJECTOR text="the centre" end="1492" start="1482" id="T14"/>
+        <TRAJECTOR text="I" end="1657" start="1656" id="T15"/>
+        <TRAJECTOR text="I" end="1719" start="1718" id="T16"/>
+        <TRAJECTOR text="I" end="1762" start="1761" id="T17"/>
+        <TRAJECTOR text="I" end="1908" start="1907" id="T18"/>
+        <TRAJECTOR text="a plate" end="1955" start="1948" id="T19"/>
+        <TRAJECTOR text="the actual confluence point" end="2109" start="2082" id="T20"/>
+        <TRAJECTOR text="I" end="2392" start="2391" id="T21"/>
+        <TRAJECTOR text="I" end="2466" start="2465" id="T22"/>
+        <TRAJECTOR text="I" end="1300" start="1299" id="T9"/>
+        <TRAJECTOR text="where" end="1553" start="1548" id="T23"/>
+        <TRAJECTOR text="their car" end="1589" start="1580" id="T24"/>
+        <TRAJECTOR text="The plate" end="2155" start="2146" id="T25"/>
+        <TRAJECTOR text="anything" end="2296" start="2288" id="T26"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T27"/>
+        <TRAJECTOR text="I" end="754" start="753" id="T28"/>
+        <LANDMARK text="the Polish Beskids" end="134" start="116" id="L0"/>
+        <LANDMARK text="Prešov" end="416" start="410" id="L1"/>
+        <LANDMARK text="the centre of the village" end="1507" start="1482" id="L4"/>
+        <LANDMARK text="the village" end="1507" start="1496" id="L5"/>
+        <LANDMARK text="the tree" end="1975" start="1967" id="L6"/>
+        <LANDMARK text="" end="-1" start="-1" id="L7"/>
+        <LANDMARK text="Sabinov" end="368" start="361" id="L11"/>
+        <LANDMARK text="There" end="541" start="536" id="L12"/>
+        <LANDMARK text="the junction in the centre of the village" end="1507" start="1466" id="L13"/>
+        <LANDMARK text="the yard" end="1547" start="1539" id="L14"/>
+        <LANDMARK text="the other side" end="1760" start="1746" id="L15"/>
+        <LANDMARK text="the forest" end="2216" start="2206" id="L16"/>
+        <LANDMARK text="the tree" end="2243" start="2235" id="L17"/>
+        <LANDMARK text="the confluence point" end="2320" start="2300" id="L18"/>
+        <LANDMARK text="the village" end="752" start="741" id="L19"/>
+        <SPATIAL_INDICATOR text="in" end="115" start="113" id="S0"/>
+        <SPATIAL_INDICATOR text="located" end="391" start="384" id="S1"/>
+        <SPATIAL_INDICATOR text="in" end="1481" start="1479" id="S3"/>
+        <SPATIAL_INDICATOR text="of" end="1495" start="1493" id="S4"/>
+        <SPATIAL_INDICATOR text="on" end="1966" start="1964" id="S5"/>
+        <SPATIAL_INDICATOR text="In" end="360" start="358" id="S7"/>
+        <SPATIAL_INDICATOR text="At" end="1465" start="1463" id="S8"/>
+        <SPATIAL_INDICATOR text="at" end="1745" start="1743" id="S9"/>
+        <SPATIAL_INDICATOR text="in" end="2205" start="2203" id="S10"/>
+        <SPATIAL_INDICATOR text="fixed to" end="2234" start="2226" id="S11"/>
+        <SPATIAL_INDICATOR text="at" end="2299" start="2297" id="S12"/>
+        <MOTION_INDICATOR text="travelling" end="64" start="54" id="M0"/>
+        <MOTION_INDICATOR text="got" end="165" start="162" id="M1"/>
+        <MOTION_INDICATOR text="crossed" end="266" start="259" id="M3"/>
+        <MOTION_INDICATOR text="headed" end="304" start="298" id="M4"/>
+        <MOTION_INDICATOR text="left" end="424" start="420" id="M5"/>
+        <MOTION_INDICATOR text="turned" end="446" start="440" id="M6"/>
+        <MOTION_INDICATOR text="reached" end="513" start="506" id="M7"/>
+        <MOTION_INDICATOR text="turned" end="550" start="544" id="M8"/>
+        <MOTION_INDICATOR text="came" end="586" start="582" id="M9"/>
+        <MOTION_INDICATOR text="passed" end="1535" start="1529" id="M12"/>
+        <MOTION_INDICATOR text="followed" end="1602" start="1594" id="M13"/>
+        <MOTION_INDICATOR text="came" end="1662" start="1658" id="M14"/>
+        <MOTION_INDICATOR text="took" end="1687" start="1683" id="M15"/>
+        <MOTION_INDICATOR text="crossed" end="1727" start="1720" id="M16"/>
+        <MOTION_INDICATOR text="climbing up" end="1782" start="1771" id="M17"/>
+        <MOTION_INDICATOR text="reached" end="1916" start="1909" id="M18"/>
+        <MOTION_INDICATOR text="returned" end="2401" start="2393" id="M19"/>
+        <MOTION_INDICATOR text="drove" end="2489" start="2484" id="M20"/>
+        <MOTION_INDICATOR text="drove" end="201" start="196" id="M2"/>
+        <MOTION_INDICATOR text="turned" end="1516" start="1510" id="M10"/>
+        <MOTION_INDICATOR text="after" end="572" start="567" id="M11"/>
+        <MOTION_INDICATOR text="stopped" end="1137" start="1130" id="M21"/>
+        <MOTION_INDICATOR text="set off" end="1308" start="1301" id="M22"/>
+        <MOTION_INDICATOR text="parked" end="1579" start="1573" id="M23"/>
+        <MOTION_INDICATOR text="After" end="1645" start="1640" id="M24"/>
+        <MOTION_INDICATOR text="my first confluence visit" end="2542" start="2517" id="M25"/>
+        <PATH text="from Cracow to Krynica-Zdrój" end="93" start="65" id="P0"/>
+        <PATH text="Via Bochnia and Brzesko" end="159" start="136" id="P1"/>
+        <PATH text="to Nowy Sącz" end="178" start="166" id="P2"/>
+        <PATH text="the Polish – Slovak border" end="293" start="267" id="P4"/>
+        <PATH text="towards Prešov" end="330" start="316" id="P5"/>
+        <PATH text="the main road" end="438" start="425" id="P7"/>
+        <PATH text="via local roads through Jarovnice and Daletice" end="503" start="457" id="P8"/>
+        <PATH text="Chminianska Nová Ves" end="534" start="514" id="P9"/>
+        <PATH text="to the west" end="562" start="551" id="P10"/>
+        <PATH text="to a village of Chminianske Jakubovany" end="625" start="587" id="P11"/>
+        <PATH text="by the yard" end="1547" start="1536" id="P15"/>
+        <PATH text="a path running up along the stream" end="1637" start="1603" id="P16"/>
+        <PATH text="to a minor fork" end="1678" start="1663" id="P17"/>
+        <PATH text="the less distinct path right" end="1716" start="1688" id="P18"/>
+        <PATH text="the stream" end="1738" start="1728" id="P19"/>
+        <PATH text="the hill" end="1791" start="1783" id="P20"/>
+        <PATH text="a gentle slope" end="1931" start="1917" id="P21"/>
+        <PATH text="to the village" end="2416" start="2402" id="P22"/>
+        <PATH text="towards Prešov" end="2504" start="2490" id="P23"/>
+        <PATH text="along the Poprad River to Piwniczna-Zdrój" end="243" start="202" id="P3"/>
+        <PATH text="from there" end="193" start="183" id="P12"/>
+        <PATH text="in the village centre, next to Obecný úrad (municipal office) and the police station" end="1222" start="1138" id="P13"/>
+        <PATH text="the confluence" end="1341" start="1327" id="P24"/>
+        <PATH text="where" end="1553" start="1548" id="P25"/>
+        <PATH text="in Slovakia" end="2554" start="2543" id="P26"/>
+        <DIRECTION text="south-east" end="315" start="305" id="DIR0"/>
+        <DIRECTION text="south" end="452" start="447" id="DIR1"/>
+        <DIRECTION text="the west" end="562" start="554" id="DIR2"/>
+        <DIRECTION text="south" end="2144" start="2139" id="DIR5"/>
+        <DIRECTION text="north-east" end="1527" start="1517" id="DIR3"/>
+        <DIRECTION text="right" end="1716" start="1711" id="DIR4"/>
+        <DISTANCE text="some 15 km" end="402" start="392" id="DIS0"/>
+        <DISTANCE text="ca. 5 km" end="581" start="573" id="DIS1"/>
+        <DISTANCE text="ca. 700 m" end="1655" start="1646" id="DIS3"/>
+        <DISTANCE text="some 10 m" end="2123" start="2114" id="DIS4"/>
+        <DISTANCE text="before" end="740" start="734" id="DIS5"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2, P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR4"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="SE" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="DIR0" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR5"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T5" id="SR6"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR1" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T6" id="SR8"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P9, P8" direction_id="" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR9"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="West" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P10" direction_id="DIR2" motion_id="M8" spatial_indicator_id="" landmark_id="L12" trajector_id="T8" id="SR10"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P11" direction_id="" motion_id="M9" spatial_indicator_id="" landmark_id="" trajector_id="T8" id="SR11"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L4" trajector_id="T13" id="SR17"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L5" trajector_id="T14" id="SR18"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P15" direction_id="" motion_id="M12" spatial_indicator_id="" landmark_id="" trajector_id="T12" id="SR19"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P16" direction_id="" motion_id="M13" spatial_indicator_id="" landmark_id="" trajector_id="T12" id="SR20"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P17" direction_id="" motion_id="M14" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR21"/>
+        <RELATION FoR="relative" relative_value="RIGHT" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P18" direction_id="DIR4" motion_id="M15" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR22"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P19" direction_id="" motion_id="M16" spatial_indicator_id="" landmark_id="" trajector_id="T16" id="SR23"/>
+        <RELATION FoR="relative" relative_value="ABOVE" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P20" direction_id="" motion_id="M17" spatial_indicator_id="S9" landmark_id="L15" trajector_id="T17" id="SR24"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P21" direction_id="" motion_id="M18" spatial_indicator_id="" landmark_id="" trajector_id="T18" id="SR25"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L6" trajector_id="T19" id="SR26"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS4" path_id="" direction_id="DIR5" motion_id="" spatial_indicator_id="" landmark_id="L7" trajector_id="T20" id="SR27"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P22" direction_id="" motion_id="M19" spatial_indicator_id="" landmark_id="" trajector_id="T21" id="SR28"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P23" direction_id="" motion_id="M20" spatial_indicator_id="" landmark_id="" trajector_id="T22" id="SR29"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P12, P3" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR14"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L11" trajector_id="T5" id="SR3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P7" direction_id="" motion_id="M5" spatial_indicator_id="S7" landmark_id="L11" trajector_id="T6" id="SR13"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="" motion_id="M11" spatial_indicator_id="" landmark_id="" trajector_id="T8" id="SR15"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P13" direction_id="" motion_id="M21" spatial_indicator_id="" landmark_id="" trajector_id="T11" id="SR16"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P24" direction_id="" motion_id="M22" spatial_indicator_id="" landmark_id="" trajector_id="T9" id="SR35"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="NE" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR3" motion_id="M10" spatial_indicator_id="S8" landmark_id="L13" trajector_id="T12" id="SR36"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L14" trajector_id="T23" id="SR37"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P25" direction_id="" motion_id="M23" spatial_indicator_id="" landmark_id="" trajector_id="T24" id="SR38"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS3" path_id="" direction_id="" motion_id="M24" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR39"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S10" landmark_id="L16" trajector_id="T25" id="SR40"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S11" landmark_id="L17" trajector_id="T25" id="SR41"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="PO" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S12" landmark_id="L18" trajector_id="T26" id="SR42"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P26" direction_id="" motion_id="M25" spatial_indicator_id="" landmark_id="" trajector_id="T27" id="SR43"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS5" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L19" trajector_id="T28" id="SR44"/>
+    </TAGS>
+</SpRL>

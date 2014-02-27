@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=24836</URL>
+    <CP>57°N 11°E</CP>
+    <TEXT>
+13-Aug-2006 -- Summer-holiday on our sailing-boat. After a very nice trip along the west coast of Sweden we made our way home to Fehmarn, Germany. On Sunday we sailed from Læsø to Anholt, both of them beautiful islands of Denmark, and had very good weather conditions. Partly cloudy with some 5 beaufort (8-10 m/s = 33 km/h),heading southeast, and some swell of 1-1.5 m hight.
+
+Zikade III made her way with direct course and around 6 knots (=11 km/h). With this conditions we didn't want to use the engine so there was only one attempt to catch the confluence lying on our way. With some minor corrections of the course in a gripping atmosphere we passed the confluence very near from the zero of longitude and zeroed the latitude. What a great fun.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="we" end="108" start="106" id="T0"/>
+        <TRAJECTOR text="the west coast" end="95" start="81" id="T1"/>
+        <TRAJECTOR text="Fehmarn" end="137" start="130" id="T2"/>
+        <TRAJECTOR text="we" end="160" start="158" id="T3"/>
+        <TRAJECTOR text="both of them beautiful islands" end="219" start="189" id="T4"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T5"/>
+        <TRAJECTOR text="Læsø" end="177" start="173" id="T6"/>
+        <TRAJECTOR text="Zikade III" end="389" start="379" id="T7"/>
+        <TRAJECTOR text="the confluence" end="560" start="546" id="T8"/>
+        <TRAJECTOR text="we" end="648" start="646" id="T9"/>
+        <LANDMARK text="Sweden" end="105" start="99" id="L0"/>
+        <LANDMARK text="Germany" end="146" start="139" id="L1"/>
+        <LANDMARK text="Denmark" end="230" start="223" id="L2"/>
+        <LANDMARK text="Anholt" end="187" start="181" id="L3"/>
+        <LANDMARK text="our way" end="577" start="570" id="L4"/>
+        <SPATIAL_INDICATOR text="of" end="98" start="96" id="S0"/>
+        <SPATIAL_INDICATOR text="," end="138" start="137" id="S1"/>
+        <SPATIAL_INDICATOR text="of" end="222" start="220" id="S2"/>
+        <SPATIAL_INDICATOR text="to" end="180" start="178" id="S3"/>
+        <SPATIAL_INDICATOR text="lying on" end="569" start="561" id="S4"/>
+        <MOTION_INDICATOR text="a very nice trip" end="74" start="58" id="M0"/>
+        <MOTION_INDICATOR text="our way home" end="126" start="114" id="M2"/>
+        <MOTION_INDICATOR text="sailed" end="167" start="161" id="M3"/>
+        <MOTION_INDICATOR text="heading" end="333" start="326" id="M4"/>
+        <MOTION_INDICATOR text="made her way" end="402" start="390" id="M5"/>
+        <MOTION_INDICATOR text="passed" end="655" start="649" id="M6"/>
+        <PATH text="along the west coast of Sweden" end="105" start="75" id="P0"/>
+        <PATH text="to Fehmarn, Germany" end="146" start="127" id="P1"/>
+        <PATH text="from Læsø to Anholt" end="187" start="168" id="P2"/>
+        <PATH text="the confluence" end="670" start="656" id="P3"/>
+        <DIRECTION text="west" end="89" start="85" id="DIR0"/>
+        <DIRECTION text="southeast" end="343" start="334" id="DIR1"/>
+        <DIRECTION text="direct course" end="421" start="408" id="DIR2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR1"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="West" RCC8_value="" specific_type="" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR0" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T1" id="SR2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T2" id="SR3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR4"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T4" id="SR5"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="SE" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR1" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR6"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L3" trajector_id="T6" id="SR7"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR2" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR8"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L4" trajector_id="T8" id="SR9"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T9" id="SR10"/>
+    </TAGS>
+</SpRL>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=2931</URL>
+    <CP>47°N 14°E</CP>
+    <TEXT>
+20-May-2001 -- After careful investigations, intense studies of a lot of road maps and even more detailed stuff on the matter we decided to do the job on that particular Sunday. The road distance between our homes and the spot is roughly 300 km, the weather was as fine as could be and we knew we could make the spot easily with no special efforts if the last 4 kilometers were accessible to the car (this is a private and unpaved road through the forest at the north-east side of the mountain).
+
+At the village of Stadl a.d. Mur, about 10 km north of the spot, we made a stop and had a conversation to a policeman on duty (he stopped us and claimed over speed). He gave us a lot of useful hints regarding accessibility to this area, but no fine.
+
+After gaining permission (R. Nagele) to use the private road we made the first 9 km, entered the private road and slowly headed towards the spot (4 km), as the road is not intended to be used by ordinary cars. As we finally stepped out of the car and had a first glance at the location we heard some voices - up the slope Michael Carl and Fred Janosievics came out of the bush. They had used less accurate maps.
+
+From that time on we headed for the spot together, which is about 12 meters beside the road at the upside of the slope. After taking plenty of pictures we had a rest (was the whole thing really that breath-taking?) and decided not to miss the opportunity and have a short walk over meadows up to the next peak called Sonntagsbuehel. Our GPS indicated an altitude of 1929 m, which nicely matched with the indication at a confluence spot there.
+
+After this tribute to the sportive aspects we dropped Michael and Fred at their car at the main road and then decided not to leave Styria without having a glass of those famous Murauer beer. We dropped into the brewery at Murau and can now confirm: They really make pretty good beer!
+
+Good luck and see you at another spot!
+
+See more pictures at http://members.fortunecity.com/augdoppl/Main/47N14E.htm.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="our homes" end="214" start="205" id="T0"/>
+        <TRAJECTOR text="a private and unpaved road" end="436" start="410" id="T1"/>
+        <TRAJECTOR text="the forest" end="455" start="445" id="T2"/>
+        <TRAJECTOR text="the village of Stadl a.d. Mur" end="530" start="501" id="T5"/>
+        <TRAJECTOR text="we" end="812" start="810" id="T6"/>
+        <TRAJECTOR text="we" end="964" start="962" id="T7"/>
+        <TRAJECTOR text="Michael Carl and Fred Janosievics" end="1104" start="1071" id="T8"/>
+        <TRAJECTOR text="we" end="1182" start="1180" id="T9"/>
+        <TRAJECTOR text="the spot" end="1202" start="1194" id="T10"/>
+        <TRAJECTOR text="we" end="1316" start="1314" id="T12"/>
+        <TRAJECTOR text="their car" end="1689" start="1680" id="T13"/>
+        <TRAJECTOR text="We" end="1799" start="1797" id="T14"/>
+        <TRAJECTOR text="the brewery" end="1824" start="1813" id="T15"/>
+        <TRAJECTOR text="we" end="565" start="563" id="T3"/>
+        <TRAJECTOR text="the road" end="1253" start="1245" id="T4"/>
+        <TRAJECTOR text="Michael and Fred" end="1676" start="1660" id="T11"/>
+        <LANDMARK text="the spot" end="227" start="219" id="L0"/>
+        <LANDMARK text="the forest" end="455" start="445" id="L1"/>
+        <LANDMARK text="the mountain" end="494" start="482" id="L3"/>
+        <LANDMARK text="the spot" end="561" start="553" id="L5"/>
+        <LANDMARK text="the road" end="1253" start="1245" id="L6"/>
+        <LANDMARK text="the slope" end="1280" start="1271" id="L7"/>
+        <LANDMARK text="the main road" end="1706" start="1693" id="L8"/>
+        <LANDMARK text="Murau" end="1833" start="1828" id="L9"/>
+        <SPATIAL_INDICATOR text="between" end="204" start="197" id="S0"/>
+        <SPATIAL_INDICATOR text="through" end="444" start="437" id="S1"/>
+        <SPATIAL_INDICATOR text="at" end="458" start="456" id="S2"/>
+        <SPATIAL_INDICATOR text="of" end="552" start="550" id="S5"/>
+        <SPATIAL_INDICATOR text="beside" end="1244" start="1238" id="S6"/>
+        <SPATIAL_INDICATOR text="at" end="1692" start="1690" id="S8"/>
+        <SPATIAL_INDICATOR text="at" end="1827" start="1825" id="S9"/>
+        <SPATIAL_INDICATOR text="at" end="1256" start="1254" id="S3"/>
+        <MOTION_INDICATOR text="entered" end="841" start="834" id="M0"/>
+        <MOTION_INDICATOR text="headed" end="876" start="870" id="M1"/>
+        <MOTION_INDICATOR text="came out" end="1113" start="1105" id="M3"/>
+        <MOTION_INDICATOR text="headed" end="1189" start="1183" id="M4"/>
+        <MOTION_INDICATOR text="a short walk" end="1438" start="1426" id="M5"/>
+        <MOTION_INDICATOR text="dropped" end="1807" start="1800" id="M6"/>
+        <MOTION_INDICATOR text="stepped out" end="984" start="973" id="M7"/>
+        <MOTION_INDICATOR text="a stop" end="577" start="571" id="M2"/>
+        <MOTION_INDICATOR text="made" end="817" start="813" id="M8"/>
+        <MOTION_INDICATOR text="dropped" end="1659" start="1652" id="M9"/>
+        <PATH text="the private road" end="858" start="842" id="P0"/>
+        <PATH text="towards the spot" end="893" start="877" id="P1"/>
+        <PATH text="of the bush" end="1125" start="1114" id="P4"/>
+        <PATH text="for the spot" end="1202" start="1190" id="P5"/>
+        <PATH text="over meadows up to the next peak called Sonntagsbuehel" end="1493" start="1439" id="P6"/>
+        <PATH text="into the brewery at Murau" end="1833" start="1808" id="P7"/>
+        <PATH text="of the car" end="995" start="985" id="P8"/>
+        <PATH text="at their car" end="1689" start="1677" id="P2"/>
+        <DIRECTION text="the north-east" end="473" start="459" id="DIR0"/>
+        <DIRECTION text="north" end="549" start="544" id="DIR1"/>
+        <DISTANCE text="roughly 300 km" end="245" start="231" id="DIS0"/>
+        <DISTANCE text="about 10 km" end="543" start="532" id="DIS1"/>
+        <DISTANCE text="4 km" end="899" start="895" id="DIS2"/>
+        <DISTANCE text="about 12 meters" end="1237" start="1222" id="DIS3"/>
+        <DISTANCE text="9 km" end="832" start="828" id="DIS4"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="North" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="DIR1" motion_id="" spatial_indicator_id="S5" landmark_id="L5" trajector_id="T5" id="SR5"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T6" id="SR6"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS2" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T6" id="SR7"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T8" id="SR9"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T9" id="SR10"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS3" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L6" trajector_id="T10" id="SR11"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T12" id="SR13"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="PO" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L8" trajector_id="T13" id="SR14"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P7" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T14" id="SR15"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S9" landmark_id="L9" trajector_id="T15" id="SR16"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P8" direction_id="" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR17"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="NE" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR0" motion_id="" spatial_indicator_id="S2" landmark_id="L3" trajector_id="T2" id="SR8"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR18"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS4" path_id="" direction_id="" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T6" id="SR19"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L7" trajector_id="T4" id="SR20"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M9" spatial_indicator_id="" landmark_id="" trajector_id="T11" id="SR21"/>
+    </TAGS>
+</SpRL>

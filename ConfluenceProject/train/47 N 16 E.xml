@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=2919</URL>
+    <CP>47°N 16°E</CP>
+    <TEXT>
+27-May-2006 -- With my Velosolex I drove to into Hatzendorf to the confluence point. Owing to EGNOS my Vista C showed an accuracy of 3 meters.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="I" end="35" start="34" id="T0"/>
+        <MOTION_INDICATOR text="drove" end="41" start="36" id="M0"/>
+        <PATH text="to into Hatzendorf to the confluence point" end="84" start="42" id="P0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+    </TAGS>
+</SpRL>

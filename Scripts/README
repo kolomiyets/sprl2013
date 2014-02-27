@@ -1,0 +1,13 @@
+The script usage: java -jar SpRL.final.jar goldData systemData [strictEval]
+
+goldData - an XML file or directory with gold annotations
+systemData - an XML file or directory with system annotations
+strictEval:
+	true - strict evaluation
+	false - default, relaxed evaluation 
+	
+Example:
+	java -jar SpRL.final.jar goldDataDir systemDataDir
+or
+	java -jar SpRL.final.jar goldFile.xml systemFile.xml
+	

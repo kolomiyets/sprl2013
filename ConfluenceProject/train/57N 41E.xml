@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?visitid=18480</URL>
+    <CP>57°N 41°E</CP>
+    <TEXT>
+I have visited this point twice. Or to be exact, both times a concrete brick wall has stopped me in 12 meters from the point, what can be confirmed either from GPS data or the satellite image. I walked onto a path along the bank of river Uvod' from the bridge on Engels Prospect to reach the confluence. It looked this path is useful by local people.
+
+On my first visit at November 18, 2010, it was very cold but still no snow. I turned off the path, went to the wall and found that the exact confluence spot is behind it. I took some pictures around and a shot over the fence. Then some people from the other river's bank began to shout: &quot;What are you doing? Get out before it's too late!&quot; I was not sure whether they shout at me, but I had gone away, what if it indeed becomes &quot;too late&quot;? Thus I hadn't examined the area carefully enough to ensure that there is no hole in the wall or some other way to the confluence.
+
+On my second visit at June 19, 2012, the tree leaves protected me from the eyes of the people who don't mind their own businesses. Once again, I took the pictures, including a view to the actual confluence point from the north. I also made a video of what's behind the wall. I didn't found easy ways to the confluence except crossing the barbed wire wall.
+
+There are frightening signs on the wall nearby, but all those dangers are waiting for you at the parking lot separated from the CP area by another wall. According to Russian cadastre, the site where the point is located (cadastral number 37:24:010125:63) has no registered owner, but it does not mean that it is not guarded. As it could be seen from a satellite, you can go or even drive directly to the point if you pass the gate. However, this is a quest for the next visitors - the masters of taming attack dogs and men.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="me" end="97" start="95" id="T2"/>
+        <TRAJECTOR text="I" end="195" start="194" id="T4"/>
+        <TRAJECTOR text="I" end="430" start="429" id="T5"/>
+        <TRAJECTOR text="the exact confluence spot" end="509" start="484" id="T6"/>
+        <TRAJECTOR text="some people" end="595" start="584" id="T7"/>
+        <TRAJECTOR text="I" end="738" start="737" id="T8"/>
+        <TRAJECTOR text="me" end="988" start="986" id="T10"/>
+        <TRAJECTOR text="what" end="1178" start="1174" id="T11"/>
+        <TRAJECTOR text="I" end="1199" start="1198" id="T12"/>
+        <TRAJECTOR text="frightening signs" end="1307" start="1290" id="T14"/>
+        <TRAJECTOR text="the parking lot" end="1388" start="1373" id="T15"/>
+        <TRAJECTOR text="another wall" end="1431" start="1419" id="T16"/>
+        <TRAJECTOR text="the point" end="1488" start="1479" id="T17"/>
+        <TRAJECTOR text="I" end="2" start="1" id="T0"/>
+        <TRAJECTOR text="the bank" end="229" start="221" id="T3"/>
+        <TRAJECTOR text="no hole" end="872" start="865" id="T9"/>
+        <TRAJECTOR text="some other way" end="902" start="888" id="T13"/>
+        <TRAJECTOR text="easy ways" end="1222" start="1213" id="T18"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T19"/>
+        <TRAJECTOR text="where" end="1478" start="1473" id="T20"/>
+        <TRAJECTOR text="you" end="1646" start="1643" id="T21"/>
+        <TRAJECTOR text="you" end="1696" start="1693" id="T22"/>
+        <LANDMARK text="the point" end="125" start="116" id="L1"/>
+        <LANDMARK text="it" end="522" start="520" id="L2"/>
+        <LANDMARK text="the other river's bank" end="623" start="601" id="L3"/>
+        <LANDMARK text="the tree leaves" end="975" start="960" id="L5"/>
+        <LANDMARK text="the wall" end="1196" start="1188" id="L6"/>
+        <LANDMARK text="the wall" end="1319" start="1311" id="L8"/>
+        <LANDMARK text="the CP area" end="1415" start="1404" id="L9"/>
+        <LANDMARK text="another wall" end="1431" start="1419" id="L10"/>
+        <LANDMARK text="the site" end="1472" start="1464" id="L11"/>
+        <LANDMARK text="river Uvod'" end="244" start="233" id="L0"/>
+        <LANDMARK text="the wall" end="884" start="876" id="L4"/>
+        <LANDMARK text="the confluence" end="920" start="906" id="L7"/>
+        <LANDMARK text="the confluence" end="1240" start="1226" id="L12"/>
+        <LANDMARK text="where" end="1478" start="1473" id="L13"/>
+        <SPATIAL_INDICATOR text="from" end="115" start="111" id="S1"/>
+        <SPATIAL_INDICATOR text="behind" end="519" start="513" id="S2"/>
+        <SPATIAL_INDICATOR text="from" end="600" start="596" id="S3"/>
+        <SPATIAL_INDICATOR text="behind" end="1187" start="1181" id="S5"/>
+        <SPATIAL_INDICATOR text="on" end="1310" start="1308" id="S6"/>
+        <SPATIAL_INDICATOR text="from" end="1403" start="1399" id="S7"/>
+        <SPATIAL_INDICATOR text="by" end="1418" start="1416" id="S8"/>
+        <SPATIAL_INDICATOR text="of" end="232" start="230" id="S0"/>
+        <SPATIAL_INDICATOR text="in" end="875" start="873" id="S4"/>
+        <SPATIAL_INDICATOR text="to" end="905" start="903" id="S11"/>
+        <SPATIAL_INDICATOR text="to" end="1225" start="1223" id="S12"/>
+        <SPATIAL_INDICATOR text="is located" end="1499" start="1489" id="S13"/>
+        <MOTION_INDICATOR text="walked" end="202" start="196" id="M0"/>
+        <MOTION_INDICATOR text="turned" end="437" start="431" id="M1"/>
+        <MOTION_INDICATOR text="went" end="456" start="452" id="M2"/>
+        <MOTION_INDICATOR text="gone away" end="752" start="743" id="M3"/>
+        <MOTION_INDICATOR text="crossing" end="1256" start="1248" id="M4"/>
+        <MOTION_INDICATOR text="visited" end="15" start="8" id="M5"/>
+        <MOTION_INDICATOR text="reach" end="288" start="283" id="M6"/>
+        <MOTION_INDICATOR text="go or even drive" end="1667" start="1651" id="M7"/>
+        <MOTION_INDICATOR text="pass" end="1701" start="1697" id="M8"/>
+        <PATH text="onto a path along the bank of river Uvod' from the bridge on Engels Prospect" end="279" start="203" id="P0"/>
+        <PATH text="off the path" end="450" start="438" id="P1"/>
+        <PATH text="to the wall" end="468" start="457" id="P2"/>
+        <PATH text="this point" end="26" start="16" id="P5"/>
+        <PATH text="the confluence" end="303" start="289" id="P6"/>
+        <PATH text="the barbed wire wall" end="1277" start="1257" id="P7"/>
+        <PATH text="directly to the point" end="1689" start="1668" id="P8"/>
+        <PATH text="the gate" end="1710" start="1702" id="P9"/>
+        <DISTANCE text="12 meters" end="110" start="101" id="DIS0"/>
+        <DISTANCE text="nearby" end="1326" start="1320" id="DIS1"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T2" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR3"/>
+        <RELATION FoR="relative" relative_value="BEHIND" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T6" id="SR4"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L3" trajector_id="T7" id="SR5"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L5" trajector_id="T10" id="SR7"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L8" trajector_id="T14" id="SR9"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S7" landmark_id="L9" trajector_id="T15" id="SR10"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L9" trajector_id="T16" id="SR11"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L10" trajector_id="T15" id="SR12"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR14"/>
+        <RELATION FoR="intrinsic" relative_value="BEHIND" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION/DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L6" trajector_id="T11" id="SR15"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR16"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T3" id="SR17"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR18"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L4" trajector_id="T9" id="SR19"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P7" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T12" id="SR20"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S11" landmark_id="L7" trajector_id="T13" id="SR21"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T8" id="SR22"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S12" landmark_id="L12" trajector_id="T18" id="SR23"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS1" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L8" trajector_id="T19" id="SR24"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L11" trajector_id="T20" id="SR25"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S13" landmark_id="L13" trajector_id="T17" id="SR26"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P8" direction_id="" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T21" id="SR27"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P9" direction_id="" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T22" id="SR28"/>
+    </TAGS>
+</SpRL>

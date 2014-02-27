@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=17738</URL>
+    <CP>58°N 10°E</CP>
+    <TEXT>
+04-Aug-2002 -- Coming from Vlissingen (Netherlands) today we were passing again the Skagerrak (Skaw), inbound the Baltic Sea, on our way to Saint-Petersburg with frozen meat, pears and potatoes. At sunset we visited 58N 10E in excellent visibility.
+
+The confluence is slightly more than 46 km north of Hirtshals, a busy ferry and fishing port on the North coast of the Jylland Pensinsula.
+
+We tried to have a closer look to Hirtshals, holding an extra powerful marine binocular in front of the Digicam-lens. The result is not extremely satisfactory, but better than nothing.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="we" end="61" start="59" id="T0"/>
+        <TRAJECTOR text="we" end="208" start="206" id="T1"/>
+        <TRAJECTOR text="The confluence" end="265" start="251" id="T2"/>
+        <TRAJECTOR text="a busy ferry and fishing port" end="343" start="314" id="T3"/>
+        <TRAJECTOR text="the North coast" end="362" start="347" id="T4"/>
+        <TRAJECTOR text="an extra powerful marine binocular" end="478" start="444" id="T5"/>
+        <LANDMARK text="Hirtshals" end="312" start="303" id="L0"/>
+        <LANDMARK text="the North coast of the Jylland Pensinsula" end="388" start="347" id="L1"/>
+        <LANDMARK text="the Jylland Pensinsula" end="388" start="366" id="L2"/>
+        <LANDMARK text="the Digicam-lens" end="507" start="491" id="L3"/>
+        <SPATIAL_INDICATOR text="of" end="302" start="300" id="S0"/>
+        <SPATIAL_INDICATOR text="on" end="346" start="344" id="S1"/>
+        <SPATIAL_INDICATOR text="of" end="365" start="363" id="S2"/>
+        <SPATIAL_INDICATOR text="in front of" end="490" start="479" id="S3"/>
+        <MOTION_INDICATOR text="Coming" end="22" start="16" id="M0"/>
+        <MOTION_INDICATOR text="passing" end="74" start="67" id="M1"/>
+        <MOTION_INDICATOR text="our way" end="137" start="130" id="M2"/>
+        <MOTION_INDICATOR text="visited" end="216" start="209" id="M3"/>
+        <PATH text="from Vlissingen (Netherlands)" end="52" start="23" id="P0"/>
+        <PATH text="the Skagerrak (Skaw), inbound the Baltic Sea" end="125" start="81" id="P1"/>
+        <PATH text="to Saint-Petersburg" end="157" start="138" id="P2"/>
+        <PATH text="58N 10E" end="224" start="217" id="P3"/>
+        <DIRECTION text="north" end="299" start="294" id="DIR0"/>
+        <DIRECTION text="North" end="356" start="351" id="DIR1"/>
+        <DISTANCE text="slightly more than 46 km" end="293" start="269" id="DIS0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR2"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="North" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="DIR0" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T2" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T3" id="SR4"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="North" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR1" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T4" id="SR5"/>
+        <RELATION FoR="relative" relative_value="FRONT" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L3" trajector_id="T5" id="SR6"/>
+    </TAGS>
+</SpRL>

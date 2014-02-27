@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=7776</URL>
+    <CP>49°N 19°E</CP>
+    <TEXT>
+21-Jun-2001 -- Coming from 49N 18E, on our way to the High Tatras Mountains we turned off at the town of Martin in direction south (SS65). At Koštany we left the main road to the southeast, to Belá-Dulice. This village is situated the border of the Veľké Fatra conservation area and dominated by farming.
+
+The confluence itself can be found in Belanská Dolina (valley), close to the entrance of the conservation area, across the creek Belanský Potok. At the gate is a protection dam from where I started to search for the exact position. The local people of Belá-Dulice use this place as leisure area. Since this valley is surrounded by steep slopes it's close to climbing. I had to climb about 100 m through thorn bushes and loose stones. The forest was cleared for about 50 meters and afforesting is under progress.
+
+After about 30 m I discovered a forest road that cannot be observed from the base of the valley. Because the confluence is situated just inside the dense forest in a very steep area it was very difficult to obtain a ZERO reading.
+
+On my way back I used the forest road that led me deeper into the valley. This road is not suitable for standard cars since it must be accessed via a ford and is in some portions damaged by heavy forestry machines.
+
+We left the Belanská valley and at Belá-Dulice we turned right continued to the Jasenská valley where we found the Penzion Jarabina, which we strongly recommend for accommodation. Nice rooms and excellent food for a very moderate price.
+
+On the next morning we proceeded to High Tatras and furthermore to 49N 20E. See more pictures at http://www.fortunecity.de/arbeit/medien/748/Confluence/49N19EE.htm.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="we" end="79" start="77" id="T0"/>
+        <TRAJECTOR text="we" end="153" start="151" id="T1"/>
+        <TRAJECTOR text="This village" end="219" start="207" id="T2"/>
+        <TRAJECTOR text="the border" end="242" start="232" id="T3"/>
+        <TRAJECTOR text="The confluence" end="321" start="307" id="T4"/>
+        <TRAJECTOR text="Belanská Dolina (valley)" end="369" start="345" id="T5"/>
+        <TRAJECTOR text="the gate" end="463" start="455" id="T6"/>
+        <TRAJECTOR text="this valley" end="620" start="609" id="T7"/>
+        <TRAJECTOR text="I" end="676" start="675" id="T8"/>
+        <TRAJECTOR text="the base" end="901" start="893" id="T9"/>
+        <TRAJECTOR text="the confluence" end="939" start="925" id="T11"/>
+        <TRAJECTOR text="the dense forest" end="980" start="964" id="T12"/>
+        <TRAJECTOR text="me" end="1100" start="1098" id="T14"/>
+        <TRAJECTOR text="We" end="1269" start="1267" id="T15"/>
+        <TRAJECTOR text="we" end="1316" start="1314" id="T16"/>
+        <TRAJECTOR text="we" end="1527" start="1525" id="T17"/>
+        <TRAJECTOR text="I" end="496" start="495" id="T13"/>
+        <TRAJECTOR text="I" end="838" start="837" id="T18"/>
+        <TRAJECTOR text="I" end="1067" start="1066" id="T19"/>
+        <LANDMARK text="the border of the Veľké Fatra conservation area" end="279" start="232" id="L0"/>
+        <LANDMARK text="the Veľké Fatra conservation area" end="279" start="246" id="L1"/>
+        <LANDMARK text="Belanská Dolina (valley)" end="369" start="345" id="L2"/>
+        <LANDMARK text="the entrance of the conservation area" end="417" start="380" id="L3"/>
+        <LANDMARK text="a protection dam" end="483" start="467" id="L4"/>
+        <LANDMARK text="steep slopes" end="650" start="638" id="L5"/>
+        <LANDMARK text="the valley" end="915" start="905" id="L6"/>
+        <LANDMARK text="" end="-1" start="-1" id="L7"/>
+        <LANDMARK text="the dense forest" end="980" start="964" id="L8"/>
+        <LANDMARK text="a very steep area" end="1001" start="984" id="L9"/>
+        <LANDMARK text="Koštany" end="150" start="143" id="L10"/>
+        <LANDMARK text="the creek Belanský Potok" end="450" start="426" id="L11"/>
+        <LANDMARK text="Belá-Dulice" end="1313" start="1302" id="L12"/>
+        <SPATIAL_INDICATOR text="situated" end="231" start="223" id="S0"/>
+        <SPATIAL_INDICATOR text="of" end="245" start="243" id="S1"/>
+        <SPATIAL_INDICATOR text="in" end="344" start="342" id="S2"/>
+        <SPATIAL_INDICATOR text="to" end="379" start="377" id="S3"/>
+        <SPATIAL_INDICATOR text="At" end="454" start="452" id="S4"/>
+        <SPATIAL_INDICATOR text="surrounded by" end="637" start="624" id="S5"/>
+        <SPATIAL_INDICATOR text="of" end="904" start="902" id="S6"/>
+        <SPATIAL_INDICATOR text="situated just inside" end="963" start="943" id="S7"/>
+        <SPATIAL_INDICATOR text="in" end="983" start="981" id="S8"/>
+        <SPATIAL_INDICATOR text="At" end="142" start="140" id="S9"/>
+        <SPATIAL_INDICATOR text="across" end="425" start="419" id="S10"/>
+        <SPATIAL_INDICATOR text="at" end="1301" start="1299" id="S11"/>
+        <MOTION_INDICATOR text="Coming" end="22" start="16" id="M0"/>
+        <MOTION_INDICATOR text="turned off" end="90" start="80" id="M1"/>
+        <MOTION_INDICATOR text="left" end="158" start="154" id="M2"/>
+        <MOTION_INDICATOR text="climb" end="689" start="684" id="M3"/>
+        <MOTION_INDICATOR text="led" end="1097" start="1094" id="M4"/>
+        <MOTION_INDICATOR text="left" end="1274" start="1270" id="M5"/>
+        <MOTION_INDICATOR text="continued" end="1339" start="1330" id="M7"/>
+        <MOTION_INDICATOR text="proceeded" end="1537" start="1528" id="M8"/>
+        <MOTION_INDICATOR text="turned" end="1323" start="1317" id="M6"/>
+        <MOTION_INDICATOR text="search for" end="518" start="508" id="M9"/>
+        <MOTION_INDICATOR text="After" end="825" start="820" id="M10"/>
+        <MOTION_INDICATOR text="my way back" end="1065" start="1054" id="M11"/>
+        <PATH text="from 49N 18E" end="35" start="23" id="P0"/>
+        <PATH text="at the town of Martin in direction south (SS65)" end="138" start="91" id="P1"/>
+        <PATH text="the main road to the southeast, to Belá-Dulice" end="205" start="159" id="P2"/>
+        <PATH text="through thorn bushes and loose stones" end="739" start="702" id="P3"/>
+        <PATH text="into the valley" end="1123" start="1108" id="P4"/>
+        <PATH text="the Belanská valley" end="1294" start="1275" id="P5"/>
+        <PATH text="to the Jasenská valley" end="1362" start="1340" id="P7"/>
+        <PATH text="to High Tatras and furthermore to 49N 20E" end="1579" start="1538" id="P9"/>
+        <PATH text="to the High Tatras Mountains" end="76" start="48" id="P10"/>
+        <PATH text="from where" end="494" start="484" id="P11"/>
+        <PATH text="the exact position" end="537" start="519" id="P12"/>
+        <DIRECTION text="southeast" end="189" start="180" id="DIR0"/>
+        <DIRECTION text="south" end="131" start="126" id="DIR1"/>
+        <DIRECTION text="right" end="1329" start="1324" id="DIR2"/>
+        <DISTANCE text="close" end="376" start="371" id="DIS1"/>
+        <DISTANCE text="about 100 m" end="701" start="690" id="DIS2"/>
+        <DISTANCE text="about 30 m" end="836" start="826" id="DIS3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P10, P1" direction_id="DIR1" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR1"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="SE" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="DIR0" motion_id="M2" spatial_indicator_id="S9" landmark_id="L10" trajector_id="T1" id="SR2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T2" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T3" id="SR4"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T4" id="SR5"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS1" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L3" trajector_id="T4" id="SR7"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L4" trajector_id="T6" id="SR9"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L5" trajector_id="T7" id="SR10"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS2" path_id="P3" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T8" id="SR11"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L6" trajector_id="T9" id="SR12"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S7" landmark_id="L8" trajector_id="T11" id="SR14"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L9" trajector_id="T12" id="SR15"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T14" id="SR16"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR17"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P7" direction_id="" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T16" id="SR19"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P9" direction_id="" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T17" id="SR21"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S10" landmark_id="L11" trajector_id="T4" id="SR18"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P11, P12" direction_id="" motion_id="M9" spatial_indicator_id="" landmark_id="" trajector_id="T13" id="SR22"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS3" path_id="" direction_id="" motion_id="M10" spatial_indicator_id="" landmark_id="" trajector_id="T18" id="SR23"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M11" spatial_indicator_id="" landmark_id="" trajector_id="T19" id="SR24"/>
+        <RELATION FoR="relative" relative_value="RIGHT" absolute_value="" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR2" motion_id="M6" spatial_indicator_id="S11" landmark_id="L12" trajector_id="T16" id="SR25"/>
+    </TAGS>
+</SpRL>

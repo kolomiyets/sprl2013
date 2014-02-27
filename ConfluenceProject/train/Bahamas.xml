@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=24852</URL>
+    <CP>27°N 78°W</CP>
+    <TEXT>
+17-Jun-2007 -- We found one that wasn't even listed!! The Bahamas has one more Confluence... Our passage from Ft. Lauderdale to Abaco in the small sailboat 'Greta Garbo' brought us within less than a mile of 27N 78W.
+
+We had spent the night before at Great Sale Cay in the middle of the Little Bahama Bank. A 'bank' is a large area of shallow water. The Little Bahama Bank is about 40 miles across and averages 14 feet in depth, with many coral heads and sand banks reaching nearly to the surface. The water is crystal-clear; in calm conditions you feel that you are in the world's largest swimming pool.
+
+A line of cays on the northern edge of the bank marks the transition between the &quot;baja mar&quot; (literally 'shallow sea', the origin of the country's name) and the drop-off of water to a depth of 200 to 2000 feet in the open Atlantic.
+
+We were heading south-east, running south of these cays, toward Fox Town on the tip of Little Abaco Island, when we realized that the confluence of 27N 78W lay on our direct path -- seldom a meaningful option in a sailboat -- so we turned on our motor and headed directly into the wind to arrive at the exact coordinates.
+
+Since the cays were clearly in view as we journeyed eastward more-or-less along the line of 27N, the only question was whether or not they would have passed too far back to the West to be visible when we arrived at 78W.
+
+The land to the North is the eastern edge of Carter's Cays; it isn't much to look at - but it's there! And as a bonus, just barely coming into view in the East are the Pawpaw Cays - look for two tiny humps on the right side of the photo and one on the left side. Nothing but the banks south and west... We didn't approach any closer than these photos indicate, but a picture taken that morning of Little Sale Cay gives a good idea of what the scarce real estate in this corner of the world looks like.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="" end="-1" start="-1" id="T1"/>
+        <TRAJECTOR text="us" end="181" start="179" id="T2"/>
+        <TRAJECTOR text="We" end="221" start="219" id="T3"/>
+        <TRAJECTOR text="Great Sale Cay" end="266" start="252" id="T4"/>
+        <TRAJECTOR text="many coral heads and sand banks" end="466" start="435" id="T5"/>
+        <TRAJECTOR text="you" end="563" start="560" id="T6"/>
+        <TRAJECTOR text="A line of cays on the northern edge of the bank" end="654" start="607" id="T7"/>
+        <TRAJECTOR text="the &quot;baja mar&quot; (literally 'shallow sea', the origin of the country's name)" end="758" start="684" id="T8"/>
+        <TRAJECTOR text="We" end="841" start="839" id="T9"/>
+        <TRAJECTOR text="A line of cays" end="621" start="607" id="T10"/>
+        <TRAJECTOR text="the northern edge" end="642" start="625" id="T11"/>
+        <TRAJECTOR text="Fox Town" end="911" start="903" id="T12"/>
+        <TRAJECTOR text="the confluence of 27N 78W" end="994" start="969" id="T13"/>
+        <TRAJECTOR text="we" end="1070" start="1068" id="T14"/>
+        <TRAJECTOR text="we" end="1203" start="1201" id="T15"/>
+        <TRAJECTOR text="we" end="1365" start="1363" id="T16"/>
+        <TRAJECTOR text="The land" end="1391" start="1383" id="T17"/>
+        <TRAJECTOR text="The land to the North" end="1404" start="1383" id="T18"/>
+        <TRAJECTOR text="the eastern edge" end="1424" start="1408" id="T19"/>
+        <TRAJECTOR text="the Pawpaw Cays" end="1562" start="1547" id="T20"/>
+        <TRAJECTOR text="two tiny humps" end="1588" start="1574" id="T21"/>
+        <TRAJECTOR text="one" end="1627" start="1624" id="T22"/>
+        <TRAJECTOR text="the banks" end="1667" start="1658" id="T23"/>
+        <TRAJECTOR text="the scarce real estate" end="1844" start="1822" id="T24"/>
+        <TRAJECTOR text="this corner" end="1859" start="1848" id="T25"/>
+        <TRAJECTOR text="The Bahamas" end="66" start="55" id="T0"/>
+        <TRAJECTOR text="A 'bank'" end="316" start="308" id="T26"/>
+        <LANDMARK text="the small sailboat 'Greta Garbo'" end="170" start="138" id="L0"/>
+        <LANDMARK text="27N 78W" end="216" start="209" id="L1"/>
+        <LANDMARK text="Great Sale Cay in the middle of the Little Bahama Bank" end="306" start="252" id="L2"/>
+        <LANDMARK text="the Little Bahama Bank" end="306" start="284" id="L3"/>
+        <LANDMARK text="the surface" end="497" start="486" id="L4"/>
+        <LANDMARK text="the world's largest swimming pool" end="604" start="571" id="L5"/>
+        <LANDMARK text="the &quot;baja mar&quot; (literally 'shallow sea', the origin of the country's name)" end="758" start="684" id="L6"/>
+        <LANDMARK text="the drop-off" end="775" start="763" id="L7"/>
+        <LANDMARK text="the northern edge of the bank" end="654" start="625" id="L8"/>
+        <LANDMARK text="the bank" end="654" start="646" id="L9"/>
+        <LANDMARK text="Little Abaco Island" end="945" start="926" id="L10"/>
+        <LANDMARK text="our direct path" end="1017" start="1002" id="L11"/>
+        <LANDMARK text="hidden in the South" end="-1" start="-1" id="L12"/>
+        <LANDMARK text="Carter's Cays" end="1441" start="1428" id="L13"/>
+        <LANDMARK text="the eastern edge of Carter's Cays" end="1441" start="1408" id="L14"/>
+        <LANDMARK text="hidden in the West" end="-1" start="-1" id="L15"/>
+        <LANDMARK text="the photo" end="1619" start="1610" id="L16"/>
+        <LANDMARK text="hidden to banks" end="-1" start="-1" id="L17"/>
+        <LANDMARK text="the world" end="1872" start="1863" id="L18"/>
+        <LANDMARK text="this corner of the world" end="1872" start="1848" id="L19"/>
+        <LANDMARK text="one more Confluence" end="90" start="71" id="L20"/>
+        <LANDMARK text="a large area of shallow water" end="349" start="320" id="L21"/>
+        <SPATIAL_INDICATOR text="in" end="137" start="135" id="S0"/>
+        <SPATIAL_INDICATOR text="at" end="251" start="249" id="S1"/>
+        <SPATIAL_INDICATOR text="in the middle of" end="283" start="267" id="S2"/>
+        <SPATIAL_INDICATOR text="to" end="485" start="483" id="S3"/>
+        <SPATIAL_INDICATOR text="in" end="570" start="568" id="S4"/>
+        <SPATIAL_INDICATOR text="between" end="683" start="676" id="S5"/>
+        <SPATIAL_INDICATOR text="and" end="762" start="759" id="S6"/>
+        <SPATIAL_INDICATOR text="on" end="624" start="622" id="S7"/>
+        <SPATIAL_INDICATOR text="of" end="645" start="643" id="S8"/>
+        <SPATIAL_INDICATOR text="on the tip of" end="925" start="912" id="S9"/>
+        <SPATIAL_INDICATOR text="lay on" end="1001" start="995" id="S10"/>
+        <SPATIAL_INDICATOR text="to" end="1394" start="1392" id="S11"/>
+        <SPATIAL_INDICATOR text="of" end="1427" start="1425" id="S12"/>
+        <SPATIAL_INDICATOR text="in" end="1533" start="1531" id="S13"/>
+        <SPATIAL_INDICATOR text="of" end="1609" start="1607" id="S14"/>
+        <SPATIAL_INDICATOR text="of" end="1862" start="1860" id="S15"/>
+        <SPATIAL_INDICATOR text="in" end="1847" start="1845" id="S16"/>
+        <SPATIAL_INDICATOR text="has" end="70" start="67" id="S17"/>
+        <MOTION_INDICATOR text="Our passage" end="105" start="94" id="M0"/>
+        <MOTION_INDICATOR text="heading" end="854" start="847" id="M1"/>
+        <MOTION_INDICATOR text="headed" end="1101" start="1095" id="M2"/>
+        <MOTION_INDICATOR text="journeyed" end="1213" start="1204" id="M3"/>
+        <MOTION_INDICATOR text="arrived" end="1373" start="1366" id="M4"/>
+        <PATH text="from Ft. Lauderdale to Abaco" end="134" start="106" id="P0"/>
+        <PATH text="running south of these cays, toward Fox Town on the tip of Little Abaco Island" end="945" start="867" id="P1"/>
+        <PATH text="directly into the wind" end="1124" start="1102" id="P2"/>
+        <PATH text="more-or-less along the line of 27N" end="1257" start="1223" id="P3"/>
+        <PATH text="at 78W" end="1380" start="1374" id="P4"/>
+        <DIRECTION text="south-east" end="865" start="855" id="DIR0"/>
+        <DIRECTION text="eastward" end="1222" start="1214" id="DIR1"/>
+        <DIRECTION text="the North" end="1404" start="1395" id="DIR2"/>
+        <DIRECTION text="eastern" end="1419" start="1412" id="DIR3"/>
+        <DIRECTION text="the East" end="1542" start="1534" id="DIR4"/>
+        <DIRECTION text="on the right side" end="1606" start="1589" id="DIR5"/>
+        <DIRECTION text="on the left side" end="1644" start="1628" id="DIR6"/>
+        <DIRECTION text="south" end="1673" start="1668" id="DIR7"/>
+        <DIRECTION text="west" end="1682" start="1678" id="DIR8"/>
+        <DIRECTION text="northern" end="637" start="629" id="DIR9"/>
+        <DISTANCE text="less than a mile" end="205" start="189" id="DIS0"/>
+        <DISTANCE text="nearly" end="482" start="476" id="DIS1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR0"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T2" id="SR1"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L1" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L2" trajector_id="T3" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L3" trajector_id="T4" id="SR4"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS1" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L4" trajector_id="T5" id="SR5"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L5" trajector_id="T6" id="SR6"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L6" trajector_id="T7" id="SR7"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L7" trajector_id="T7" id="SR8"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L7" trajector_id="T8" id="SR9"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="SE" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="DIR0" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T9" id="SR10"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S7" landmark_id="L8" trajector_id="T10" id="SR11"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="North" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR9" motion_id="" spatial_indicator_id="S8" landmark_id="L9" trajector_id="T11" id="SR12"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S9" landmark_id="L10" trajector_id="T12" id="SR13"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S10" landmark_id="L11" trajector_id="T13" id="SR14"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T14" id="SR15"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="East" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="DIR1" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR16"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="North" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR2" motion_id="" spatial_indicator_id="S11" landmark_id="L12" trajector_id="T17" id="SR17"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="East" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR3" motion_id="" spatial_indicator_id="S12" landmark_id="L13" trajector_id="T19" id="SR18"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L14" trajector_id="T18" id="SR19"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="East" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR4" motion_id="" spatial_indicator_id="S13" landmark_id="L15" trajector_id="T20" id="SR20"/>
+        <RELATION FoR="relative" relative_value="RIGHT" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR5" motion_id="" spatial_indicator_id="S14" landmark_id="L16" trajector_id="T21" id="SR21"/>
+        <RELATION FoR="relative" relative_value="LEFT" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR6" motion_id="" spatial_indicator_id="S14" landmark_id="L16" trajector_id="T22" id="SR22"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR7" motion_id="" spatial_indicator_id="" landmark_id="L17" trajector_id="T23" id="SR23"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="West" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR8" motion_id="" spatial_indicator_id="" landmark_id="L17" trajector_id="T23" id="SR24"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S16" landmark_id="L19" trajector_id="T24" id="SR25"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S15" landmark_id="L18" trajector_id="T25" id="SR26"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S17" landmark_id="L20" trajector_id="T0" id="SR27"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L21" trajector_id="T26" id="SR28"/>
+    </TAGS>
+</SpRL>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=7364</URL>
+    <CP>37°N 27°E</CP>
+    <TEXT>
+08-Jun-2003 -- This confluence point is situated on Kalymnos island in the greek dodecanese. On a sailing trip in spring 2003 we decided to visit this point which has not been described yet. We were a crew of five sailors, who started the trip on June 6th on the island Kos.
+
+After an overnight stay in Ormos Vathy, a beautiful, fjord-like shaped bay on Kalymnos, we reached Ormos Pezonia in the north-east of Kalymnos by sea where we dropped anchor. Because of the predominant northern winds this bay is unsuitable for overnight stays. The confluence point is about 600 m far from the beach, 130 m above sea level. After passing over to the shore by dinghy we started the ascent through a dried up river-bed which was covered with rubble and macchia. The air was saturated with the smell of thyme, sage, and oregano. Our ascent was hindered by the nets of large spiders (large means 2 cm without legs which is a very large spider for people from central Europe). After 50 minutes (and some devious routes) we reached the destination of our expedition. On a rock not far away from the confluence point we found the mark that has been made during an undocumented visit of the crew of the SY ESYS in 2001.
+
+On our way back to the sailing boat we followed a goat trail on the left side of the river-bed which was much more convenient than the path we took on the ascent. 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="This confluence point" end="37" start="16" id="T0"/>
+        <TRAJECTOR text="Kalymnos island" end="68" start="53" id="T1"/>
+        <TRAJECTOR text="who" end="227" start="224" id="T2"/>
+        <TRAJECTOR text="we" end="367" start="365" id="T3"/>
+        <TRAJECTOR text="Ormos Pezonia" end="389" start="376" id="T4"/>
+        <TRAJECTOR text="The confluence point" end="558" start="538" id="T5"/>
+        <TRAJECTOR text="we" end="661" start="659" id="T6"/>
+        <TRAJECTOR text="we" end="1010" start="1008" id="T7"/>
+        <TRAJECTOR text="a rock" end="1063" start="1057" id="T8"/>
+        <TRAJECTOR text="we" end="1244" start="1242" id="T9"/>
+        <TRAJECTOR text="a goat trail" end="1266" start="1254" id="T10"/>
+        <TRAJECTOR text="we" end="129" start="127" id="T11"/>
+        <TRAJECTOR text="which" end="163" start="158" id="T12"/>
+        <TRAJECTOR text="we" end="435" start="433" id="T13"/>
+        <TRAJECTOR text="where" end="432" start="427" id="T14"/>
+        <TRAJECTOR text="which" end="715" start="710" id="T15"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T16"/>
+        <TRAJECTOR text="the crew of the SY ESYS" end="1195" start="1172" id="T17"/>
+        <TRAJECTOR text="we" end="1348" start="1346" id="T18"/>
+        <TRAJECTOR text="which" end="1306" start="1301" id="T19"/>
+        <LANDMARK text="Kalymnos island in the greek dodecanese" end="92" start="53" id="L0"/>
+        <LANDMARK text="the greek dodecanese" end="92" start="72" id="L1"/>
+        <LANDMARK text="Ormos Vathy, a beautiful, fjord-like shaped bay on Kalymnos" end="363" start="304" id="L3"/>
+        <LANDMARK text="Kalymnos" end="419" start="411" id="L4"/>
+        <LANDMARK text="the beach" end="592" start="583" id="L5"/>
+        <LANDMARK text="sea level" end="615" start="606" id="L6"/>
+        <LANDMARK text="the confluence point" end="1102" start="1082" id="L7"/>
+        <LANDMARK text="the river-bed" end="1300" start="1287" id="L8"/>
+        <LANDMARK text="this point" end="157" start="147" id="L2"/>
+        <LANDMARK text="Ormos Pezonia" end="389" start="376" id="L9"/>
+        <LANDMARK text="a dried up river-bed" end="709" start="689" id="L10"/>
+        <LANDMARK text="rubble and macchia" end="751" start="733" id="L11"/>
+        <LANDMARK text="a goat trail on the left side of the river-bed" end="1300" start="1254" id="L13"/>
+        <SPATIAL_INDICATOR text="situated on" end="52" start="41" id="S0"/>
+        <SPATIAL_INDICATOR text="in" end="71" start="69" id="S1"/>
+        <SPATIAL_INDICATOR text="in" end="303" start="301" id="S2"/>
+        <SPATIAL_INDICATOR text="in" end="392" start="390" id="S3"/>
+        <SPATIAL_INDICATOR text="from" end="582" start="578" id="S4"/>
+        <SPATIAL_INDICATOR text="above" end="605" start="600" id="S5"/>
+        <SPATIAL_INDICATOR text="from" end="1081" start="1077" id="S6"/>
+        <SPATIAL_INDICATOR text="on" end="1269" start="1267" id="S7"/>
+        <SPATIAL_INDICATOR text="covered with" end="732" start="720" id="S8"/>
+        <MOTION_INDICATOR text="the trip" end="244" start="236" id="M0"/>
+        <MOTION_INDICATOR text="reached" end="375" start="368" id="M1"/>
+        <MOTION_INDICATOR text="passing over" end="635" start="623" id="M2"/>
+        <MOTION_INDICATOR text="the ascent" end="680" start="670" id="M3"/>
+        <MOTION_INDICATOR text="reached" end="1018" start="1011" id="M4"/>
+        <MOTION_INDICATOR text="followed" end="1253" start="1245" id="M5"/>
+        <MOTION_INDICATOR text="visit" end="146" start="141" id="M7"/>
+        <MOTION_INDICATOR text="dropped anchor" end="450" start="436" id="M8"/>
+        <MOTION_INDICATOR text="Our ascent" end="829" start="819" id="M9"/>
+        <MOTION_INDICATOR text="an undocumented visit" end="1168" start="1147" id="M10"/>
+        <MOTION_INDICATOR text="our way back" end="1221" start="1209" id="M11"/>
+        <MOTION_INDICATOR text="took" end="1353" start="1349" id="M12"/>
+        <MOTION_INDICATOR text="a sailing trip" end="111" start="97" id="M13"/>
+        <PATH text="on the island Kos" end="274" start="257" id="P0"/>
+        <PATH text="Ormos Pezonia in the north-east of Kalymnos" end="419" start="376" id="P1"/>
+        <PATH text="to the shore" end="648" start="636" id="P2"/>
+        <PATH text="through a dried up river-bed" end="709" start="681" id="P3"/>
+        <PATH text="the destination of our expedition" end="1052" start="1019" id="P4"/>
+        <PATH text="a goat trail on the left side of the river-bed" end="1300" start="1254" id="P5"/>
+        <PATH text="this point" end="157" start="147" id="P7"/>
+        <PATH text="where" end="432" start="427" id="P8"/>
+        <PATH text="to the sailing boat" end="1241" start="1222" id="P10"/>
+        <PATH text="the path" end="1345" start="1337" id="P11"/>
+        <DIRECTION text="the north-east" end="407" start="393" id="DIR0"/>
+        <DIRECTION text="the left side" end="1283" start="1270" id="DIR2"/>
+        <DISTANCE text="about 600 m" end="573" start="562" id="DIS0"/>
+        <DISTANCE text="130 m" end="599" start="594" id="DIS1"/>
+        <DISTANCE text="not far away" end="1076" start="1064" id="DIS2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L3" trajector_id="T3" id="SR4"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR5"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="NE" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR0" motion_id="" spatial_indicator_id="S3" landmark_id="L4" trajector_id="T4" id="SR6"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L5" trajector_id="T5" id="SR7"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L6" trajector_id="T5" id="SR8"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T6" id="SR9"/>
+        <RELATION FoR="relative" relative_value="ABOVE" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T6" id="SR10"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR11"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS2" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L7" trajector_id="T8" id="SR12"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T9" id="SR13"/>
+        <RELATION FoR="relative" relative_value="LEFT" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR2" motion_id="" spatial_indicator_id="S7" landmark_id="L8" trajector_id="T10" id="SR14"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P7" direction_id="" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T11" id="SR15"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L2" trajector_id="T12" id="SR16"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P8" direction_id="" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T13" id="SR17"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L9" trajector_id="T14" id="SR18"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L10" trajector_id="T15" id="SR19"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L11" trajector_id="T15" id="SR20"/>
+        <RELATION FoR="relative" relative_value="ABOVE" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M9" spatial_indicator_id="" landmark_id="" trajector_id="T16" id="SR21"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M10" spatial_indicator_id="" landmark_id="" trajector_id="T17" id="SR22"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P10" direction_id="" motion_id="M11" spatial_indicator_id="" landmark_id="" trajector_id="T9" id="SR23"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P11" direction_id="" motion_id="M12" spatial_indicator_id="" landmark_id="" trajector_id="T18" id="SR24"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L13" trajector_id="T19" id="SR25"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M13" spatial_indicator_id="" landmark_id="" trajector_id="T11" id="SR26"/>
+    </TAGS>
+</SpRL>

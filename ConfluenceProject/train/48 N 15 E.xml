@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=2932</URL>
+    <CP>48°N 15°E</CP>
+    <TEXT>
+17-Apr-2004 -- A family visit to the confluence this time! Continuing in a westerly direction after 48N 17E and 48N 16E we had to travel quite a bit further for this one. As the crow flies or as the GPS indicates this confluence (middle point of Austria) was 96.5km from our home.
+
+Anyway we parked about 1.4km away next to the strange piece of modern art? and walked along the path following the signs to the meridian stone. Before getting to it from the direction we approached the real (WGS 84) confluence was found. Altitude of the confluence registered as 417m.
+
+As previous visitors have stated the Meridian stone is not at the point itself (using WGS 84 grid reference) but what surprised me is that it isn´t even on the point in the Austrian grid reference! See the montage in picture 9 I´ve not used the Austrian grid before but the co-ordinates of the Meridian Stone were very close to the correct ones 47°59´59.9´´N, 14°59´59.2´´E although why the GPS seemed to think this was 108m from the point 48N 15E I don´t know unless it matters the grid reference in use when a coordinate is marked! Must look at the GPS manual more closely.
+
+After a brief rest it was back to the car and home to Wien!
+
+In the last picture before my Camera battery ran out (no spare so I was lucky it had lasted!!) can be seen from left to right Rita, Katharina &amp; Maximilian. 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="" end="-1" start="-1" id="T0"/>
+        <TRAJECTOR text="we" end="123" start="121" id="T1"/>
+        <TRAJECTOR text="this confluence" end="229" start="214" id="T2"/>
+        <TRAJECTOR text="middle point" end="243" start="231" id="T3"/>
+        <TRAJECTOR text="we" end="292" start="290" id="T4"/>
+        <TRAJECTOR text="we" end="469" start="467" id="T5"/>
+        <TRAJECTOR text="A family" end="24" start="16" id="T6"/>
+        <TRAJECTOR text="the Meridian stone" end="620" start="602" id="T7"/>
+        <TRAJECTOR text="it" end="710" start="708" id="T8"/>
+        <TRAJECTOR text="the point" end="734" start="725" id="T9"/>
+        <TRAJECTOR text="this" end="984" start="980" id="T10"/>
+        <LANDMARK text="our home" end="280" start="272" id="L0"/>
+        <LANDMARK text="Austria" end="254" start="247" id="L1"/>
+        <LANDMARK text="the strange piece of modern art" end="356" start="325" id="L2"/>
+        <LANDMARK text="the point itself" end="647" start="631" id="L3"/>
+        <LANDMARK text="the point" end="734" start="725" id="L4"/>
+        <LANDMARK text="the Austrian grid reference" end="765" start="738" id="L5"/>
+        <LANDMARK text="the point 48N 15E" end="1016" start="999" id="L6"/>
+        <LANDMARK text="" end="-1" start="-1" id="L7"/>
+        <SPATIAL_INDICATOR text="from" end="271" start="267" id="S0"/>
+        <SPATIAL_INDICATOR text="of" end="246" start="244" id="S1"/>
+        <SPATIAL_INDICATOR text="at" end="630" start="628" id="S3"/>
+        <SPATIAL_INDICATOR text="on" end="724" start="722" id="S4"/>
+        <SPATIAL_INDICATOR text="in" end="737" start="735" id="S5"/>
+        <SPATIAL_INDICATOR text="from" end="998" start="994" id="S6"/>
+        <SPATIAL_INDICATOR text="next to" end="324" start="317" id="S8"/>
+        <SPATIAL_INDICATOR text="away" end="316" start="312" id="S9"/>
+        <MOTION_INDICATOR text="visit" end="30" start="25" id="M0"/>
+        <MOTION_INDICATOR text="Continuing" end="70" start="60" id="M1"/>
+        <MOTION_INDICATOR text="travel" end="137" start="131" id="M2"/>
+        <MOTION_INDICATOR text="walked" end="368" start="362" id="M3"/>
+        <MOTION_INDICATOR text="getting" end="441" start="434" id="M5"/>
+        <MOTION_INDICATOR text="following" end="393" start="384" id="M4"/>
+        <MOTION_INDICATOR text="back" end="1176" start="1172" id="M6"/>
+        <PATH text="to the confluence" end="48" start="31" id="P0"/>
+        <PATH text="in a westerly direction after 48N 17E and 48N 16E" end="120" start="71" id="P1"/>
+        <PATH text="along the path" end="383" start="369" id="P2"/>
+        <PATH text="to it" end="447" start="442" id="P3"/>
+        <PATH text="quite a bit further" end="157" start="138" id="P4"/>
+        <PATH text="the signs to the meridian stone" end="425" start="394" id="P5"/>
+        <PATH text="to the car and home to Wien" end="1204" start="1177" id="P6"/>
+        <DIRECTION text="westerly" end="84" start="76" id="DIR0"/>
+        <DISTANCE text="96.5km" end="266" start="260" id="DIS0"/>
+        <DISTANCE text="about 1.4km" end="311" start="300" id="DIS1"/>
+        <DISTANCE text="108m" end="993" start="989" id="DIS2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T6" id="SR0"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="West" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="DIR0" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR2"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T2" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T3" id="SR4"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR6"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR7"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR8"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="PO" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L3" trajector_id="T7" id="SR9"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="PO" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L4" trajector_id="T8" id="SR10"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L5" trajector_id="T9" id="SR11"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS2" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L6" trajector_id="T10" id="SR12"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR13"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L2" trajector_id="T4" id="SR14"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="" motion_id="" spatial_indicator_id="S9" landmark_id="L7" trajector_id="T4" id="SR15"/>
+    </TAGS>
+</SpRL>

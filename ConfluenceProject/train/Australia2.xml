@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?lat=-36&amp;lon=148</URL>
+    <CP>36°S 148°E</CP>
+    <TEXT>
+01-Dec-2001 -- Welaregang, NSW.
+
+Continued from 37ºS 148ºE.
+
+Coming out of Benambra we took C545 north towards Corryong on a 145 kilometre winding dirt road through the mountains. It was a sensational drive, but quite demanding – taking close to three hours.
+
+Just before crossing the border to New South Wales, we stopped at a lookout about 9 kilometres from the confluence with great views of the Murray River (which forms the border between Victoria and NSW) and Mount Kosciuszko (Australia’s highest “mountain” at 2,228 metres).
+
+We parked the car about 1.6 kilometres from the confluence on a dirt road between Welaregang and Tooma next to a paddock with about hundred head of cattle in it. We carefully climbed over the electrified fence and started on a straight line towards the confluence with the cattle quickly scattering to make way for us. The straight line method wasn’t such a bright idea as it meant climbing up quite a big hill that we could’ve walked around for not too much extra distance.
+
+A couple of more fences and a couple of more hills later we reached the confluence point which has a sensational view of the mountains to the south-east with a dam in the foreground. You can’t really tell from the photos, but we could see snow on Mount Kosciuszko.
+
+Walking back to the car we avoided most of the hills by hugging a fence-line next to what I think was a wheat crop. The grass and weeds were quite long so we all got quite badly scratched during the walk, but it was well worth it.
+
+So we were all finished at about 6:00 pm and started the 450 kilometre drive back to Melbourne via Wodonga (where we had some Chinese food for dinner).
+
+A good day was had by all!
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="we" end="87" start="85" id="T0"/>
+        <TRAJECTOR text="a 145 kilometre winding dirt road" end="157" start="124" id="T1"/>
+        <TRAJECTOR text="we" end="315" start="313" id="T2"/>
+        <TRAJECTOR text="a lookout" end="336" start="327" id="T3"/>
+        <TRAJECTOR text="the border" end="436" start="426" id="T4"/>
+        <TRAJECTOR text="Victoria" end="453" start="445" id="T5"/>
+        <TRAJECTOR text="the Murray River" end="412" start="396" id="T7"/>
+        <TRAJECTOR text="the car" end="552" start="545" id="T9"/>
+        <TRAJECTOR text="a dirt road" end="608" start="597" id="T10"/>
+        <TRAJECTOR text="Welaregang" end="627" start="617" id="T11"/>
+        <TRAJECTOR text="We" end="699" start="697" id="T12"/>
+        <TRAJECTOR text="we" end="1070" start="1068" id="T13"/>
+        <TRAJECTOR text="the confluence point" end="1099" start="1079" id="T14"/>
+        <TRAJECTOR text="the mountains" end="1145" start="1132" id="T15"/>
+        <TRAJECTOR text="snow" end="1254" start="1250" id="T16"/>
+        <TRAJECTOR text="we" end="1303" start="1301" id="T17"/>
+        <TRAJECTOR text="we" end="1514" start="1512" id="T18"/>
+        <TRAJECTOR text="a fence-line" end="1353" start="1341" id="T19"/>
+        <TRAJECTOR text="which" end="419" start="414" id="T6"/>
+        <TRAJECTOR text="about hundred head of cattle" end="689" start="661" id="T8"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T20"/>
+        <TRAJECTOR text="we" end="953" start="951" id="T21"/>
+        <TRAJECTOR text="what" end="1366" start="1362" id="T22"/>
+        <LANDMARK text="the mountains" end="179" start="166" id="L0"/>
+        <LANDMARK text="a lookout" end="336" start="327" id="L1"/>
+        <LANDMARK text="the confluence" end="375" start="361" id="L2"/>
+        <LANDMARK text="Victoria" end="453" start="445" id="L3"/>
+        <LANDMARK text="NSW" end="461" start="458" id="L4"/>
+        <LANDMARK text="Mount Kosciuszko (Australia’s highest “mountain” at 2,228 metres)" end="532" start="467" id="L5"/>
+        <LANDMARK text="the confluence" end="593" start="579" id="L6"/>
+        <LANDMARK text="a dirt road" end="608" start="597" id="L7"/>
+        <LANDMARK text="Welaregang" end="627" start="617" id="L8"/>
+        <LANDMARK text="Tooma" end="637" start="632" id="L9"/>
+        <LANDMARK text="a paddock" end="655" start="646" id="L10"/>
+        <LANDMARK text="a dam" end="1174" start="1169" id="L12"/>
+        <LANDMARK text="Mount Kosciuszko" end="1274" start="1258" id="L13"/>
+        <LANDMARK text="a wheat crop" end="1391" start="1379" id="L14"/>
+        <LANDMARK text="the Murray River" end="412" start="396" id="L11"/>
+        <LANDMARK text="it" end="695" start="693" id="L15"/>
+        <LANDMARK text="what" end="1366" start="1362" id="L16"/>
+        <SPATIAL_INDICATOR text="through" end="165" start="158" id="S0"/>
+        <SPATIAL_INDICATOR text="at" end="326" start="324" id="S1"/>
+        <SPATIAL_INDICATOR text="from" end="360" start="356" id="S2"/>
+        <SPATIAL_INDICATOR text="between" end="444" start="437" id="S3"/>
+        <SPATIAL_INDICATOR text="and" end="457" start="454" id="S4"/>
+        <SPATIAL_INDICATOR text="and" end="466" start="463" id="S5"/>
+        <SPATIAL_INDICATOR text="from" end="578" start="574" id="S6"/>
+        <SPATIAL_INDICATOR text="on" end="596" start="594" id="S7"/>
+        <SPATIAL_INDICATOR text="between" end="616" start="609" id="S8"/>
+        <SPATIAL_INDICATOR text="and" end="631" start="628" id="S9"/>
+        <SPATIAL_INDICATOR text="to" end="645" start="643" id="S10"/>
+        <SPATIAL_INDICATOR text="in the foreground" end="1192" start="1175" id="S12"/>
+        <SPATIAL_INDICATOR text="on" end="1257" start="1255" id="S13"/>
+        <SPATIAL_INDICATOR text="to" end="1361" start="1359" id="S14"/>
+        <SPATIAL_INDICATOR text="in" end="692" start="690" id="S11"/>
+        <MOTION_INDICATOR text="Coming" end="68" start="62" id="M0"/>
+        <MOTION_INDICATOR text="took" end="92" start="88" id="M1"/>
+        <MOTION_INDICATOR text="crossing" end="281" start="273" id="M2"/>
+        <MOTION_INDICATOR text="climbed" end="717" start="710" id="M3"/>
+        <MOTION_INDICATOR text="started" end="756" start="749" id="M4"/>
+        <MOTION_INDICATOR text="reached" end="1078" start="1071" id="M5"/>
+        <MOTION_INDICATOR text="Walking back" end="1289" start="1277" id="M6"/>
+        <MOTION_INDICATOR text="climbing up" end="928" start="917" id="M8"/>
+        <MOTION_INDICATOR text="walked around" end="976" start="963" id="M9"/>
+        <MOTION_INDICATOR text="drive back" end="1590" start="1580" id="M10"/>
+        <PATH text="out of Benambra" end="84" start="69" id="P0"/>
+        <PATH text="C545 north towards Corryong on a 145 kilometre winding dirt road through the mountains" end="179" start="93" id="P1"/>
+        <PATH text="the border to New South Wales" end="311" start="282" id="P2"/>
+        <PATH text="over the electrified fence" end="744" start="718" id="P3"/>
+        <PATH text="on a straight line towards the confluence" end="798" start="757" id="P4"/>
+        <PATH text="the confluence point" end="1099" start="1079" id="P5"/>
+        <PATH text="to the car" end="1300" start="1290" id="P6"/>
+        <PATH text="to Melbourne via Wodonga (where we had some Chinese food for dinner)" end="1659" start="1591" id="P7"/>
+        <PATH text="quite a big hill" end="945" start="929" id="P8"/>
+        <DIRECTION text="north" end="103" start="98" id="DIR0"/>
+        <DISTANCE text="about 9 kilometres" end="355" start="337" id="DIS1"/>
+        <DISTANCE text="about 1.6 kilometres" end="573" start="553" id="DIS2"/>
+        <DISTANCE text="next" end="642" start="638" id="DIS3"/>
+        <DISTANCE text="next" end="1358" start="1354" id="DIS4"/>
+        <DISTANCE text="145 kilometre" end="139" start="126" id="DIS5"/>
+        <DISTANCE text="450 kilometre" end="1579" start="1566" id="DIS0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="North" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS5" path_id="P1" direction_id="DIR0" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR1"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T1" id="SR2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T2" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T2" id="SR4"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T3" id="SR6"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L3" trajector_id="T4" id="SR7"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L4" trajector_id="T4" id="SR8"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L4" trajector_id="T5" id="SR9"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S7" landmark_id="L7" trajector_id="T9" id="SR12"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L8" trajector_id="T10" id="SR13"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L9" trajector_id="T10" id="SR14"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S9" landmark_id="L9" trajector_id="T11" id="SR15"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS3" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S10" landmark_id="L10" trajector_id="T10" id="SR16"/>
+        <RELATION FoR="relative" relative_value="ABOVE" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T12" id="SR17"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T12" id="SR18"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T13" id="SR19"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S13" landmark_id="L13" trajector_id="T16" id="SR21"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T17" id="SR22"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS0" path_id="P7" direction_id="" motion_id="M10" spatial_indicator_id="" landmark_id="" trajector_id="T18" id="SR23"/>
+        <RELATION FoR="intrinsic" relative_value="BEHIND" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S12" landmark_id="L12" trajector_id="T15" id="SR24"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS4" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S14" landmark_id="L16" trajector_id="T19" id="SR25"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L11" trajector_id="T6" id="SR5"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L5" trajector_id="T7" id="SR20"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS2" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L6" trajector_id="T9" id="SR26"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S11" landmark_id="L15" trajector_id="T8" id="SR27"/>
+        <RELATION FoR="relative" relative_value="ABOVE" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P8" direction_id="" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T20" id="SR10"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M9" spatial_indicator_id="" landmark_id="" trajector_id="T21" id="SR11"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L14" trajector_id="T22" id="SR28"/>
+    </TAGS>
+</SpRL>

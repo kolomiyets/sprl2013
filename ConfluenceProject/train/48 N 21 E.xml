@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=7382</URL>
+    <CP>48°N 21°E</CP>
+    <TEXT>
+17-Sep-2001 -- This was our second confluence point on that day. We arrived late in the afternoon (about 19:00). We left the car not far from the point (150 m). The point’s location was in a field. Everything was plain around. Our altitude was 103 m. The sun was going down, so we had only a short time to take photos.
+
+There was a little problem too. There were thousands of mosquitoes, and they were very hungry... After we localised the point (N 48, E 21), and took some photos, we ran back to our car. 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="We" end="68" start="66" id="T0"/>
+        <TRAJECTOR text="the car" end="129" start="122" id="T1"/>
+        <TRAJECTOR text="we" end="485" start="483" id="T2"/>
+        <TRAJECTOR text="The point’s location" end="182" start="162" id="T3"/>
+        <TRAJECTOR text="We" end="116" start="114" id="T4"/>
+        <TRAJECTOR text="The sun" end="259" start="252" id="T5"/>
+        <LANDMARK text="the point" end="152" start="143" id="L0"/>
+        <LANDMARK text="a field" end="197" start="190" id="L1"/>
+        <SPATIAL_INDICATOR text="from" end="142" start="138" id="S0"/>
+        <SPATIAL_INDICATOR text="in" end="189" start="187" id="S1"/>
+        <MOTION_INDICATOR text="arrived" end="76" start="69" id="M0"/>
+        <MOTION_INDICATOR text="ran back" end="494" start="486" id="M2"/>
+        <MOTION_INDICATOR text="left" end="121" start="117" id="M1"/>
+        <MOTION_INDICATOR text="going down" end="274" start="264" id="M3"/>
+        <PATH text="to our car" end="505" start="495" id="P0"/>
+        <PATH text="the car" end="129" start="122" id="P1"/>
+        <DISTANCE text="150 m" end="159" start="154" id="DIS1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR1"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T1" id="SR2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T2" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T3" id="SR4"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR0"/>
+        <RELATION FoR="relative" relative_value="BELOW" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR5"/>
+    </TAGS>
+</SpRL>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=9807</URL>
+    <CP>46°N 24°E</CP>
+    <TEXT>
+19-Apr-2012 -- Because the weather was fine and we still had some time, we drove to this point after the visit of 46N 25E.
+
+The route didn't take an end, and the streets often were very bad. In contrast the villages and the landscape were very impressing. The last three km of the way went on a very small road, rather a bad field path, passing a newly built monastry to the buildings near the crossing. We only had to go 200 metres across a humid meadow until the edge of the field.
+
+We drove on a bigger road to Sibiu, in German: Hermannstadt, a nice little town with pleasant flair.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="we" end="75" start="73" id="T0"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T1"/>
+        <TRAJECTOR text="We" end="407" start="405" id="T2"/>
+        <TRAJECTOR text="the edge" end="470" start="462" id="T3"/>
+        <TRAJECTOR text="We" end="488" start="486" id="T4"/>
+        <TRAJECTOR text="the buildings" end="385" start="372" id="T5"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T6"/>
+        <LANDMARK text="the field" end="483" start="474" id="L0"/>
+        <LANDMARK text="the crossing" end="403" start="391" id="L1"/>
+        <LANDMARK text="a bigger road" end="511" start="498" id="L2"/>
+        <LANDMARK text="a very small road" end="311" start="294" id="L3"/>
+        <SPATIAL_INDICATOR text="of" end="473" start="471" id="S0"/>
+        <SPATIAL_INDICATOR text="on" end="497" start="495" id="S1"/>
+        <SPATIAL_INDICATOR text="on" end="293" start="291" id="S2"/>
+        <MOTION_INDICATOR text="drove" end="81" start="76" id="M0"/>
+        <MOTION_INDICATOR text="passing" end="345" start="338" id="M2"/>
+        <MOTION_INDICATOR text="go" end="422" start="420" id="M3"/>
+        <MOTION_INDICATOR text="drove" end="494" start="489" id="M4"/>
+        <MOTION_INDICATOR text="the visit" end="111" start="102" id="M1"/>
+        <MOTION_INDICATOR text="went" end="290" start="286" id="M5"/>
+        <PATH text="to this point" end="95" start="82" id="P0"/>
+        <PATH text="46N 25E" end="122" start="115" id="P1"/>
+        <PATH text="a newly built monastry to the buildings near the crossing" end="403" start="346" id="P2"/>
+        <PATH text="across a humid meadow until the edge of the field" end="483" start="434" id="P3"/>
+        <PATH text="to Sibiu" end="520" start="512" id="P4"/>
+        <PATH text="the way" end="285" start="278" id="P5"/>
+        <DISTANCE text="200 metres" end="433" start="423" id="DIS0"/>
+        <DISTANCE text="The last three km" end="274" start="257" id="DIS1"/>
+        <DISTANCE text="near" end="390" start="386" id="DIS2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS0" path_id="P3" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T2" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T3" id="SR4"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M4" spatial_indicator_id="S1" landmark_id="L2" trajector_id="T4" id="SR5"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS2" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L1" trajector_id="T5" id="SR6"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS1" path_id="P5" direction_id="" motion_id="M5" spatial_indicator_id="S2" landmark_id="L3" trajector_id="T1" id="SR8"/>
+    </TAGS>
+</SpRL>

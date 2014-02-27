@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=1948</URL>
+    <CP>53°N 6°E</CP>
+    <TEXT>
+12-Sep-2006 -- Nachdem uns am Morgen des 12. Septembers die Langeweile übermannte, schmiedeten wir den Plan, einen Confluence Punkt zu &quot;besichtigen&quot;. Zwar fehlte ein Visitor Center und der obligatorische Giftshop, dennoch war es ein unterhaltsamer Ausflug ins Grüne und brachte ein wenig Abwechslung in unseren Urlaub in den Niederlanden.
+
+English
+
+12-Sep-2006 -- In the morning hours of September 12 we thought about bringing some action in our vacation, we decided to hunt for CP 53N 6E. When we arrived there, after crossing many small fences and fields, we recognized that there is no visitor center and no gift shop :), but it had been a nice little excursion in the agricultural environment.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="we" end="498" start="496" id="T0"/>
+        <TRAJECTOR text="we" end="459" start="457" id="T1"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T2"/>
+        <MOTION_INDICATOR text="arrived" end="506" start="499" id="M0"/>
+        <MOTION_INDICATOR text="crossing" end="528" start="520" id="M1"/>
+        <MOTION_INDICATOR text="hunt" end="475" start="471" id="M2"/>
+        <MOTION_INDICATOR text="a nice little excursion" end="665" start="642" id="M3"/>
+        <PATH text="many small fences and fields" end="557" start="529" id="P0"/>
+        <PATH text="for CP 53N 6E" end="489" start="476" id="P1"/>
+        <PATH text="there" end="512" start="507" id="P2"/>
+        <PATH text="in the agricultural environment" end="697" start="666" id="P3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T2" id="SR3"/>
+    </TAGS>
+</SpRL>

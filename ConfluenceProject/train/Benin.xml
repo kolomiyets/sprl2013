@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=3130</URL>
+    <CP>7°N 2°E</CP>
+    <TEXT>
+11-May-2007 -- With a day to spare (well, the report can wait till later) in Benin, I could not resist the urge to catch an unclaimed point. I set off from Cotonou on the coast at 7 a.m. with Benjamin – a driver from the African Rice Centre. Benin must have a lot more motorbikes than cars – they are more affordable, of course, and many serve as taxis. The road was very good (well, when compared with Nigeria a few miles east!) but a bit congested by rush hour traffic.
+
+After 100 km on paved roads, we moved onto the dirt roads. Eventually the roads became tracks and then footpaths – well, some footpaths are a bit narrow for a Land Cruiser, so we set off to walk with 4 km to go. After another 500 m we came to another road and decided to go back and take the car and make the path a bit wider! The new road took us to within 3 km but then we were stuck in a courtyard surrounded by mud houses. We set off again past small fields of groundnut and maize and occasionally pushed our way through some thicket – not quite hacking our way through the Amazonian jungle but one can imagine.
+
+Benjamin surprised me by saying he understood the mission – he had previously worked with scientists who mapped fields using GPS and he had to return to them. A luxury not many point hunters have. Eventually we arrived at the point – in the middle of a cultivated field of groundnuts.
+
+We took the pictures and the rain started. After a few seconds dithering we decided to take shelter in a small hut. After a few minutes getting accustomed to the darkness, it became clear that there was quite a crowd inside - the farmer and his mother, wife, baby daughter, one brother, and several sisters. Digital photos provided great amusement and then the others continued their shelling of oil palm kernels.
+
+The rain increased and decreased and increased – but after an hour we decided we would have to make a run for it. The farmers showed us a more direct route back to the village and we set off along the paths that had now become rivers. The roads were slippery on the way back, so we took our time. The report was finished the next week!
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="I" end="143" start="142" id="T0"/>
+        <TRAJECTOR text="we" end="505" start="503" id="T1"/>
+        <TRAJECTOR text="we" end="652" start="650" id="T2"/>
+        <TRAJECTOR text="we" end="708" start="706" id="T3"/>
+        <TRAJECTOR text="us" end="821" start="819" id="T4"/>
+        <TRAJECTOR text="we" end="848" start="846" id="T5"/>
+        <TRAJECTOR text="a courtyard" end="874" start="863" id="T6"/>
+        <TRAJECTOR text="We" end="903" start="901" id="T7"/>
+        <TRAJECTOR text="we" end="1301" start="1299" id="T8"/>
+        <TRAJECTOR text="a more direct route" end="1947" start="1928" id="T9"/>
+        <TRAJECTOR text="we" end="1974" start="1972" id="T10"/>
+        <TRAJECTOR text="Cotonou" end="164" start="157" id="T11"/>
+        <TRAJECTOR text="Nigeria" end="411" start="404" id="T12"/>
+        <TRAJECTOR text="the point" end="1322" start="1313" id="T13"/>
+        <TRAJECTOR text="we" end="1452" start="1450" id="T14"/>
+        <TRAJECTOR text="a crowd" end="1593" start="1586" id="T15"/>
+        <TRAJECTOR text="that" end="2003" start="1999" id="T16"/>
+        <LANDMARK text="a courtyard surrounded by mud houses" end="899" start="863" id="L0"/>
+        <LANDMARK text="mud houses" end="899" start="889" id="L1"/>
+        <LANDMARK text="the village" end="1967" start="1956" id="L3"/>
+        <LANDMARK text="the coast" end="177" start="168" id="L2"/>
+        <LANDMARK text="" end="-1" start="-1" id="L4"/>
+        <LANDMARK text="a cultivated field of groundnuts" end="1374" start="1342" id="L5"/>
+        <LANDMARK text="" end="-1" start="-1" id="L6"/>
+        <LANDMARK text="the paths" end="1998" start="1989" id="L7"/>
+        <SPATIAL_INDICATOR text="in" end="862" start="860" id="S0"/>
+        <SPATIAL_INDICATOR text="surrounded by" end="888" start="875" id="S1"/>
+        <SPATIAL_INDICATOR text="back to" end="1955" start="1948" id="S2"/>
+        <SPATIAL_INDICATOR text="on" end="167" start="165" id="S3"/>
+        <SPATIAL_INDICATOR text="in the middle of" end="1341" start="1325" id="S4"/>
+        <SPATIAL_INDICATOR text="inside" end="1600" start="1594" id="S5"/>
+        <MOTION_INDICATOR text="set off" end="151" start="144" id="M0"/>
+        <MOTION_INDICATOR text="moved" end="511" start="506" id="M1"/>
+        <MOTION_INDICATOR text="walk" end="668" start="664" id="M2"/>
+        <MOTION_INDICATOR text="came" end="713" start="709" id="M3"/>
+        <MOTION_INDICATOR text="took" end="818" start="814" id="M4"/>
+        <MOTION_INDICATOR text="set off" end="911" start="904" id="M5"/>
+        <MOTION_INDICATOR text="pushed" end="982" start="976" id="M6"/>
+        <MOTION_INDICATOR text="arrived" end="1309" start="1302" id="M7"/>
+        <MOTION_INDICATOR text="set off" end="1982" start="1975" id="M8"/>
+        <MOTION_INDICATOR text="After" end="479" start="474" id="M9"/>
+        <MOTION_INDICATOR text="After" end="691" start="686" id="M10"/>
+        <MOTION_INDICATOR text="go back" end="752" start="745" id="M11"/>
+        <MOTION_INDICATOR text="take shelter" end="1476" start="1464" id="M12"/>
+        <PATH text="from Cotonou on the coast" end="177" start="152" id="P0"/>
+        <PATH text="onto the dirt roads" end="531" start="512" id="P1"/>
+        <PATH text="with 4 km" end="678" start="669" id="P2"/>
+        <PATH text="100 km on paved roads" end="501" start="480" id="P3"/>
+        <PATH text="another 500 m" end="705" start="692" id="P4"/>
+        <PATH text="to another road" end="729" start="714" id="P5"/>
+        <PATH text="to within 3 km" end="836" start="822" id="P6"/>
+        <PATH text="past small fields of groundnut and maize" end="958" start="918" id="P7"/>
+        <PATH text="through some thicket" end="1011" start="991" id="P8"/>
+        <PATH text="at the point" end="1322" start="1310" id="P9"/>
+        <PATH text="along the paths" end="1998" start="1983" id="P10"/>
+        <PATH text="in a small hut" end="1491" start="1477" id="P11"/>
+        <DIRECTION text="east" end="428" start="424" id="DIR0"/>
+        <DISTANCE text="a few miles" end="423" start="412" id="DIS0"/>
+        <DISTANCE text="100 km" end="486" start="480" id="DIS1"/>
+        <DISTANCE text="500 m" end="705" start="700" id="DIS2"/>
+        <DISTANCE text="4 km" end="678" start="674" id="DIS3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS3" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS1" path_id="P3" direction_id="" motion_id="M9" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS2" path_id="P4" direction_id="" motion_id="M10" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR4"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR5"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T5" id="SR6"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T6" id="SR7"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P7" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR8"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P8" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR9"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P9" direction_id="" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T8" id="SR10"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L3" trajector_id="T9" id="SR11"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P10" direction_id="" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T10" id="SR12"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L2" trajector_id="T11" id="SR13"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="East" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="DIR0" motion_id="" spatial_indicator_id="" landmark_id="L4" trajector_id="T12" id="SR14"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M11" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR15"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L5" trajector_id="T13" id="SR16"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P11" direction_id="" motion_id="M12" spatial_indicator_id="" landmark_id="" trajector_id="T14" id="SR17"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L6" trajector_id="T15" id="SR18"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L7" trajector_id="T16" id="SR19"/>
+    </TAGS>
+</SpRL>

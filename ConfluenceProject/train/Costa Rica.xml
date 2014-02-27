@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=18130</URL>
+    <CP>8°N 83°W</CP>
+    <TEXT>
+26-Mar-2007 -- This morning we came to pass 8N 83W. I expected to see the coastline much better, as the Confluence is only 11.3 km from the nearest land, but obviously it was raining there. What we see is a peninsula, which eastern part belongs to Panama and the western one to Costa Rica.
+
+The first view is towards NNW, where the peninsula begins. Left of it, farther North, the Golfo Dulce (&quot;Sweet Gulf&quot;) extends, where the port of Golfito is situated, a major Costa Rican banana export terminal.
+
+Looking towards NE, we see the coastline of the narrow part of the peninsula, and finally towards West there is its southernmost tip, Punta Burica, with a small offlaying islet, Isla Burica.
+
+Isla Burica lies about 1 km south of Punta Burica to which it is connected by a reef.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="we" end="31" start="29" id="T0"/>
+        <TRAJECTOR text="the Confluence" end="115" start="101" id="T1"/>
+        <TRAJECTOR text="which eastern part" end="237" start="219" id="T3"/>
+        <TRAJECTOR text="eastern part" end="237" start="225" id="T4"/>
+        <TRAJECTOR text="the western one" end="275" start="260" id="T5"/>
+        <TRAJECTOR text="the Golfo Dulce (&quot;Sweet Gulf&quot;)" end="408" start="378" id="T6"/>
+        <TRAJECTOR text="the coastline" end="542" start="529" id="T7"/>
+        <TRAJECTOR text="its southernmost tip, Punta Burica" end="648" start="614" id="T8"/>
+        <TRAJECTOR text="Isla Burica" end="705" start="694" id="T9"/>
+        <TRAJECTOR text="it" end="755" start="753" id="T10"/>
+        <TRAJECTOR text="where" end="423" start="418" id="T2"/>
+        <TRAJECTOR text="the port of Golfito" end="443" start="424" id="T11"/>
+        <TRAJECTOR text="a major Costa Rican banana export terminal" end="499" start="457" id="T12"/>
+        <TRAJECTOR text="the narrow part" end="561" start="546" id="T13"/>
+        <TRAJECTOR text="its" end="617" start="614" id="T14"/>
+        <LANDMARK text="the nearest land" end="153" start="137" id="L0"/>
+        <LANDMARK text="Panama" end="255" start="249" id="L1"/>
+        <LANDMARK text="a peninsula" end="217" start="206" id="L2"/>
+        <LANDMARK text="Costa Rica" end="289" start="279" id="L3"/>
+        <LANDMARK text="it" end="361" start="359" id="L4"/>
+        <LANDMARK text="the port of Golfito" end="443" start="424" id="L5"/>
+        <LANDMARK text="the narrow part of the peninsula" end="578" start="546" id="L6"/>
+        <LANDMARK text="a small offlaying islet, Isla Burica" end="691" start="655" id="L7"/>
+        <LANDMARK text="Punta Burica" end="743" start="731" id="L8"/>
+        <LANDMARK text="a reef" end="778" start="772" id="L10"/>
+        <LANDMARK text="which" end="752" start="747" id="L11"/>
+        <LANDMARK text="" end="-1" start="-1" id="L9"/>
+        <LANDMARK text="where" end="423" start="418" id="L12"/>
+        <LANDMARK text="the peninsula" end="578" start="565" id="L13"/>
+        <LANDMARK text="its" end="617" start="614" id="L14"/>
+        <SPATIAL_INDICATOR text="from" end="136" start="132" id="S0"/>
+        <SPATIAL_INDICATOR text="belongs to" end="248" start="238" id="S1"/>
+        <SPATIAL_INDICATOR text="and" end="259" start="256" id="S3"/>
+        <SPATIAL_INDICATOR text="to" end="278" start="276" id="S4"/>
+        <SPATIAL_INDICATOR text="farther" end="370" start="363" id="S5"/>
+        <SPATIAL_INDICATOR text="of" end="358" start="356" id="S6"/>
+        <SPATIAL_INDICATOR text="extends" end="416" start="409" id="S7"/>
+        <SPATIAL_INDICATOR text="of" end="545" start="543" id="S8"/>
+        <SPATIAL_INDICATOR text="offlaying" end="672" start="663" id="S9"/>
+        <SPATIAL_INDICATOR text="of" end="730" start="728" id="S10"/>
+        <SPATIAL_INDICATOR text="connected by" end="771" start="759" id="S12"/>
+        <SPATIAL_INDICATOR text="to" end="746" start="744" id="S13"/>
+        <SPATIAL_INDICATOR text="situated" end="455" start="447" id="S2"/>
+        <SPATIAL_INDICATOR text="of" end="564" start="562" id="S11"/>
+        <MOTION_INDICATOR text="pass" end="44" start="40" id="M0"/>
+        <PATH text="8N 83W" end="51" start="45" id="P0"/>
+        <DIRECTION text="eastern" end="232" start="225" id="DIR0"/>
+        <DIRECTION text="western" end="271" start="264" id="DIR1"/>
+        <DIRECTION text="North" end="376" start="371" id="DIR2"/>
+        <DIRECTION text="Left" end="355" start="351" id="DIR3"/>
+        <DIRECTION text="south" end="727" start="722" id="DIR4"/>
+        <DIRECTION text="southernmost" end="630" start="618" id="DIR5"/>
+        <DISTANCE text="11.3 km" end="131" start="124" id="DIS0"/>
+        <DISTANCE text="about 1 km" end="721" start="711" id="DIS1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T3" id="SR2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L3" trajector_id="T5" id="SR5"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="North" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR2" motion_id="" spatial_indicator_id="S5" landmark_id="L4" trajector_id="T6" id="SR6"/>
+        <RELATION FoR="relative" relative_value="LEFT" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR3" motion_id="" spatial_indicator_id="S6" landmark_id="L4" trajector_id="T6" id="SR7"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S7" landmark_id="L9" trajector_id="T6" id="SR8"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L6" trajector_id="T7" id="SR9"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S9" landmark_id="L7" trajector_id="T8" id="SR10"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="DIR4" motion_id="" spatial_indicator_id="S10" landmark_id="L8" trajector_id="T9" id="SR11"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S12" landmark_id="L10" trajector_id="T10" id="SR12"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S13" landmark_id="L11" trajector_id="T10" id="SR13"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="East" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR0" motion_id="" spatial_indicator_id="" landmark_id="L2" trajector_id="T3" id="SR14"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="West" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR1" motion_id="" spatial_indicator_id="" landmark_id="L2" trajector_id="T5" id="SR15"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L9" trajector_id="T2" id="SR16"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L12" trajector_id="T11" id="SR17"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L5" trajector_id="T12" id="SR18"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S11" landmark_id="L13" trajector_id="T13" id="SR19"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L13" trajector_id="T14" id="SR20"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR5" motion_id="" spatial_indicator_id="" landmark_id="L14" trajector_id="T8" id="SR21"/>
+    </TAGS>
+</SpRL>

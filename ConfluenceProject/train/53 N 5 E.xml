@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=13936</URL>
+    <CP>53°N 5°E</CP>
+    <TEXT>
+06-Jun-2001 -- We had quite an expedition going on for 53 lat and 5 lon! Confluence point 53N/5E is located in the Dutch Shallows which is a tidal flat area that stretches along the entire Dutch north coast. Twice every day it will be low tide and high tide with an average water level difference of some 1.5 meters, some sandbanks will fall dry during ebb, some never will and some will occasionally. The estimation was that the banks around 53N/5E would be of the latter type.
+
+Therefore quite some preparations had to be made for visiting this confluence point: the timing of ebb and flood, the reigning currents, the predicted low water level and last but not least arranging a boat. Because it was very likely that there would be little water during low tide, a typical Dutch vessel, a socalled Lemster aak, was chosen that is commonly used in these waters and that can be put 'dry' on a sandbank while it is low tide. We also used a satellite image taken during low tide to compare the local situation to a recent map.
+
+Well prepared and equipped we set sail on Tuesday evening 5 June, 18.00 hours from the Frisian village of Gaastmeer (see also the satellite map with GPS log overlayed). During the evening the IJssel lake was crossed and it had gone dark by the time that we reached the opposite side of the lake, the locks near Den Oever.
+
+Wednesday 6 June was the day. We started early and passed the tidal locks, also the barrier between fresh and salt water, at 8.30 hours and then set course to our point. There was a nice wind from the west of about 4 Bft and during the morning it was high tide. At 12.00 hours we approached the confluence point from the west and with the help of 4 GPS receivers managed to sail right over it. We spent some time in doing various nautical/sailing manoeuvres and then the waiting began for low tide and putting our barge on the sand bank. A few hours later our boat touched the sea floor exactly on confluence point 53N/5E! Of course we had plenty of time to make a lot of pictures that can be viewed through the link pictures at an expedition. It never became completely dry because all day there was quite some wind causing higher water levels than predicted. The lowest water level we experienced (at 16.00 hours) was 25 cm above the sand bank. Anyway it was well possible to wade and walk around and visit some higher parts of the bank in the neighbourhood that did fall dry. As you can see from the GPS track of our &quot;wadden-walk&quot; the satellite image and track coincide perfectly! At 17.00 hours preparations had to be made for lift-up and take-off because high tide was setting in. After the boat was afloat, the course was set to the isle of Texel where we arrived in the harbour of Oudeschild at 20.30 hours. Big celebrations for our succesfull attempt could begin!
+
+Thursday 7 June, the day of our return, turned out to be a real sailing day with winds of 6 to 7 Bft. From 8 o'clock in the morning till 4 o'clock in the afternoon it was rocking and rolling through steep high waves. At 17.00 hours we sailed into the home-harbour of Gaastmeer and could look back on a very good three day adventurous journey.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="We" end="18" start="16" id="T0"/>
+        <TRAJECTOR text="Confluence point 53N/5E" end="97" start="74" id="T1"/>
+        <TRAJECTOR text="the Dutch Shallows" end="130" start="112" id="T2"/>
+        <TRAJECTOR text="a tidal flat area" end="157" start="140" id="T3"/>
+        <TRAJECTOR text="the banks" end="436" start="427" id="T4"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T5"/>
+        <TRAJECTOR text="we" end="1056" start="1054" id="T6"/>
+        <TRAJECTOR text="we" end="1283" start="1281" id="T7"/>
+        <TRAJECTOR text="the opposite side" end="1309" start="1292" id="T8"/>
+        <TRAJECTOR text="the locks" end="1332" start="1323" id="T9"/>
+        <TRAJECTOR text="We" end="1382" start="1380" id="T11"/>
+        <TRAJECTOR text="the barrier" end="1441" start="1430" id="T12"/>
+        <TRAJECTOR text="fresh" end="1455" start="1450" id="T13"/>
+        <TRAJECTOR text="we" end="1629" start="1627" id="T14"/>
+        <TRAJECTOR text="We" end="1746" start="1744" id="T15"/>
+        <TRAJECTOR text="our barge" end="1869" start="1860" id="T16"/>
+        <TRAJECTOR text="our boat" end="1914" start="1906" id="T18"/>
+        <TRAJECTOR text="The lowest water level we experienced" end="2248" start="2211" id="T19"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T20"/>
+        <TRAJECTOR text="some higher parts" end="2376" start="2359" id="T21"/>
+        <TRAJECTOR text="we" end="2711" start="2709" id="T23"/>
+        <TRAJECTOR text="we" end="3057" start="3055" id="T25"/>
+        <TRAJECTOR text="that" end="871" start="867" id="T10"/>
+        <TRAJECTOR text="the sea floor" end="1936" start="1923" id="T17"/>
+        <TRAJECTOR text="the bank" end="2388" start="2380" id="T22"/>
+        <LANDMARK text="the Dutch Shallows" end="130" start="112" id="L0"/>
+        <LANDMARK text="the entire Dutch north coast" end="207" start="179" id="L1"/>
+        <LANDMARK text="53N/5E" end="450" start="444" id="L2"/>
+        <LANDMARK text="the lake" end="1321" start="1313" id="L3"/>
+        <LANDMARK text="Den Oever" end="1347" start="1338" id="L4"/>
+        <LANDMARK text="fresh" end="1455" start="1450" id="L5"/>
+        <LANDMARK text="salt water" end="1470" start="1460" id="L6"/>
+        <LANDMARK text="the sand bank" end="1886" start="1873" id="L7"/>
+        <LANDMARK text="the sand bank" end="2295" start="2282" id="L9"/>
+        <LANDMARK text="the bank in the neighbourhood" end="2409" start="2380" id="L11"/>
+        <LANDMARK text="a sandbank" end="902" start="892" id="L10"/>
+        <LANDMARK text="confluence point 53N/5E" end="1971" start="1948" id="L15"/>
+        <LANDMARK text="the neighbourhood" end="2409" start="2392" id="L16"/>
+        <SPATIAL_INDICATOR text="located in" end="111" start="101" id="S0"/>
+        <SPATIAL_INDICATOR text="along" end="178" start="173" id="S1"/>
+        <SPATIAL_INDICATOR text="around" end="443" start="437" id="S2"/>
+        <SPATIAL_INDICATOR text="of" end="1312" start="1310" id="S3"/>
+        <SPATIAL_INDICATOR text="between" end="1449" start="1442" id="S4"/>
+        <SPATIAL_INDICATOR text="and" end="1459" start="1456" id="S5"/>
+        <SPATIAL_INDICATOR text="on" end="1872" start="1870" id="S6"/>
+        <SPATIAL_INDICATOR text="on" end="1947" start="1945" id="S7"/>
+        <SPATIAL_INDICATOR text="above" end="2281" start="2276" id="S8"/>
+        <SPATIAL_INDICATOR text="of" end="2379" start="2377" id="S9"/>
+        <SPATIAL_INDICATOR text="on" end="891" start="889" id="S13"/>
+        <SPATIAL_INDICATOR text="in" end="2391" start="2389" id="S14"/>
+        <MOTION_INDICATOR text="going on" end="51" start="43" id="M1"/>
+        <MOTION_INDICATOR text="visiting" end="542" start="534" id="M2"/>
+        <MOTION_INDICATOR text="set sail" end="1065" start="1057" id="M3"/>
+        <MOTION_INDICATOR text="crossed" end="1242" start="1235" id="M4"/>
+        <MOTION_INDICATOR text="reached" end="1291" start="1284" id="M5"/>
+        <MOTION_INDICATOR text="started" end="1390" start="1383" id="M6"/>
+        <MOTION_INDICATOR text="passed" end="1407" start="1401" id="M7"/>
+        <MOTION_INDICATOR text="approached" end="1640" start="1630" id="M8"/>
+        <MOTION_INDICATOR text="sail" end="1728" start="1724" id="M9"/>
+        <MOTION_INDICATOR text="visit" end="2358" start="2353" id="M11"/>
+        <MOTION_INDICATOR text="arrived" end="2719" start="2712" id="M12"/>
+        <MOTION_INDICATOR text="sailed into" end="3069" start="3058" id="M13"/>
+        <MOTION_INDICATOR text="set course" end="1505" start="1495" id="M0"/>
+        <MOTION_INDICATOR text="touched" end="1922" start="1915" id="M14"/>
+        <MOTION_INDICATOR text="wade and walk around" end="2348" start="2328" id="M15"/>
+        <MOTION_INDICATOR text="the course" end="2673" start="2663" id="M16"/>
+        <MOTION_INDICATOR text="doing various nautical/sailing manoeuvres" end="1807" start="1766" id="M17"/>
+        <PATH text="for 53 lat and 5 lon" end="72" start="52" id="P0"/>
+        <PATH text="this confluence point" end="564" start="543" id="P1"/>
+        <PATH text="from the Frisian village of Gaastmeer" end="1142" start="1105" id="P2"/>
+        <PATH text="the IJssel lake" end="1230" start="1215" id="P3"/>
+        <PATH text="the opposite side of the lake, the locks near Den Oever" end="1347" start="1292" id="P4"/>
+        <PATH text="the tidal locks" end="1423" start="1408" id="P5"/>
+        <PATH text="the barrier between fresh and salt water" end="1470" start="1430" id="P6"/>
+        <PATH text="the confluence point from the west" end="1675" start="1641" id="P7"/>
+        <PATH text="right over it" end="1742" start="1729" id="P8"/>
+        <PATH text="some higher parts of the bank in the neighbourhood" end="2409" start="2359" id="P11"/>
+        <PATH text="in the harbour of Oudeschild" end="2748" start="2720" id="P12"/>
+        <PATH text="the home-harbour of Gaastmeer" end="3099" start="3070" id="P13"/>
+        <PATH text="to our point" end="1518" start="1506" id="P9"/>
+        <PATH text="the sea floor" end="1936" start="1923" id="P10"/>
+        <PATH text="to the isle of Texel" end="2702" start="2682" id="P14"/>
+        <DIRECTION text="west" end="1675" start="1671" id="DIR0"/>
+        <DISTANCE text="near" end="1337" start="1333" id="DIS0"/>
+        <DISTANCE text="25 cm" end="2275" start="2270" id="DIS1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T3" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP-1" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T4" id="SR4"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR5"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T6" id="SR6"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR7"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR8"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L3" trajector_id="T8" id="SR9"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS0" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L4" trajector_id="T9" id="SR10"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T11" id="SR12"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T11" id="SR13"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T11" id="SR14"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L5" trajector_id="T12" id="SR15"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L6" trajector_id="T12" id="SR16"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="East" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P7" direction_id="DIR0" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T14" id="SR18"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P8" direction_id="" motion_id="M9" spatial_indicator_id="" landmark_id="" trajector_id="T14" id="SR19"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M17" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR20"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L7" trajector_id="T16" id="SR21"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L9" trajector_id="T19" id="SR25"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P11" direction_id="" motion_id="M11" spatial_indicator_id="" landmark_id="" trajector_id="T20" id="SR28"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S9" landmark_id="L11" trajector_id="T21" id="SR29"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P12" direction_id="" motion_id="M12" spatial_indicator_id="" landmark_id="" trajector_id="T23" id="SR31"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P13" direction_id="" motion_id="M13" spatial_indicator_id="" landmark_id="" trajector_id="T25" id="SR33"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L6" trajector_id="T13" id="SR35"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S13" landmark_id="L10" trajector_id="T10" id="SR17"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P9" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T11" id="SR22"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P10" direction_id="" motion_id="M14" spatial_indicator_id="" landmark_id="" trajector_id="T18" id="SR26"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP-1" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S7" landmark_id="L15" trajector_id="T17" id="SR27"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M15" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR36"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P14" direction_id="" motion_id="M16" spatial_indicator_id="" landmark_id="" trajector_id="T20" id="SR37"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S14" landmark_id="L16" trajector_id="T22" id="SR38"/>
+    </TAGS>
+</SpRL>

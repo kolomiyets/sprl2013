@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=24774</URL>
+    <CP>53°N 4°E</CP>
+    <TEXT>
+05-Sep-2004 -- On a sailing trip with sailing yacht \'Lady Dé\' we needed a goal. This confluence point was free, so we intended to claim it.
+
+On a very beautiful day we sailed to it from Den Helder (the Netherlands). We had to cross a dangerous channel throug \'Noorderhaaks\' and \'Zuiderhaaks\' (sandbanks for the Dutch coast), two shiping lanes, an oilfield and several miles of sea.
+
+Thanks to the marvelous steering of Nico, we could reach this point with an accuracy of 0.003 minutes. We marked the spot with the Dutch flag as you can see in the pictures. On the pictures you can also see: The PBO (Poor Bloody Owner) Captain Nico, VCM (Very Clever Mate) 1e Mate Henk, The surrounding of the spot.
+
+It was a wonderfull day at sea!
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="we" end="170" start="168" id="T0"/>
+        <TRAJECTOR text="We" end="221" start="219" id="T1"/>
+        <TRAJECTOR text="a dangerous channel" end="254" start="235" id="T2"/>
+        <TRAJECTOR text="we" end="434" start="432" id="T3"/>
+        <TRAJECTOR text="The surrounding" end="692" start="677" id="T4"/>
+        <TRAJECTOR text="\'Noorderhaaks\'" end="278" start="262" id="T5"/>
+        <TRAJECTOR text="we" end="67" start="65" id="T6"/>
+        <LANDMARK text="\'Noorderhaaks\'" end="278" start="262" id="L0"/>
+        <LANDMARK text="\'Zuiderhaaks\'" end="298" start="283" id="L1"/>
+        <LANDMARK text="the spot" end="704" start="696" id="L2"/>
+        <SPATIAL_INDICATOR text="throug" end="261" start="255" id="S0"/>
+        <SPATIAL_INDICATOR text="of" end="695" start="693" id="S1"/>
+        <SPATIAL_INDICATOR text="and" end="282" start="279" id="S2"/>
+        <MOTION_INDICATOR text="sailed" end="177" start="171" id="M0"/>
+        <MOTION_INDICATOR text="cross" end="234" start="229" id="M1"/>
+        <MOTION_INDICATOR text="reach" end="446" start="441" id="M2"/>
+        <MOTION_INDICATOR text="sailing trip" end="33" start="21" id="M3"/>
+        <PATH text="to it from Den Helder (the Netherlands)" end="217" start="178" id="P0"/>
+        <PATH text="a dangerous channel throug \'Noorderhaaks\' and \'Zuiderhaaks\' (sandbanks for the Dutch coast), two shiping lanes, an oilfield and several miles of sea" end="387" start="235" id="P1"/>
+        <PATH text="this point" end="457" start="447" id="P2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L1" trajector_id="T2" id="SR3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR4"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP-1" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L2" trajector_id="T4" id="SR5"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L1" trajector_id="T5" id="SR6"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T6" id="SR7"/>
+    </TAGS>
+</SpRL>

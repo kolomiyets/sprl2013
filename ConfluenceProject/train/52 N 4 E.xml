@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=17020</URL>
+    <CP>52°N 4°E</CP>
+    <TEXT>
+25-May-2003 -- On a sailing tour from IJmuiden to Antwerpen we crossed the shippinglane maasmond by rotterdam. The most busy shipping routte at the world. This confluence point is in the middle of it!
+
+Picture 1 to the west, 2 to the east, 3 the evidence and 4 thats me! 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="we" end="63" start="61" id="T0"/>
+        <TRAJECTOR text="This confluence point" end="177" start="156" id="T1"/>
+        <TRAJECTOR text="The most busy shipping routte" end="141" start="112" id="T2"/>
+        <LANDMARK text="it" end="200" start="198" id="L0"/>
+        <LANDMARK text="the world" end="154" start="145" id="L1"/>
+        <SPATIAL_INDICATOR text="in the middle of" end="197" start="181" id="S1"/>
+        <SPATIAL_INDICATOR text="at" end="144" start="142" id="S0"/>
+        <MOTION_INDICATOR text="crossed" end="71" start="64" id="M0"/>
+        <MOTION_INDICATOR text="a sailing tour" end="33" start="19" id="M1"/>
+        <PATH text="the shippinglane maasmond by rotterdam" end="110" start="72" id="P0"/>
+        <PATH text="from IJmuiden to Antwerpen" end="60" start="34" id="P1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L0" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L1" trajector_id="T2" id="SR3"/>
+    </TAGS>
+</SpRL>

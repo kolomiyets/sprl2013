@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=7380</URL>
+    <CP>46°N 18°E</CP>
+    <TEXT>
+06-Jul-2006 -- After the first visit to N45° E019° and a defective tire valve on a croatian highway we were back to our place at Lake Balaton. Of course we had to visit N46° E018° which was on our way.
+
+It´s located near the small town of Gerde. With our Jeep we could go as near as about 300 metres to the point on a narrow path. The last 300 metres we had to walk through a corn field.
+
+At about 19:30 we reached the point, but the photos aren´t very interesting - that´s no surprise in a cornfield, is it? Being quite tired already we snapped some photos and went back to the Jeep, some hundred miles were still left on our way home.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="we" end="103" start="101" id="T0"/>
+        <TRAJECTOR text="our place" end="126" start="117" id="T1"/>
+        <TRAJECTOR text="we" end="156" start="154" id="T2"/>
+        <TRAJECTOR text="It" end="206" start="204" id="T3"/>
+        <TRAJECTOR text="we" end="263" start="261" id="T5"/>
+        <TRAJECTOR text="we" end="354" start="352" id="T6"/>
+        <TRAJECTOR text="we" end="538" start="536" id="T7"/>
+        <TRAJECTOR text="we" end="407" start="405" id="T8"/>
+        <TRAJECTOR text="home" end="636" start="632" id="T9"/>
+        <TRAJECTOR text="which" end="186" start="181" id="T10"/>
+        <TRAJECTOR text="the point" end="313" start="304" id="T11"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T12"/>
+        <LANDMARK text="Lake Balaton" end="142" start="130" id="L0"/>
+        <LANDMARK text="the small town of Gerde" end="245" start="222" id="L2"/>
+        <LANDMARK text="" end="-1" start="-1" id="L1"/>
+        <LANDMARK text="N46° E018°" end="180" start="170" id="L4"/>
+        <LANDMARK text="our way" end="201" start="194" id="L5"/>
+        <LANDMARK text="a narrow path" end="330" start="317" id="L6"/>
+        <LANDMARK text="the point" end="313" start="304" id="L7"/>
+        <SPATIAL_INDICATOR text="at" end="129" start="127" id="S0"/>
+        <SPATIAL_INDICATOR text="on" end="193" start="191" id="S2"/>
+        <SPATIAL_INDICATOR text="located" end="216" start="209" id="S3"/>
+        <SPATIAL_INDICATOR text="on" end="316" start="314" id="S4"/>
+        <SPATIAL_INDICATOR text="to" end="303" start="301" id="S5"/>
+        <MOTION_INDICATOR text="the first visit" end="37" start="22" id="M0"/>
+        <MOTION_INDICATOR text="were back" end="113" start="104" id="M1"/>
+        <MOTION_INDICATOR text="visit" end="169" start="164" id="M2"/>
+        <MOTION_INDICATOR text="go" end="272" start="270" id="M3"/>
+        <MOTION_INDICATOR text="walk" end="366" start="362" id="M4"/>
+        <MOTION_INDICATOR text="went back" end="572" start="563" id="M5"/>
+        <MOTION_INDICATOR text="reached" end="415" start="408" id="M6"/>
+        <PATH text="to N45° E019°" end="51" start="38" id="P0"/>
+        <PATH text="to our place at Lake Balaton" end="142" start="114" id="P1"/>
+        <PATH text="N46° E018°" end="180" start="170" id="P2"/>
+        <PATH text="to the point on a narrow path" end="330" start="301" id="P3"/>
+        <PATH text="through a corn field" end="387" start="367" id="P4"/>
+        <PATH text="to the Jeep" end="584" start="573" id="P5"/>
+        <PATH text="the point" end="425" start="416" id="P6"/>
+        <DISTANCE text="near" end="221" start="217" id="DIS0"/>
+        <DISTANCE text="about 300 metres" end="300" start="284" id="DIS1"/>
+        <DISTANCE text="The last 300 metres" end="351" start="332" id="DIS2"/>
+        <DISTANCE text="some hundred miles" end="604" start="586" id="DIS3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR1"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T1" id="SR2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T2" id="SR3"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS0" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L2" trajector_id="T3" id="SR4"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR6"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS2" path_id="P4" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T6" id="SR7"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR8"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T8" id="SR9"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS3" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L1" trajector_id="T9" id="SR10"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L4" trajector_id="T10" id="SR11"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L5" trajector_id="T10" id="SR12"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L6" trajector_id="T11" id="SR13"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L7" trajector_id="T12" id="SR14"/>
+    </TAGS>
+</SpRL>

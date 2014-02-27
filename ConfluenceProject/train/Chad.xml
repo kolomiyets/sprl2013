@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=6082</URL>
+    <CP>11°N 16°E</CP>
+    <TEXT>
+01-Apr-2012 -- Back in N’Djamena for one more teaching mission on behalf of IIFARMU. As usual during these missions my only time-off would be on Saturday afternoon and Sunday. I decided to take my chance for a second try on 13N 15E on Saturday, 31 March and make a try on 11N 16E on Sunday, 1 April.
+
+Checking the French National Geographic Institute road map of Chad, one can easily point 11N 16E south of Massenya at approximately 210 km from N’Djamena. Interestingly, the road south of Massenya slowly turns east and ultimately runs less than 8 km (Google Earth data) west of the CP. I decided to stay on that road until I could cross the 11th parallel and then try to make my way to the point according to local conditions. I allowed me the entire day to make the round trip with my driver Hassan despite his poor driving skills (see 13N 15E).
+
+I learned from my last year’s visit at 12N 16E that it would be easy to reach Dourbali following the sand track from N’Djamena. I speculated that the road from Dourbali to Massenya would be at least as good but it turned out to be wrong.
+
+The trip to Dourbali was uneventful but we needed much more time because the sand track had been severely deteriorated during the last 12 months. This is due to legislative changes that forbid wood transportation by boat on the Chari river for service to N’Djamena. So wood harvesters bypassed the law and wood is now brought to the capital city using overloaded trucks that ruined the track. It took us almost 3 hours to reach Dourbali were we had to stop for a short rest. I took the opportunity to visit a private French-Arabic school and was welcomed by the school manager and the French teacher and soon after by the children of a crowded French class.
+
+The sand track turned into an even worse treacherous dust track south of Dourbali and our mean driving speed fell to a poor 40 km/h. Once in Massenya, we had the only good news: the river Bahr Erguig had ran dry and was very easy to cross with our car. Immediately south of the river the track became very bad and we had to drive at walking speed most of the time. I had to give up my try at 47 km of the target to avoid driving back to N’Djamena during nighttime, as this could be very hazardous on those tracks. Consider that CP as a one nighter with a night camp in Massenya to succeed.
+
+I won’t be back in Chad before February 2013 so let me shortly tell you about my job here. IIFARMU is supported by the University and the University Hospital of Bordeaux (France) and provides educational programs in the field of Anesthesia and Emergency Medicine. Our contract in Chad aims at training anesthesia technicians to serve in Chadian hospitals with a high level of autonomy as there is a severe shortage of medical doctors in the country. Anesthesia and surgery care are still on the starting line in Chad and strong help and support is needed (Picture 8 to 11).
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="11N 16E" end="398" start="391" id="T1"/>
+        <TRAJECTOR text="the road" end="480" start="472" id="T2"/>
+        <TRAJECTOR text="I" end="589" start="588" id="T3"/>
+        <TRAJECTOR text="I" end="851" start="850" id="T4"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T5"/>
+        <TRAJECTOR text="us" end="1492" start="1490" id="T7"/>
+        <TRAJECTOR text="treacherous dust track" end="1811" start="1789" id="T9"/>
+        <TRAJECTOR text="we" end="1901" start="1899" id="T10"/>
+        <TRAJECTOR text="the track" end="2041" start="2032" id="T11"/>
+        <TRAJECTOR text="I" end="2114" start="2113" id="T12"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T8"/>
+        <TRAJECTOR text="I" end="626" start="625" id="T13"/>
+        <TRAJECTOR text="I" end="730" start="729" id="T14"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T15"/>
+        <TRAJECTOR text="the sand track" end="961" start="947" id="T16"/>
+        <TRAJECTOR text="the road" end="1004" start="996" id="T17"/>
+        <TRAJECTOR text="Dourbali" end="1018" start="1010" id="T18"/>
+        <TRAJECTOR text="wood" end="1399" start="1395" id="T19"/>
+        <TRAJECTOR text="were" end="1530" start="1526" id="T20"/>
+        <TRAJECTOR text="we" end="1533" start="1531" id="T21"/>
+        <TRAJECTOR text="I" end="1565" start="1564" id="T22"/>
+        <TRAJECTOR text="we" end="2064" start="2062" id="T23"/>
+        <TRAJECTOR text="a night camp" end="2313" start="2301" id="T24"/>
+        <TRAJECTOR text="I" end="2340" start="2339" id="T25"/>
+        <TRAJECTOR text="anesthesia technicians" end="2663" start="2641" id="T26"/>
+        <LANDMARK text="Massenya" end="416" start="408" id="L1"/>
+        <LANDMARK text="N’Djamena" end="455" start="446" id="L2"/>
+        <LANDMARK text="Massenya" end="498" start="490" id="L3"/>
+        <LANDMARK text="the CP" end="586" start="580" id="L5"/>
+        <LANDMARK text="Dourbali" end="1829" start="1821" id="L10"/>
+        <LANDMARK text="Massenya" end="1897" start="1889" id="L11"/>
+        <LANDMARK text="the river" end="2031" start="2022" id="L12"/>
+        <LANDMARK text="the target" end="2159" start="2149" id="L13"/>
+        <LANDMARK text="N’Djamena" end="976" start="967" id="L0"/>
+        <LANDMARK text="Dourbali" end="1018" start="1010" id="L4"/>
+        <LANDMARK text="Massenya" end="1030" start="1022" id="L6"/>
+        <LANDMARK text="Dourbali" end="1525" start="1517" id="L7"/>
+        <LANDMARK text="Massenya" end="2325" start="2317" id="L8"/>
+        <LANDMARK text="Chadian hospitals" end="2693" start="2676" id="L9"/>
+        <SPATIAL_INDICATOR text="of" end="407" start="405" id="S1"/>
+        <SPATIAL_INDICATOR text="from" end="445" start="441" id="S2"/>
+        <SPATIAL_INDICATOR text="of" end="489" start="487" id="S3"/>
+        <SPATIAL_INDICATOR text="of" end="579" start="577" id="S4"/>
+        <SPATIAL_INDICATOR text="of" end="1820" start="1818" id="S9"/>
+        <SPATIAL_INDICATOR text="in" end="1888" start="1886" id="S10"/>
+        <SPATIAL_INDICATOR text="of" end="2021" start="2019" id="S11"/>
+        <SPATIAL_INDICATOR text="of" end="2148" start="2146" id="S12"/>
+        <SPATIAL_INDICATOR text="from" end="966" start="962" id="S0"/>
+        <SPATIAL_INDICATOR text="from" end="1009" start="1005" id="S5"/>
+        <SPATIAL_INDICATOR text="to" end="1021" start="1019" id="S6"/>
+        <SPATIAL_INDICATOR text="in" end="2316" start="2314" id="S7"/>
+        <SPATIAL_INDICATOR text="in" end="2675" start="2673" id="S8"/>
+        <MOTION_INDICATOR text="The trip" end="1097" start="1089" id="M0"/>
+        <MOTION_INDICATOR text="Back" end="20" start="16" id="M1"/>
+        <MOTION_INDICATOR text="stay" end="605" start="601" id="M2"/>
+        <MOTION_INDICATOR text="cross" end="638" start="633" id="M3"/>
+        <MOTION_INDICATOR text="my way" end="684" start="678" id="M4"/>
+        <MOTION_INDICATOR text="make" end="764" start="760" id="M5"/>
+        <MOTION_INDICATOR text="my last year’s visit" end="885" start="865" id="M6"/>
+        <MOTION_INDICATOR text="reach" end="927" start="922" id="M7"/>
+        <MOTION_INDICATOR text="following" end="946" start="937" id="M8"/>
+        <MOTION_INDICATOR text="transportation" end="1301" start="1287" id="M9"/>
+        <MOTION_INDICATOR text="brought" end="1414" start="1407" id="M10"/>
+        <MOTION_INDICATOR text="reach" end="1516" start="1511" id="M11"/>
+        <MOTION_INDICATOR text="stop" end="1545" start="1541" id="M12"/>
+        <MOTION_INDICATOR text="visit" end="1595" start="1590" id="M13"/>
+        <MOTION_INDICATOR text="our mean driving speed" end="1856" start="1834" id="M14"/>
+        <MOTION_INDICATOR text="cross" end="1986" start="1981" id="M15"/>
+        <MOTION_INDICATOR text="drive" end="2077" start="2072" id="M16"/>
+        <MOTION_INDICATOR text="give up" end="2129" start="2122" id="M17"/>
+        <MOTION_INDICATOR text="driving back" end="2181" start="2169" id="M18"/>
+        <MOTION_INDICATOR text="be back" end="2354" start="2347" id="M19"/>
+        <PATH text="to Dourbali" end="1109" start="1098" id="P0"/>
+        <PATH text="in N’Djamena" end="33" start="21" id="P1"/>
+        <PATH text="on that road" end="618" start="606" id="P2"/>
+        <PATH text="the 11th parallel" end="656" start="639" id="P3"/>
+        <PATH text="to the point" end="697" start="685" id="P4"/>
+        <PATH text="the round trip" end="779" start="765" id="P5"/>
+        <PATH text="at 12N 16E" end="896" start="886" id="P6"/>
+        <PATH text="Dourbali" end="936" start="928" id="P7"/>
+        <PATH text="the sand track from N’Djamena" end="976" start="947" id="P8"/>
+        <PATH text="to N’Djamena" end="1353" start="1341" id="P9"/>
+        <PATH text="to the capital city" end="1434" start="1415" id="P10"/>
+        <PATH text="Dourbali" end="1525" start="1517" id="P11"/>
+        <PATH text="were" end="1530" start="1526" id="P12"/>
+        <PATH text="a private French-Arabic school" end="1626" start="1596" id="P13"/>
+        <PATH text="the river Bahr Erguig" end="1947" start="1926" id="P14"/>
+        <PATH text="at 47 km of the target" end="2159" start="2137" id="P15"/>
+        <PATH text="to N’Djamena" end="2194" start="2182" id="P16"/>
+        <PATH text="in Chad" end="2362" start="2355" id="P17"/>
+        <DIRECTION text="south" end="404" start="399" id="DIR0"/>
+        <DIRECTION text="south" end="486" start="481" id="DIR1"/>
+        <DIRECTION text="west" end="576" start="572" id="DIR2"/>
+        <DIRECTION text="south" end="1817" start="1812" id="DIR3"/>
+        <DIRECTION text="Immediately south" end="2018" start="2001" id="DIR4"/>
+        <DISTANCE text="approximately 210 km" end="440" start="420" id="DIS0"/>
+        <DISTANCE text="less than 8 km" end="551" start="537" id="DIS1"/>
+        <DISTANCE text="47 km" end="2145" start="2140" id="DIS3"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR0" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T1" id="SR2"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR1" motion_id="" spatial_indicator_id="S3" landmark_id="L3" trajector_id="T2" id="SR3"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="West" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="DIR2" motion_id="" spatial_indicator_id="S4" landmark_id="L5" trajector_id="T2" id="SR4"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR8"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR3" motion_id="" spatial_indicator_id="S9" landmark_id="L10" trajector_id="T9" id="SR11"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S10" landmark_id="L11" trajector_id="T10" id="SR12"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR4" motion_id="" spatial_indicator_id="S11" landmark_id="L12" trajector_id="T11" id="SR13"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS3" path_id="" direction_id="" motion_id="" spatial_indicator_id="S12" landmark_id="L13" trajector_id="T15" id="SR14"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T8" id="SR15"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR16"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T13" id="SR17"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T13" id="SR18"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T14" id="SR19"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR20"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P7" direction_id="" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR21"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P8" direction_id="" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR22"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T16" id="SR23"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L4" trajector_id="T17" id="SR24"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L6" trajector_id="T17" id="SR25"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L6" trajector_id="T18" id="SR26"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P9" direction_id="" motion_id="M9" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR27"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P10" direction_id="" motion_id="M10" spatial_indicator_id="" landmark_id="" trajector_id="T19" id="SR28"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P11" direction_id="" motion_id="M11" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR29"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L7" trajector_id="T20" id="SR30"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P12" direction_id="" motion_id="M12" spatial_indicator_id="" landmark_id="" trajector_id="T21" id="SR31"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P13" direction_id="" motion_id="M13" spatial_indicator_id="" landmark_id="" trajector_id="T22" id="SR32"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M14" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR33"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P14" direction_id="" motion_id="M15" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR34"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M16" spatial_indicator_id="" landmark_id="" trajector_id="T23" id="SR35"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P15" direction_id="" motion_id="M17" spatial_indicator_id="" landmark_id="" trajector_id="T12" id="SR36"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P16" direction_id="" motion_id="M18" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR37"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S7" landmark_id="L8" trajector_id="T24" id="SR38"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P17" direction_id="" motion_id="M19" spatial_indicator_id="" landmark_id="" trajector_id="T25" id="SR39"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L9" trajector_id="T26" id="SR40"/>
+    </TAGS>
+</SpRL>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=17116</URL>
+    <CP>56°N 8°E</CP>
+    <TEXT>
+07-May-2002 -- Sailing South along the West coast of Denmark today we visited 56°N/8°E.
+
+The confluence is situated 7.4 km West of Hvide Sande (&quot;White Sand&quot;).
+
+Hvide Sande is a small port on a narrow tongue of land, called Holmsland Klit, and located on the inlet to the Ringkøbing Fjord.
+
+Along the West coast of Jylland there are many sand dunes, Jylland is visited by a lot of tourists who like extensive walking tours.
+
+On the radar the inlet to the Fjord is clearly visible. 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="we" end="70" start="68" id="T0"/>
+        <TRAJECTOR text="the West coast" end="50" start="36" id="T1"/>
+        <TRAJECTOR text="The confluence" end="104" start="90" id="T2"/>
+        <TRAJECTOR text="a small port" end="188" start="176" id="T3"/>
+        <TRAJECTOR text="the inlet" end="264" start="255" id="T4"/>
+        <TRAJECTOR text="many sand dunes" end="348" start="333" id="T5"/>
+        <TRAJECTOR text="a lot of tourists" end="389" start="372" id="T6"/>
+        <TRAJECTOR text="the inlet" end="447" start="438" id="T7"/>
+        <LANDMARK text="Denmark" end="61" start="54" id="L0"/>
+        <LANDMARK text="Hvide Sande (&quot;White Sand&quot;)" end="158" start="132" id="L1"/>
+        <LANDMARK text="a narrow tongue of land, called Holmsland Klit" end="238" start="192" id="L2"/>
+        <LANDMARK text="the inlet to the Ringkøbing Fjord" end="288" start="255" id="L3"/>
+        <LANDMARK text="the Ringkøbing Fjord" end="288" start="268" id="L4"/>
+        <LANDMARK text="the West coast of Jylland" end="322" start="297" id="L5"/>
+        <LANDMARK text="the Fjord" end="460" start="451" id="L6"/>
+        <SPATIAL_INDICATOR text="of" end="53" start="51" id="S0"/>
+        <SPATIAL_INDICATOR text="situated" end="116" start="108" id="S1"/>
+        <SPATIAL_INDICATOR text="on" end="191" start="189" id="S2"/>
+        <SPATIAL_INDICATOR text="located on" end="254" start="244" id="S3"/>
+        <SPATIAL_INDICATOR text="to" end="267" start="265" id="S4"/>
+        <SPATIAL_INDICATOR text="Along" end="296" start="291" id="S5"/>
+        <SPATIAL_INDICATOR text="to" end="450" start="448" id="S6"/>
+        <MOTION_INDICATOR text="Sailing" end="23" start="16" id="M0"/>
+        <MOTION_INDICATOR text="visited" end="78" start="71" id="M1"/>
+        <MOTION_INDICATOR text="visited" end="368" start="361" id="M2"/>
+        <PATH text="along the West coast of Denmark" end="61" start="30" id="P0"/>
+        <PATH text="56°N/8°E" end="87" start="79" id="P1"/>
+        <PATH text="Jylland" end="357" start="350" id="P2"/>
+        <DIRECTION text="South" end="29" start="24" id="DIR0"/>
+        <DIRECTION text="West" end="44" start="40" id="DIR1"/>
+        <DIRECTION text="West" end="128" start="124" id="DIR2"/>
+        <DISTANCE text="7.4 km" end="123" start="117" id="DIS0"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="DIR0" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="West" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR1" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR2"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="West" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="DIR2" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T2" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T3" id="SR4"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L3" trajector_id="T3" id="SR5"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L4" trajector_id="T4" id="SR6"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L5" trajector_id="T5" id="SR7"/>
+        <RELATION FoR="intrinsic" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T6" id="SR8"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L6" trajector_id="T7" id="SR9"/>
+    </TAGS>
+</SpRL>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=9793</URL>
+    <CP>44°N 28°E</CP>
+    <TEXT>
+16-Sep-2001 -- The confluence is located near the village of Tufani, 230 meters west of the road. We used an old map of Romania and decided that the best way to approach the site was from Petrosani. Unfortunately we were still 4.5 km away from the point and the GPS showed us that we had to leave the main road and try to go by car on something that looked like a dirt road. This turned out to be full of rocks and dead ends, which made us wish we had a 4x4 vehicle. After we had turned around and tried another approach and another, for several times, we finally came to the road which led to Tufani. So we had crossed the field between the two roads, the one we had taken and the right one to take.
+
+If you wish to visit the confluence, go through Sipotele and continue south to Tufani. The site is on a little hill on the side of the road. Photo 1 is looking west from the site, photo 2 looking south, photo 3 looking west and photo 4 looking north. Photo 5 is the GPS and the last 2 pictures are with the members of the expedition. 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="The confluence" end="30" start="16" id="T0"/>
+        <TRAJECTOR text="We" end="101" start="99" id="T2"/>
+        <TRAJECTOR text="we" end="216" start="214" id="T3"/>
+        <TRAJECTOR text="we" end="284" start="282" id="T4"/>
+        <TRAJECTOR text="we" end="476" start="474" id="T5"/>
+        <TRAJECTOR text="we" end="556" start="554" id="T6"/>
+        <TRAJECTOR text="we" end="608" start="606" id="T7"/>
+        <TRAJECTOR text="the field" end="630" start="621" id="T8"/>
+        <TRAJECTOR text="The site" end="798" start="790" id="T9"/>
+        <TRAJECTOR text="a little hill" end="818" start="805" id="T10"/>
+        <TRAJECTOR text="This" end="380" start="376" id="T1"/>
+        <TRAJECTOR text="which" end="587" start="582" id="T12"/>
+        <TRAJECTOR text="you" end="709" start="706" id="T13"/>
+        <LANDMARK text="the village of Tufani" end="68" start="47" id="L0"/>
+        <LANDMARK text="the road" end="97" start="89" id="L1"/>
+        <LANDMARK text="the point" end="254" start="245" id="L3"/>
+        <LANDMARK text="the two roads" end="652" start="639" id="L4"/>
+        <LANDMARK text="a little hill" end="818" start="805" id="L5"/>
+        <LANDMARK text="the road" end="842" start="834" id="L7"/>
+        <LANDMARK text="rocks and dead ends" end="425" start="406" id="L2"/>
+        <LANDMARK text="the road" end="581" start="573" id="L8"/>
+        <LANDMARK text="Tufani" end="601" start="595" id="L9"/>
+        <SPATIAL_INDICATOR text="of" end="88" start="86" id="S0"/>
+        <SPATIAL_INDICATOR text="away from" end="244" start="235" id="S2"/>
+        <SPATIAL_INDICATOR text="between" end="638" start="631" id="S3"/>
+        <SPATIAL_INDICATOR text="on" end="804" start="802" id="S4"/>
+        <SPATIAL_INDICATOR text="on the side of" end="833" start="819" id="S5"/>
+        <SPATIAL_INDICATOR text="full of" end="405" start="398" id="S1"/>
+        <SPATIAL_INDICATOR text="led to" end="594" start="588" id="S7"/>
+        <MOTION_INDICATOR text="approach" end="170" start="162" id="M0"/>
+        <MOTION_INDICATOR text="leave" end="297" start="292" id="M1"/>
+        <MOTION_INDICATOR text="go" end="325" start="323" id="M2"/>
+        <MOTION_INDICATOR text="turned around" end="494" start="481" id="M3"/>
+        <MOTION_INDICATOR text="came" end="569" start="565" id="M4"/>
+        <MOTION_INDICATOR text="crossed" end="620" start="613" id="M5"/>
+        <MOTION_INDICATOR text="visit" end="723" start="718" id="M6"/>
+        <MOTION_INDICATOR text="go" end="742" start="740" id="M7"/>
+        <MOTION_INDICATOR text="continue" end="772" start="764" id="M8"/>
+        <PATH text="from Petrosani" end="198" start="184" id="P0"/>
+        <PATH text="the main road" end="311" start="298" id="P1"/>
+        <PATH text="on something that looked like a dirt road" end="374" start="333" id="P2"/>
+        <PATH text="to the road" end="581" start="570" id="P3"/>
+        <PATH text="the field between the two roads" end="652" start="621" id="P4"/>
+        <PATH text="the confluence" end="738" start="724" id="P5"/>
+        <PATH text="through Sipotele" end="759" start="743" id="P6"/>
+        <PATH text="to Tufani" end="788" start="779" id="P7"/>
+        <DIRECTION text="west" end="85" start="81" id="DIR0"/>
+        <DIRECTION text="south" end="778" start="773" id="DIR1"/>
+        <DISTANCE text="near" end="46" start="42" id="DIS0"/>
+        <DISTANCE text="230 meters" end="80" start="70" id="DIS1"/>
+        <DISTANCE text="4.5 km" end="234" start="228" id="DIS2"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS0" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L0" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="West" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="DIR0" motion_id="" spatial_indicator_id="S0" landmark_id="L1" trajector_id="T0" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T2" id="SR3"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS2" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L3" trajector_id="T3" id="SR4"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR5"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR6"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR7"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T6" id="SR8"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR9"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L4" trajector_id="T8" id="SR10"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L5" trajector_id="T9" id="SR11"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="NTPP-1" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L2" trajector_id="T1" id="SR2"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L8" trajector_id="T12" id="SR14"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S7" landmark_id="L9" trajector_id="T12" id="SR15"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T13" id="SR16"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T13" id="SR17"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P7" direction_id="DIR1" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T13" id="SR18"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L7" trajector_id="T10" id="SR19"/>
+    </TAGS>
+</SpRL>

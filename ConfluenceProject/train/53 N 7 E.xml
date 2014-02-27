@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=1947</URL>
+    <CP>53°N 7°E</CP>
+    <TEXT>
+19-Apr-2009 -- Having spent the night in Groningen, N53° E007° was our first (and last) confluence point for the last day of our short trip./
+
+We parked our car at the Knipjeweg, about 100 metres from the point and took a short walk over the freshly ploughed field. Locating the point was easy due to the great GPS reception.
+
+We took all the photos, went back to the car and headed towards the German border./
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="our car" end="161" start="154" id="T0"/>
+        <TRAJECTOR text="We" end="146" start="144" id="T1"/>
+        <TRAJECTOR text="We" end="330" start="328" id="T2"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T3"/>
+        <LANDMARK text="the Knipjeweg" end="178" start="165" id="L0"/>
+        <LANDMARK text="the point" end="211" start="202" id="L1"/>
+        <LANDMARK text="Groningen" end="51" start="42" id="L2"/>
+        <SPATIAL_INDICATOR text="at" end="164" start="162" id="S0"/>
+        <SPATIAL_INDICATOR text="from" end="201" start="197" id="S1"/>
+        <SPATIAL_INDICATOR text="in" end="41" start="39" id="S2"/>
+        <MOTION_INDICATOR text="a short walk" end="233" start="221" id="M0"/>
+        <MOTION_INDICATOR text="went back" end="361" start="352" id="M1"/>
+        <MOTION_INDICATOR text="headed" end="383" start="377" id="M2"/>
+        <MOTION_INDICATOR text="our short trip" end="140" start="126" id="M3"/>
+        <PATH text="over the freshly ploughed field" end="265" start="234" id="P0"/>
+        <PATH text="to the car" end="372" start="362" id="P1"/>
+        <PATH text="towards the German border" end="409" start="384" id="P2"/>
+        <PATH text="our first (and last) confluence point" end="105" start="68" id="P3"/>
+        <DISTANCE text="about 100 metres" end="196" start="180" id="DIS0"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T0" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T2" id="SR3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T2" id="SR4"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T3" id="SR5"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR6"/>
+    </TAGS>
+</SpRL>

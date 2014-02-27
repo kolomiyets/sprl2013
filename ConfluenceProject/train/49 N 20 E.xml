@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=7773</URL>
+    <CP>49°N 20°E</CP>
+    <TEXT>
+22-Jun-2001 -- Coming from High Tatras and 49N 19E on the day before we went to the Low Tatras Mountains. We turned off at the town of Liptovský Hrádok in direction south (SS72). At Červený Kút we left the main road to the east, to Čierny Váh (~13 km), a small village at the east end of the Čierny Váh (Black Váh) dam.
+
+We entered Low Tatras National Park trough its open gate (pic #2). First we missed the road to the Benkovský River and drove along the Ipoltica River (pic #3). After some kilometers we met a group of state forest workers (pic #4). One of them spoke a little German and he was very friendly besides our prohibited entry into the park. We as close as 2.6 km to the confluence and then we realized that we were wrong.
+
+We returned to the entry gate and from there we turned left toward the Benkovský River (pic #2 – lower part). After some kilometers we had to go right into Benkovský valley. Since the road is at a higher altitude it is difficult to locate it. This road is of gravel type and after some kilometers we stopped at a group of huts (pic #5).
+
+I knew that I would have to climb up about 100 m as per my GPS reading (856 m) and the respective confluence data (932 m). This is a very steep forest with nasty undergrowth like thorns and nettles. At least I realized that the confluence is close to the top of the mountainous ridge, in about 1042 m according to the GPS. Handicapped by nettles, the steep terrain and the high trees I could not get a ZERO reading. Nevertheless an ever-increasing number of flies tortured me and even used the camera’s lens as landing place.
+
+To get downhill to the car I mainly used game tracks. Back to the car my fathers told me that forest officials interrogated them about their intension. The nature of our plans was difficult to explain especially without having a real common language. At the end, I was told they gave up and left them.
+
+We left the National Park without any other official contacts and headed to the south, touring trough the beautiful mountains of the Low Tatras (pic #7). We proceeded to the Pannonian Lowlands, towards 48N 18E.
+
+See more pictures at http://www.fortunecity.de/arbeit/medien/748/Confluence/49N20EE.htm.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="we" end="72" start="70" id="T0"/>
+        <TRAJECTOR text="We" end="109" start="107" id="T1"/>
+        <TRAJECTOR text="we" end="197" start="195" id="T3"/>
+        <TRAJECTOR text="the east end" end="285" start="273" id="T4"/>
+        <TRAJECTOR text="a small village" end="269" start="254" id="T5"/>
+        <TRAJECTOR text="We" end="324" start="322" id="T7"/>
+        <TRAJECTOR text="the road" end="413" start="405" id="T8"/>
+        <TRAJECTOR text="we" end="397" start="395" id="T9"/>
+        <TRAJECTOR text="We" end="658" start="656" id="T10"/>
+        <TRAJECTOR text="We" end="740" start="738" id="T11"/>
+        <TRAJECTOR text="we" end="785" start="783" id="T12"/>
+        <TRAJECTOR text="we" end="872" start="870" id="T13"/>
+        <TRAJECTOR text="the road" end="926" start="918" id="T14"/>
+        <TRAJECTOR text="we" end="1037" start="1035" id="T15"/>
+        <TRAJECTOR text="the confluence" end="1314" start="1300" id="T16"/>
+        <TRAJECTOR text="the top" end="1334" start="1327" id="T17"/>
+        <TRAJECTOR text="I" end="1089" start="1088" id="T18"/>
+        <TRAJECTOR text="I" end="1631" start="1630" id="T19"/>
+        <TRAJECTOR text="We" end="1908" start="1906" id="T20"/>
+        <TRAJECTOR text="the beautiful mountains" end="2031" start="2008" id="T21"/>
+        <TRAJECTOR text="We" end="2062" start="2060" id="T22"/>
+        <TRAJECTOR text="we" end="506" start="504" id="T2"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T6"/>
+        <LANDMARK text="the Čierny Váh (Black Váh) dam" end="319" start="289" id="L1"/>
+        <LANDMARK text="the east end of the Čierny Váh (Black Váh) dam" end="319" start="273" id="L2"/>
+        <LANDMARK text="the Benkovský River" end="436" start="417" id="L4"/>
+        <LANDMARK text="the confluence" end="695" start="681" id="L5"/>
+        <LANDMARK text="the top of the mountainous ridge" end="1359" start="1327" id="L7"/>
+        <LANDMARK text="the mountainous ridge" end="1359" start="1338" id="L8"/>
+        <LANDMARK text="the Low Tatras" end="2049" start="2035" id="L9"/>
+        <LANDMARK text="the town of Liptovský Hrádok" end="152" start="124" id="L0"/>
+        <LANDMARK text="Červený Kút" end="194" start="183" id="L3"/>
+        <LANDMARK text="" end="-1" start="-1" id="L6"/>
+        <SPATIAL_INDICATOR text="of" end="288" start="286" id="S1"/>
+        <SPATIAL_INDICATOR text="at" end="272" start="270" id="S2"/>
+        <SPATIAL_INDICATOR text="to" end="416" start="414" id="S4"/>
+        <SPATIAL_INDICATOR text="to" end="680" start="678" id="S5"/>
+        <SPATIAL_INDICATOR text="at" end="932" start="930" id="S6"/>
+        <SPATIAL_INDICATOR text="to" end="1326" start="1324" id="S7"/>
+        <SPATIAL_INDICATOR text="of" end="1337" start="1335" id="S8"/>
+        <SPATIAL_INDICATOR text="of" end="2034" start="2032" id="S9"/>
+        <SPATIAL_INDICATOR text="at" end="123" start="121" id="S0"/>
+        <SPATIAL_INDICATOR text="At" end="182" start="180" id="S3"/>
+        <SPATIAL_INDICATOR text="in" end="1363" start="1361" id="S10"/>
+        <MOTION_INDICATOR text="Coming" end="22" start="16" id="M0"/>
+        <MOTION_INDICATOR text="went" end="77" start="73" id="M1"/>
+        <MOTION_INDICATOR text="turned off" end="120" start="110" id="M2"/>
+        <MOTION_INDICATOR text="left" end="202" start="198" id="M3"/>
+        <MOTION_INDICATOR text="entered" end="332" start="325" id="M4"/>
+        <MOTION_INDICATOR text="drove" end="446" start="441" id="M5"/>
+        <MOTION_INDICATOR text="returned" end="749" start="741" id="M6"/>
+        <MOTION_INDICATOR text="climb up" end="1112" start="1104" id="M10"/>
+        <MOTION_INDICATOR text="left" end="1913" start="1909" id="M12"/>
+        <MOTION_INDICATOR text="headed" end="1978" start="1972" id="M13"/>
+        <MOTION_INDICATOR text="touring" end="2000" start="1993" id="M14"/>
+        <MOTION_INDICATOR text="proceeded" end="2072" start="2063" id="M15"/>
+        <MOTION_INDICATOR text="turned" end="792" start="786" id="M7"/>
+        <MOTION_INDICATOR text="go" end="882" start="880" id="M8"/>
+        <MOTION_INDICATOR text="get" end="1609" start="1606" id="M9"/>
+        <MOTION_INDICATOR text="After" end="487" start="482" id="M11"/>
+        <MOTION_INDICATOR text="After" end="853" start="848" id="M16"/>
+        <MOTION_INDICATOR text="after" end="1018" start="1013" id="M17"/>
+        <MOTION_INDICATOR text="stopped" end="1045" start="1038" id="M18"/>
+        <MOTION_INDICATOR text="Back" end="1661" start="1657" id="M19"/>
+        <PATH text="from High Tatras and 49N 19E" end="51" start="23" id="P0"/>
+        <PATH text="to the Low Tatras Mountains" end="105" start="78" id="P1"/>
+        <PATH text="the main road to the east, to Čierny Váh" end="243" start="203" id="P3"/>
+        <PATH text="Low Tatras National Park trough its open gate" end="378" start="333" id="P5"/>
+        <PATH text="along the Ipoltica River" end="471" start="447" id="P6"/>
+        <PATH text="to the entry gate" end="767" start="750" id="P7"/>
+        <PATH text="toward the Benkovský River" end="824" start="798" id="P8"/>
+        <PATH text="into Benkovský valley" end="910" start="889" id="P9"/>
+        <PATH text="to the car" end="1629" start="1619" id="P11"/>
+        <PATH text="the National Park" end="1931" start="1914" id="P12"/>
+        <PATH text="trough the beautiful mountains of the Low Tatras" end="2049" start="2001" id="P13"/>
+        <PATH text="to the Pannonian Lowlands, towards 48N 18E" end="2115" start="2073" id="P14"/>
+        <PATH text="in direction south (SS72)" end="178" start="153" id="P15"/>
+        <PATH text="from there" end="782" start="772" id="P16"/>
+        <PATH text="at a group of huts" end="1064" start="1046" id="P17"/>
+        <PATH text="to the car" end="1672" start="1662" id="P18"/>
+        <PATH text="to the south" end="1991" start="1979" id="P19"/>
+        <DIRECTION text="south" end="171" start="166" id="DIR0"/>
+        <DIRECTION text="east" end="228" start="224" id="DIR1"/>
+        <DIRECTION text="the south" end="1991" start="1982" id="DIR2"/>
+        <DIRECTION text="downhill" end="1618" start="1610" id="DIR3"/>
+        <DIRECTION text="east" end="281" start="277" id="DIR4"/>
+        <DIRECTION text="left" end="797" start="793" id="DIR5"/>
+        <DISTANCE text="2.6 km" end="677" start="671" id="DIS1"/>
+        <DISTANCE text="some kilometers" end="869" start="854" id="DIS2"/>
+        <DISTANCE text="close" end="1323" start="1318" id="DIS3"/>
+        <DISTANCE text="about 100 m" end="1124" start="1113" id="DIS4"/>
+        <DISTANCE text="some kilometers" end="503" start="488" id="DIS0"/>
+        <DISTANCE text="a higher altitude" end="950" start="933" id="DIS5"/>
+        <DISTANCE text="some kilometers" end="1034" start="1019" id="DIS6"/>
+        <DISTANCE text="about 1042 m" end="1376" start="1364" id="DIS7"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR1"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="East" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR4" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T4" id="SR6"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T5" id="SR7"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR9"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L4" trajector_id="T8" id="SR10"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T9" id="SR11"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L5" trajector_id="T10" id="SR12"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P7" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T11" id="SR13"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS3" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S7" landmark_id="L7" trajector_id="T16" id="SR18"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L8" trajector_id="T17" id="SR19"/>
+        <RELATION FoR="relative" relative_value="ABOVE" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS4" path_id="" direction_id="" motion_id="M10" spatial_indicator_id="" landmark_id="" trajector_id="T18" id="SR20"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P12" direction_id="" motion_id="M12" spatial_indicator_id="" landmark_id="" trajector_id="T20" id="SR22"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P19" direction_id="DIR2" motion_id="M13" spatial_indicator_id="" landmark_id="" trajector_id="T20" id="SR23"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P13" direction_id="" motion_id="M14" spatial_indicator_id="" landmark_id="" trajector_id="T20" id="SR24"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S9" landmark_id="L9" trajector_id="T21" id="SR25"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P14" direction_id="" motion_id="M15" spatial_indicator_id="" landmark_id="" trajector_id="T22" id="SR26"/>
+        <RELATION FoR="relative" relative_value="LEFT" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P16, P8" direction_id="DIR5" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T12" id="SR4"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P9" direction_id="" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T13" id="SR27"/>
+        <RELATION FoR="relative" relative_value="BELOW" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P11" direction_id="DIR3" motion_id="M9" spatial_indicator_id="" landmark_id="" trajector_id="T19" id="SR29"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P15" direction_id="DIR0" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T1" id="SR14"/>
+        <RELATION FoR="" relative_value="" absolute_value="East" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="DIR1" motion_id="" spatial_indicator_id="S3" landmark_id="L3" trajector_id="T3" id="SR15"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="M11" spatial_indicator_id="" landmark_id="" trajector_id="T2" id="SR17"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS2" path_id="" direction_id="" motion_id="M16" spatial_indicator_id="" landmark_id="" trajector_id="T13" id="SR21"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS5" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L6" trajector_id="T14" id="SR30"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS6" path_id="" direction_id="" motion_id="M17" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR31"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P17" direction_id="" motion_id="M18" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR32"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS7" path_id="" direction_id="" motion_id="" spatial_indicator_id="S10" landmark_id="L7" trajector_id="T16" id="SR33"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P18" direction_id="" motion_id="M19" spatial_indicator_id="" landmark_id="" trajector_id="T6" id="SR34"/>
+    </TAGS>
+</SpRL>

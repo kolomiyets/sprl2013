@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=7385</URL>
+    <CP>47°N 20°E</CP>
+    <TEXT>
+22-Sep-2001 -- The confluence of 47°N and 20°E is in a pasture. In these area a lot of people live from raising horned cattle. This pasture was completely empty when I arrived there. But in the area I saw several cattle grazing. Close to the confluence of 47°N and 20°E can be found a high voltage transmission line. You can hear interesting sounds from that direction, which is the sound of electrical discharge.
+
+This place is pretty far from the main road, but on landroad we could get quite close (160 meters) by car. From there we had to go through a ditch to arrive at the confluence. 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="The confluence of 47°N and 20°E" end="47" start="16" id="T0"/>
+        <TRAJECTOR text="I" end="168" start="167" id="T1"/>
+        <TRAJECTOR text="the confluence of 47°N and 20°E" end="270" start="239" id="T2"/>
+        <TRAJECTOR text="This place" end="426" start="416" id="T3"/>
+        <TRAJECTOR text="we" end="479" start="477" id="T4"/>
+        <TRAJECTOR text="we" end="536" start="534" id="T5"/>
+        <TRAJECTOR text="several cattle" end="220" start="206" id="T6"/>
+        <TRAJECTOR text="a lot of people" end="94" start="79" id="T7"/>
+        <LANDMARK text="a pasture" end="63" start="54" id="L0"/>
+        <LANDMARK text="a high voltage transmission line" end="316" start="284" id="L1"/>
+        <LANDMARK text="the main road" end="459" start="446" id="L2"/>
+        <LANDMARK text="the area" end="199" start="191" id="L3"/>
+        <LANDMARK text="these area" end="78" start="68" id="L4"/>
+        <LANDMARK text="landroad" end="476" start="468" id="L5"/>
+        <LANDMARK text="" end="-1" start="-1" id="L6"/>
+        <SPATIAL_INDICATOR text="in" end="53" start="51" id="S0"/>
+        <SPATIAL_INDICATOR text="to" end="238" start="236" id="S1"/>
+        <SPATIAL_INDICATOR text="from" end="445" start="441" id="S2"/>
+        <SPATIAL_INDICATOR text="in" end="190" start="188" id="S3"/>
+        <SPATIAL_INDICATOR text="In" end="67" start="65" id="S4"/>
+        <SPATIAL_INDICATOR text="on" end="467" start="465" id="S5"/>
+        <MOTION_INDICATOR text="arrived" end="176" start="169" id="M0"/>
+        <MOTION_INDICATOR text="get" end="489" start="486" id="M1"/>
+        <MOTION_INDICATOR text="go" end="546" start="544" id="M2"/>
+        <MOTION_INDICATOR text="arrive" end="572" start="566" id="M3"/>
+        <PATH text="there" end="182" start="177" id="P0"/>
+        <PATH text="through a ditch" end="562" start="547" id="P2"/>
+        <PATH text="From there" end="533" start="523" id="P3"/>
+        <PATH text="quite close" end="501" start="490" id="P1"/>
+        <PATH text="at the confluence" end="590" start="573" id="P4"/>
+        <DISTANCE text="Close" end="235" start="230" id="DIS0"/>
+        <DISTANCE text="far" end="440" start="437" id="DIS1"/>
+        <DISTANCE text="160 meters" end="513" start="503" id="DIS2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS0" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS1" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T3" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L3" trajector_id="T6" id="SR7"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L4" trajector_id="T7" id="SR6"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L5" trajector_id="T4" id="SR8"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS2" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L6" trajector_id="T3" id="SR9"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3, P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR10"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR11"/>
+    </TAGS>
+</SpRL>

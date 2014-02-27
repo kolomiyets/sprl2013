@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=25028</URL>
+    <CP>52°N 3°E</CP>
+    <TEXT>
+02-Jun-2011 -- Every year the Royal Maas Yacht Club from Rotterdam organizes a sailing cruise to the Royal Harwich Yacht Club in England. The journey takes about 20 hours to get there. Once there, everyone makes a 20min hike along the shore of the river Orwell to the Butt and Oyster Pub to have lunch and a few drinks. In the evening the yacht club organizes a dinner for the whole party and the next morning, everyone heads back to Holland. This trip is a very well-known trip in Holland and most sailers have once sailed to &quot;Pin Mill&quot; or eventually will do so.
+
+When we decided to join this year's cruise I already had a feeling that it should be possible to follow the line with a latitude of 52 degree and visit the water confluence points between Holland and England. After all we had already visited 52N 4E previous year and it was located right in front of the entrance to the Rotterdam harbour (our point of departure) and Harwich is in western direction. A closer look in the map revealed that the 52 degree line was even the almost perfect course to get to Harwich. We only had to hope to get fair winds to be able to follow that course.
+
+The morning of depart, we had perfect conditions: it was warm, sunny and just the perfect wind direction. Our sailing yacht was a 36&quot; Halberg Rassy, a boat, strong enough to circumvent the world. Once we had left the Rotterdam traffic area we hoisted our spinnaker and enjoyed the journey. After some minor course corrections we passed the confluence point with a speed of approximately 6.5 knots and all zeros on the GPS!
+
+The confluence point is located very close to the major shipping lanes from the English channel to the open North Sea which are the busiest shipping lanes in the world. Although we were about 80 km away from land we have never been alone out there. There were always large ships (mostly cargo) in sight.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="we" end="1354" start="1352" id="T0"/>
+        <TRAJECTOR text="we" end="1479" start="1477" id="T1"/>
+        <TRAJECTOR text="The confluence point" end="1595" start="1575" id="T2"/>
+        <TRAJECTOR text="we" end="1755" start="1753" id="T4"/>
+        <TRAJECTOR text="the Royal Harwich Yacht Club" end="126" start="98" id="T3"/>
+        <TRAJECTOR text="everyone" end="206" start="198" id="T6"/>
+        <TRAJECTOR text="the shore" end="241" start="232" id="T7"/>
+        <TRAJECTOR text="everyone" end="420" start="412" id="T8"/>
+        <TRAJECTOR text="most sailers" end="507" start="495" id="T9"/>
+        <TRAJECTOR text="we" end="573" start="571" id="T11"/>
+        <TRAJECTOR text="the water confluence points" end="745" start="718" id="T12"/>
+        <TRAJECTOR text="Holland" end="761" start="754" id="T13"/>
+        <TRAJECTOR text="we" end="787" start="785" id="T14"/>
+        <TRAJECTOR text="it" end="835" start="833" id="T15"/>
+        <TRAJECTOR text="the entrance to the Rotterdam harbour" end="903" start="866" id="T16"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T17"/>
+        <TRAJECTOR text="We" end="1080" start="1078" id="T18"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T5"/>
+        <TRAJECTOR text="a very well-known trip" end="479" start="457" id="T10"/>
+        <TRAJECTOR text="Harwich" end="940" start="933" id="T19"/>
+        <TRAJECTOR text="the busiest shipping lanes" end="1729" start="1703" id="T20"/>
+        <TRAJECTOR text="the major shipping lanes" end="1645" start="1621" id="T21"/>
+        <LANDMARK text="the major shipping lanes" end="1645" start="1621" id="L0"/>
+        <LANDMARK text="land" end="1787" start="1783" id="L2"/>
+        <LANDMARK text="England" end="137" start="130" id="L1"/>
+        <LANDMARK text="the river Orwell" end="261" start="245" id="L3"/>
+        <LANDMARK text="Holland" end="490" start="483" id="L4"/>
+        <LANDMARK text="Holland" end="761" start="754" id="L5"/>
+        <LANDMARK text="England" end="773" start="766" id="L6"/>
+        <LANDMARK text="the entrance to the Rotterdam harbour" end="903" start="866" id="L7"/>
+        <LANDMARK text="" end="-1" start="-1" id="L8"/>
+        <LANDMARK text="the world" end="1742" start="1733" id="L9"/>
+        <LANDMARK text="the English channel" end="1670" start="1651" id="L10"/>
+        <LANDMARK text="the open North Sea" end="1692" start="1674" id="L11"/>
+        <SPATIAL_INDICATOR text="away from" end="1782" start="1773" id="S2"/>
+        <SPATIAL_INDICATOR text="in" end="129" start="127" id="S3"/>
+        <SPATIAL_INDICATOR text="of" end="244" start="242" id="S4"/>
+        <SPATIAL_INDICATOR text="in" end="482" start="480" id="S5"/>
+        <SPATIAL_INDICATOR text="between" end="753" start="746" id="S6"/>
+        <SPATIAL_INDICATOR text="and" end="765" start="762" id="S7"/>
+        <SPATIAL_INDICATOR text="located right in front of" end="865" start="840" id="S8"/>
+        <SPATIAL_INDICATOR text="located" end="1606" start="1599" id="S10"/>
+        <SPATIAL_INDICATOR text="in" end="1732" start="1730" id="S0"/>
+        <SPATIAL_INDICATOR text="from" end="1650" start="1646" id="S1"/>
+        <SPATIAL_INDICATOR text="to" end="1673" start="1671" id="S9"/>
+        <MOTION_INDICATOR text="passed" end="1486" start="1480" id="M1"/>
+        <MOTION_INDICATOR text="hike" end="225" start="221" id="M2"/>
+        <MOTION_INDICATOR text="heads back" end="431" start="421" id="M3"/>
+        <MOTION_INDICATOR text="sailed" end="524" start="518" id="M4"/>
+        <MOTION_INDICATOR text="follow" end="669" start="663" id="M5"/>
+        <MOTION_INDICATOR text="visit" end="717" start="712" id="M6"/>
+        <MOTION_INDICATOR text="visited" end="807" start="800" id="M7"/>
+        <MOTION_INDICATOR text="get" end="1065" start="1062" id="M8"/>
+        <MOTION_INDICATOR text="follow" end="1136" start="1130" id="M9"/>
+        <MOTION_INDICATOR text="left" end="1363" start="1359" id="M10"/>
+        <MOTION_INDICATOR text="a sailing cruise" end="94" start="78" id="M0"/>
+        <MOTION_INDICATOR text="get" end="178" start="175" id="M11"/>
+        <MOTION_INDICATOR text="circumvent" end="1335" start="1325" id="M12"/>
+        <PATH text="the Rotterdam traffic area" end="1390" start="1364" id="P0"/>
+        <PATH text="the confluence point" end="1507" start="1487" id="P1"/>
+        <PATH text="along the shore of the river Orwell to the Butt and Oyster Pub" end="288" start="226" id="P3"/>
+        <PATH text="to Holland" end="442" start="432" id="P4"/>
+        <PATH text="to &quot;Pin Mill&quot;" end="538" start="525" id="P5"/>
+        <PATH text="the line" end="678" start="670" id="P7"/>
+        <PATH text="the water confluence points between Holland and England" end="773" start="718" id="P8"/>
+        <PATH text="52N 4E" end="814" start="808" id="P9"/>
+        <PATH text="to Harwich" end="1076" start="1066" id="P10"/>
+        <PATH text="that course" end="1148" start="1137" id="P11"/>
+        <PATH text="to the Royal Harwich Yacht Club in England" end="137" start="95" id="P2"/>
+        <PATH text="there" end="184" start="179" id="P6"/>
+        <PATH text="the world" end="1345" start="1336" id="P12"/>
+        <DIRECTION text="western" end="954" start="947" id="DIR0"/>
+        <DISTANCE text="about 80 km" end="1772" start="1761" id="DIS1"/>
+        <DISTANCE text="very close to" end="1620" start="1607" id="DIS0"/>
+        <DISTANCE text="a 20min hike" end="225" start="213" id="DIS2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T4" id="SR4"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L1" trajector_id="T3" id="SR3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS2" path_id="P3" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T6" id="SR6"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L3" trajector_id="T7" id="SR7"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T8" id="SR8"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T9" id="SR9"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P7" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR11"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L5" trajector_id="T12" id="SR12"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L6" trajector_id="T12" id="SR13"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S7" landmark_id="L6" trajector_id="T13" id="SR15"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P8" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T11" id="SR16"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P9" direction_id="" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T14" id="SR17"/>
+        <RELATION FoR="relative" relative_value="FRONT" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L7" trajector_id="T15" id="SR18"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P10" direction_id="" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T17" id="SR21"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P11" direction_id="" motion_id="M9" spatial_indicator_id="" landmark_id="" trajector_id="T18" id="SR22"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M10" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR23"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="S10" landmark_id="L0" trajector_id="T2" id="SR24"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="" motion_id="M11" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L4" trajector_id="T10" id="SR5"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="West" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR0" motion_id="" spatial_indicator_id="" landmark_id="L8" trajector_id="T19" id="SR14"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P12" direction_id="" motion_id="M12" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR25"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L9" trajector_id="T20" id="SR26"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L10" trajector_id="T21" id="SR27"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S9" landmark_id="L11" trajector_id="T21" id="SR28"/>
+    </TAGS>
+</SpRL>

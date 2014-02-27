@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=7386</URL>
+    <CP>48°N 22°E</CP>
+    <TEXT>
+21-Oct-2001 -- Approx. 3,73 km (2,32 miles) NE of Levelek, Szabolcs-Szatmar-Bereg
+
+Together with my wife, we start to find Hungary's easterly and the last undiscovered confluence at five o'clock in the morning. It is a misty, foggy Sunday rise of day, the sky is hopelessly cloudy. We start from Budapest, the distance is about 290 km (180,2 miles). After living Nyiregyhaza on the road 41, in the direction of Baktaloranthaza, 2 km (1,24 miles) over Levelek village the eTrex GPS's device, indicate that we cross the E 22°00'00.0&quot; longitude. There is an apple grove, where we chose a path to the north direction. From the road 41, we are 3,15 km-re (1,96 miles) about the target. Mooving on a dirt road, leave the apple grove, than we edge the confluence abot 1,31 km-re (0,81 miles). Now we must go by foot. The path continues in an acacia forest. Go ahead in north direction, parallel with the margin of the forest, about 15 meter (49,2 feet) we find the 48°N22°E confluence, which is 103 meter (338 feet) high.
+
+Here, in this place we hide a geocache too. Good hunting for everybody. Backwards in the forest, pick some mushrooms.
+
+At first I send the pictures, than we'll eat the mushrooms. 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="We" end="285" start="283" id="T0"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T1"/>
+        <TRAJECTOR text="Nyiregyhaza" end="375" start="364" id="T2"/>
+        <TRAJECTOR text="we" end="508" start="506" id="T3"/>
+        <TRAJECTOR text="we" end="635" start="633" id="T4"/>
+        <TRAJECTOR text="we" end="736" start="734" id="T5"/>
+        <TRAJECTOR text="we" end="949" start="947" id="T6"/>
+        <TRAJECTOR text="The path" end="819" start="811" id="T7"/>
+        <TRAJECTOR text="the 48°N22°E confluence" end="978" start="955" id="T8"/>
+        <TRAJECTOR text="we" end="577" start="575" id="T9"/>
+        <TRAJECTOR text="we" end="793" start="791" id="T10"/>
+        <TRAJECTOR text="a geocache" end="1055" start="1045" id="T11"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T12"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T13"/>
+        <TRAJECTOR text="where" end="574" start="569" id="T14"/>
+        <TRAJECTOR text="which" end="985" start="980" id="T15"/>
+        <LANDMARK text="the road 41" end="390" start="379" id="L0"/>
+        <LANDMARK text="the target" end="680" start="670" id="L1"/>
+        <LANDMARK text="an acacia forest" end="849" start="833" id="L2"/>
+        <LANDMARK text="" end="-1" start="-1" id="L3"/>
+        <LANDMARK text="this place" end="1036" start="1026" id="L4"/>
+        <LANDMARK text="Levelek, Szabolcs-Szatmar-Bereg" end="82" start="51" id="L5"/>
+        <LANDMARK text="an apple grove" end="567" start="553" id="L6"/>
+        <LANDMARK text="where" end="574" start="569" id="L7"/>
+        <LANDMARK text="the 48°N22°E confluence" end="978" start="955" id="L8"/>
+        <SPATIAL_INDICATOR text="on" end="378" start="376" id="S0"/>
+        <SPATIAL_INDICATOR text="in" end="832" start="830" id="S1"/>
+        <SPATIAL_INDICATOR text="in" end="1025" start="1023" id="S2"/>
+        <MOTION_INDICATOR text="start" end="291" start="286" id="M0"/>
+        <MOTION_INDICATOR text="living" end="363" start="357" id="M1"/>
+        <MOTION_INDICATOR text="cross" end="514" start="509" id="M2"/>
+        <MOTION_INDICATOR text="Mooving" end="689" start="682" id="M3"/>
+        <MOTION_INDICATOR text="leave" end="711" start="706" id="M4"/>
+        <MOTION_INDICATOR text="edge" end="741" start="737" id="M5"/>
+        <MOTION_INDICATOR text="Go ahead" end="859" start="851" id="M6"/>
+        <MOTION_INDICATOR text="chose" end="583" start="578" id="M7"/>
+        <MOTION_INDICATOR text="go" end="801" start="799" id="M8"/>
+        <MOTION_INDICATOR text="Backwards" end="1098" start="1089" id="M9"/>
+        <PATH text="from Budapest" end="305" start="292" id="P0"/>
+        <PATH text="Nyiregyhaza on the road 41, in the direction of Baktaloranthaza, 2 km (1,24 miles) over Levelek village" end="467" start="364" id="P1"/>
+        <PATH text="the E 22°00'00.0&quot; longitude" end="542" start="515" id="P2"/>
+        <PATH text="on a dirt road" end="704" start="690" id="P3"/>
+        <PATH text="the apple grove" end="727" start="712" id="P4"/>
+        <PATH text="the confluence" end="756" start="742" id="P5"/>
+        <PATH text="parallel with the margin of the forest" end="918" start="880" id="P6"/>
+        <PATH text="a path to the north direction" end="613" start="584" id="P7"/>
+        <PATH text="in the forest" end="1112" start="1099" id="P8"/>
+        <DIRECTION text="north" end="868" start="863" id="DIR0"/>
+        <DIRECTION text="the north" end="603" start="594" id="DIR1"/>
+        <DIRECTION text="NE" end="47" start="45" id="DIR2"/>
+        <DISTANCE text="3,15 km" end="647" start="640" id="DIS0"/>
+        <DISTANCE text="abot 1,31 km" end="769" start="757" id="DIS1"/>
+        <DISTANCE text="103 meter" end="998" start="989" id="DIS3"/>
+        <DISTANCE text="2 km (1,24 miles)" end="446" start="429" id="DIS4"/>
+        <DISTANCE text="Approx. 3,73 km (2,32 miles)" end="44" start="16" id="DIS5"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS4" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR4"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR5"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS1" path_id="P5" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR6"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="North" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="DIR0" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T6" id="SR7"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L1" trajector_id="T4" id="SR8"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L2" trajector_id="T7" id="SR9"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="North" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P7" direction_id="DIR1" motion_id="M7" spatial_indicator_id="" landmark_id="L7" trajector_id="T9" id="SR11"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T10" id="SR12"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L4" trajector_id="T11" id="SR13"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P8" direction_id="" motion_id="M9" spatial_indicator_id="" landmark_id="" trajector_id="T12" id="SR14"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="NE" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS5" path_id="" direction_id="DIR2" motion_id="" spatial_indicator_id="" landmark_id="L5" trajector_id="T13" id="SR15"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L6" trajector_id="T14" id="SR16"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L8" trajector_id="T15" id="SR17"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS3" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L3" trajector_id="T15" id="SR18"/>
+    </TAGS>
+</SpRL>

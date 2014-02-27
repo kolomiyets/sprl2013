@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=18544</URL>
+    <CP>20°N 74°W</CP>
+    <TEXT>
+13-Dec-2007 -- A few days ago I joined again my ship, the &quot;UBC SYDNEY&quot;, whilst she was berthed in Venezuela in order to load 31,000 tons of petroleum coke for Searsport in Maine (USA). For this voyage I choose a track through the Windward Passage, which is about 45 nautical miles (83 km) wide and situated between the northwest end of Hispaniola and the east end of Cuba. Windward Passage is one of the main routes used by ships trading between the east coast of North America and the Caribbean Sea.
+
+The closest and only visible land to this Confluence 20N 74W is the east end of Cuba. Although not very well discernible from this distance, the coast of Cuba in this area is steep-to and backed by a mountain ridge running parallel to and cut in places by small rivers and creeks. It consists of cliffs and sheer rocky walls, interrupted here and there by sandy beaches. The views to WNW and NW give us at least a slight idea of.
+
+Another ship has just overtaken us, the &quot;CSAV Chicago&quot;, bound for New York. She is German flagged and chartered by CSAV, which stands for &quot;Compañia Sudamericana de Vapores&quot; (based in Valparaiso, Chile).
+
+As it is common in the Windward Passage, the sea is getting rough when reaching its northern part, as it is fully exposed to the northeast Trade winds. Whilst my crew can still comfortably work on the ship's port side (left) in leeward, on the starboard side the breakers do already splash on the main deck, and the seaman here walking on the wrong side of the ship is getting wet feet. ;-)
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="she" end="83" start="80" id="T0"/>
+        <TRAJECTOR text="Searsport" end="169" start="160" id="T1"/>
+        <TRAJECTOR text="I" end="203" start="202" id="T2"/>
+        <TRAJECTOR text="which" end="254" start="249" id="T3"/>
+        <TRAJECTOR text="the northwest end of Hispaniola" end="347" start="316" id="T4"/>
+        <TRAJECTOR text="the east coast" end="461" start="447" id="T6"/>
+        <TRAJECTOR text="The closest and only visible land" end="536" start="503" id="T7"/>
+        <TRAJECTOR text="the east end of Cuba" end="587" start="567" id="T8"/>
+        <TRAJECTOR text="the coast" end="653" start="644" id="T9"/>
+        <TRAJECTOR text="the coast of Cuba" end="661" start="644" id="T10"/>
+        <TRAJECTOR text="a mountain ridge" end="717" start="701" id="T11"/>
+        <TRAJECTOR text="small rivers" end="771" start="759" id="T12"/>
+        <TRAJECTOR text="It" end="786" start="784" id="T13"/>
+        <TRAJECTOR text="cliffs" end="805" start="799" id="T14"/>
+        <TRAJECTOR text="Another ship" end="946" start="934" id="T15"/>
+        <TRAJECTOR text="Valparaiso" end="1127" start="1117" id="T16"/>
+        <TRAJECTOR text="the seaman" end="1460" start="1450" id="T17"/>
+        <TRAJECTOR text="the northwest end" end="333" start="316" id="T18"/>
+        <TRAJECTOR text="the east end" end="364" start="352" id="T19"/>
+        <TRAJECTOR text="one of the main routes" end="416" start="394" id="T20"/>
+        <TRAJECTOR text="the east end" end="579" start="567" id="T21"/>
+        <TRAJECTOR text="&quot;Compañia Sudamericana de Vapores&quot;" end="1106" start="1072" id="T22"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T23"/>
+        <TRAJECTOR text="its" end="1221" start="1218" id="T24"/>
+        <TRAJECTOR text="my crew" end="1304" start="1297" id="T26"/>
+        <TRAJECTOR text="the breakers" end="1409" start="1397" id="T27"/>
+        <TRAJECTOR text="splash" end="1427" start="1421" id="T28"/>
+        <TRAJECTOR text="the east coast of North America" end="478" start="447" id="T5"/>
+        <LANDMARK text="Venezuela" end="108" start="99" id="L0"/>
+        <LANDMARK text="Maine (USA)" end="184" start="173" id="L1"/>
+        <LANDMARK text="the northwest end of Hispaniola" end="347" start="316" id="L2"/>
+        <LANDMARK text="the east end of Cuba" end="372" start="352" id="L3"/>
+        <LANDMARK text="North America" end="478" start="465" id="L4"/>
+        <LANDMARK text="the east coast of North America" end="478" start="447" id="L5"/>
+        <LANDMARK text="the Caribbean Sea" end="500" start="483" id="L6"/>
+        <LANDMARK text="this Confluence 20N 74W" end="563" start="540" id="L7"/>
+        <LANDMARK text="Cuba" end="661" start="657" id="L8"/>
+        <LANDMARK text="a mountain ridge" end="717" start="701" id="L9"/>
+        <LANDMARK text="small rivers and creeks" end="782" start="759" id="L10"/>
+        <LANDMARK text="creeks" end="782" start="776" id="L11"/>
+        <LANDMARK text="cliffs and sheer rocky walls" end="827" start="799" id="L12"/>
+        <LANDMARK text="sheer rocky walls" end="827" start="810" id="L13"/>
+        <LANDMARK text="sandy beaches" end="872" start="859" id="L14"/>
+        <LANDMARK text="Chile" end="1134" start="1129" id="L16"/>
+        <LANDMARK text="the Windward Passage" end="247" start="227" id="L15"/>
+        <LANDMARK text="Hispaniola" end="347" start="337" id="L17"/>
+        <LANDMARK text="Cuba" end="372" start="368" id="L18"/>
+        <LANDMARK text="Windward Passage" end="390" start="374" id="L19"/>
+        <LANDMARK text="The closest and only visible land" end="536" start="503" id="L20"/>
+        <LANDMARK text="Cuba" end="587" start="583" id="L21"/>
+        <LANDMARK text="this area" end="674" start="665" id="L22"/>
+        <LANDMARK text="Valparaiso" end="1127" start="1117" id="L23"/>
+        <LANDMARK text="the sea" end="1186" start="1179" id="L24"/>
+        <LANDMARK text="the ship's port side (left)" end="1362" start="1335" id="L25"/>
+        <LANDMARK text="the starboard side" end="1396" start="1378" id="L26"/>
+        <LANDMARK text="the main deck" end="1444" start="1431" id="L27"/>
+        <SPATIAL_INDICATOR text="in" end="98" start="96" id="S1"/>
+        <SPATIAL_INDICATOR text="in" end="172" start="170" id="S2"/>
+        <SPATIAL_INDICATOR text="between" end="315" start="308" id="S4"/>
+        <SPATIAL_INDICATOR text="and" end="351" start="348" id="S5"/>
+        <SPATIAL_INDICATOR text="between" end="446" start="439" id="S6"/>
+        <SPATIAL_INDICATOR text="of" end="464" start="462" id="S7"/>
+        <SPATIAL_INDICATOR text="and" end="482" start="479" id="S8"/>
+        <SPATIAL_INDICATOR text="to" end="539" start="537" id="S9"/>
+        <SPATIAL_INDICATOR text="of" end="656" start="654" id="S10"/>
+        <SPATIAL_INDICATOR text="backed by" end="700" start="691" id="S11"/>
+        <SPATIAL_INDICATOR text="parallel to" end="737" start="726" id="S12"/>
+        <SPATIAL_INDICATOR text="cut in places" end="755" start="742" id="S13"/>
+        <SPATIAL_INDICATOR text="and" end="775" start="772" id="S14"/>
+        <SPATIAL_INDICATOR text="consists of" end="798" start="787" id="S15"/>
+        <SPATIAL_INDICATOR text="and" end="809" start="806" id="S16"/>
+        <SPATIAL_INDICATOR text="interrupted here and there by" end="858" start="829" id="S17"/>
+        <SPATIAL_INDICATOR text="based in" end="1116" start="1108" id="S18"/>
+        <SPATIAL_INDICATOR text="of" end="336" start="334" id="S0"/>
+        <SPATIAL_INDICATOR text="of" end="367" start="365" id="S3"/>
+        <SPATIAL_INDICATOR text="of" end="582" start="580" id="S19"/>
+        <SPATIAL_INDICATOR text="in" end="664" start="662" id="S20"/>
+        <SPATIAL_INDICATOR text="," end="1128" start="1127" id="S21"/>
+        <SPATIAL_INDICATOR text="on" end="1334" start="1332" id="S22"/>
+        <SPATIAL_INDICATOR text="on" end="1377" start="1375" id="S23"/>
+        <SPATIAL_INDICATOR text="on" end="1430" start="1428" id="S24"/>
+        <MOTION_INDICATOR text="a track" end="218" start="211" id="M0"/>
+        <MOTION_INDICATOR text="overtaken" end="965" start="956" id="M1"/>
+        <MOTION_INDICATOR text="walking" end="1473" start="1466" id="M2"/>
+        <MOTION_INDICATOR text="reaching" end="1217" start="1209" id="M3"/>
+        <PATH text="through the Windward Passage" end="247" start="219" id="P0"/>
+        <PATH text="bound for New York" end="1008" start="990" id="P2"/>
+        <PATH text="us" end="968" start="966" id="P3"/>
+        <PATH text="on the wrong side of the ship" end="1503" start="1474" id="P4"/>
+        <PATH text="its northern part" end="1235" start="1218" id="P1"/>
+        <DIRECTION text="east" end="455" start="451" id="DIR0"/>
+        <DIRECTION text="northwest" end="329" start="320" id="DIR1"/>
+        <DIRECTION text="east" end="360" start="356" id="DIR2"/>
+        <DIRECTION text="east" end="575" start="571" id="DIR3"/>
+        <DIRECTION text="northern" end="1230" start="1222" id="DIR4"/>
+        <DISTANCE text="closest" end="514" start="507" id="DIS0"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L0" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L1" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L2" trajector_id="T3" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L3" trajector_id="T3" id="SR4"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L3" trajector_id="T4" id="SR5"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="East" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR0" motion_id="" spatial_indicator_id="S7" landmark_id="L4" trajector_id="T6" id="SR6"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L6" trajector_id="T5" id="SR9"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS0" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S9" landmark_id="L7" trajector_id="T7" id="SR10"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S10" landmark_id="L8" trajector_id="T9" id="SR12"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S11" landmark_id="L9" trajector_id="T10" id="SR13"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S12" landmark_id="L10" trajector_id="T11" id="SR14"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S13" landmark_id="L10" trajector_id="T11" id="SR15"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S14" landmark_id="L11" trajector_id="T12" id="SR16"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S15" landmark_id="L12" trajector_id="T13" id="SR17"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S16" landmark_id="L13" trajector_id="T14" id="SR18"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S17" landmark_id="L14" trajector_id="T13" id="SR19"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2, P3" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR21"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S21" landmark_id="L16" trajector_id="T16" id="SR22"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T17" id="SR23"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L15" trajector_id="T3" id="SR20"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="NW" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR1" motion_id="" spatial_indicator_id="S0" landmark_id="L17" trajector_id="T18" id="SR24"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="East" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR2" motion_id="" spatial_indicator_id="S3" landmark_id="L18" trajector_id="T19" id="SR25"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L19" trajector_id="T20" id="SR26"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L5" trajector_id="T20" id="SR27"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L6" trajector_id="T20" id="SR28"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L20" trajector_id="T8" id="SR29"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="East" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR3" motion_id="" spatial_indicator_id="S19" landmark_id="L21" trajector_id="T21" id="SR30"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S20" landmark_id="L22" trajector_id="T10" id="SR31"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S18" landmark_id="L23" trajector_id="T22" id="SR32"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T23" id="SR33"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L24" trajector_id="T24" id="SR34"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S22" landmark_id="L25" trajector_id="T26" id="SR36"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S23" landmark_id="L26" trajector_id="T27" id="SR37"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S24" landmark_id="L27" trajector_id="T28" id="SR38"/>
+    </TAGS>
+</SpRL>

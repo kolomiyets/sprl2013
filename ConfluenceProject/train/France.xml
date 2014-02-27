@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=1945</URL>
+    <CP>48°N 2°W</CP>
+    <TEXT>
+15-Sep-2003 -- This visit is submitted about 5½ years late (15-Sep-2003 &gt;&gt; May 2009). One of the reasons is I was unhappy with the quality of my photographs. Triggered by a repeated visit I decided to submit this visit “for the record” despite the poor images.
+
+Returning from camping at Quiberon we drove the N24 via Auray and Vannes in the direction of Rennes and left it at exit Plélan-le-Grand for the D38 to Maxent. Along the D38 we found a very old and simple cross. The church in Maxent is peculiar; the inside of the roof looked like an octopus.
+
+In Maxent direction North, rue du Pont Sel = D63 and after 3 km right on D238. The darker section of the map shows a road to the right, straight to the DCP. This road is a narrow dirt road and at the time of our visit loaded with heavy agricultural transports due to harvesting. No way we could enter this road by car. Even an attempt by feet was impossible: it was unsafe because visibility was almost zero due to dust.
+
+So we continued by car, turned right and found another possibility, which required a walk of 700m along the edges of the fields approaching the DCP from the East. Arriving at the field being harvested I saw the last lorry leaving the field.
+
+The DCP is in the lowest corner of an undulating field. Very nearby to the south is a larger pond, at this time filled with twinkling sunspots. While returning to the car we noticed several tiny tornados above the naked and very hot field. My wife photographed me while I was trying to photograph one of them without result.
+
+An old tree, Southeast of the DCP fascinated my wife.
+
+On 4th May 2009 I made a second visit to this DCP, see the difference.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="we" end="300" start="298" id="T0"/>
+        <TRAJECTOR text="the N24" end="314" start="307" id="T1"/>
+        <TRAJECTOR text="Auray" end="324" start="319" id="T2"/>
+        <TRAJECTOR text="a very old and simple cross" end="472" start="445" id="T3"/>
+        <TRAJECTOR text="The church" end="484" start="474" id="T4"/>
+        <TRAJECTOR text="a road" end="677" start="671" id="T6"/>
+        <TRAJECTOR text="heavy agricultural transports" end="815" start="786" id="T7"/>
+        <TRAJECTOR text="we" end="983" start="981" id="T8"/>
+        <TRAJECTOR text="the edges of the fields" end="1105" start="1082" id="T9"/>
+        <TRAJECTOR text="I" end="1180" start="1179" id="T10"/>
+        <TRAJECTOR text="the last lorry" end="1199" start="1185" id="T11"/>
+        <TRAJECTOR text="The DCP" end="1227" start="1220" id="T12"/>
+        <TRAJECTOR text="the lowest corner" end="1251" start="1234" id="T13"/>
+        <TRAJECTOR text="a larger pond" end="1317" start="1304" id="T14"/>
+        <TRAJECTOR text="we" end="1393" start="1391" id="T15"/>
+        <TRAJECTOR text="several tiny tornados" end="1423" start="1402" id="T16"/>
+        <TRAJECTOR text="An old tree" end="1557" start="1546" id="T17"/>
+        <TRAJECTOR text="camping" end="285" start="278" id="T5"/>
+        <TRAJECTOR text="it" end="374" start="372" id="T18"/>
+        <TRAJECTOR text="rue du Pont Sel = D63" end="604" start="583" id="T19"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T20"/>
+        <TRAJECTOR text="a narrow dirt road" end="744" start="726" id="T21"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T22"/>
+        <TRAJECTOR text="I" end="1618" start="1617" id="T23"/>
+        <LANDMARK text="Auray" end="324" start="319" id="L0"/>
+        <LANDMARK text="Vannes" end="335" start="329" id="L1"/>
+        <LANDMARK text="exit Plélan-le-Grand" end="398" start="378" id="L3"/>
+        <LANDMARK text="the D38" end="435" start="428" id="L4"/>
+        <LANDMARK text="Maxent" end="494" start="488" id="L5"/>
+        <LANDMARK text="the DCP" end="1125" start="1118" id="L9"/>
+        <LANDMARK text="the lowest corner of an undulating field" end="1274" start="1234" id="L10"/>
+        <LANDMARK text="an undulating field" end="1274" start="1255" id="L11"/>
+        <LANDMARK text="" end="-1" start="-1" id="L12"/>
+        <LANDMARK text="the naked and very hot field" end="1458" start="1430" id="L13"/>
+        <LANDMARK text="the DCP" end="1579" start="1572" id="L14"/>
+        <LANDMARK text="Quiberon" end="297" start="289" id="L2"/>
+        <LANDMARK text="the N24" end="314" start="307" id="L6"/>
+        <LANDMARK text="Maxent" end="565" start="559" id="L8"/>
+        <LANDMARK text="" end="-1" start="-1" id="L15"/>
+        <LANDMARK text="the DCP" end="711" start="704" id="L16"/>
+        <LANDMARK text="This road" end="722" start="713" id="L17"/>
+        <SPATIAL_INDICATOR text="via" end="318" start="315" id="S0"/>
+        <SPATIAL_INDICATOR text="and" end="328" start="325" id="S1"/>
+        <SPATIAL_INDICATOR text="at" end="377" start="375" id="S2"/>
+        <SPATIAL_INDICATOR text="Along" end="427" start="422" id="S3"/>
+        <SPATIAL_INDICATOR text="in" end="487" start="485" id="S4"/>
+        <SPATIAL_INDICATOR text="to" end="680" start="678" id="S6"/>
+        <SPATIAL_INDICATOR text="from" end="1130" start="1126" id="S8"/>
+        <SPATIAL_INDICATOR text="in" end="1233" start="1231" id="S9"/>
+        <SPATIAL_INDICATOR text="of" end="1254" start="1252" id="S10"/>
+        <SPATIAL_INDICATOR text="to" end="1290" start="1288" id="S11"/>
+        <SPATIAL_INDICATOR text="above" end="1429" start="1424" id="S12"/>
+        <SPATIAL_INDICATOR text="of" end="1571" start="1569" id="S14"/>
+        <SPATIAL_INDICATOR text="at" end="288" start="286" id="S5"/>
+        <SPATIAL_INDICATOR text="In" end="558" start="556" id="S7"/>
+        <SPATIAL_INDICATOR text="to" end="703" start="701" id="S13"/>
+        <MOTION_INDICATOR text="Returning" end="272" start="263" id="M0"/>
+        <MOTION_INDICATOR text="drove" end="306" start="301" id="M1"/>
+        <MOTION_INDICATOR text="left" end="371" start="367" id="M2"/>
+        <MOTION_INDICATOR text="loaded" end="780" start="774" id="M4"/>
+        <MOTION_INDICATOR text="continued" end="993" start="984" id="M5"/>
+        <MOTION_INDICATOR text="turned" end="1008" start="1002" id="M6"/>
+        <MOTION_INDICATOR text="Arriving" end="1149" start="1141" id="M7"/>
+        <MOTION_INDICATOR text="leaving" end="1207" start="1200" id="M8"/>
+        <MOTION_INDICATOR text="returning" end="1379" start="1370" id="M9"/>
+        <MOTION_INDICATOR text="after" end="614" start="609" id="M3"/>
+        <MOTION_INDICATOR text="a walk" end="1067" start="1061" id="M10"/>
+        <MOTION_INDICATOR text="visit" end="1638" start="1633" id="M11"/>
+        <PATH text="from camping at Quiberon" end="297" start="273" id="P0"/>
+        <PATH text="it" end="374" start="372" id="P2"/>
+        <PATH text="for the D38 to Maxent" end="420" start="399" id="P3"/>
+        <PATH text="the N24 via Auray and Vannes" end="335" start="307" id="P4"/>
+        <PATH text="at the field" end="1162" start="1150" id="P6"/>
+        <PATH text="the field" end="1217" start="1208" id="P7"/>
+        <PATH text="the car" end="1390" start="1383" id="P8"/>
+        <PATH text="3 km right on D238" end="633" start="615" id="P1"/>
+        <PATH text="a narrow dirt road" end="744" start="726" id="P9"/>
+        <PATH text="along the edges of the fields approaching the DCP from the East" end="1139" start="1076" id="P10"/>
+        <PATH text="to this DCP" end="1650" start="1639" id="P11"/>
+        <DIRECTION text="the direction of Rennes" end="362" start="339" id="DIR0"/>
+        <DIRECTION text="the right" end="690" start="681" id="DIR2"/>
+        <DIRECTION text="right" end="1014" start="1009" id="DIR3"/>
+        <DIRECTION text="the East" end="1139" start="1131" id="DIR4"/>
+        <DIRECTION text="the south" end="1300" start="1291" id="DIR5"/>
+        <DIRECTION text="Southeast" end="1568" start="1559" id="DIR6"/>
+        <DIRECTION text="direction North" end="581" start="566" id="DIR1"/>
+        <DISTANCE text="Very nearby" end="1287" start="1276" id="DIS0"/>
+        <DISTANCE text="700m" end="1075" start="1071" id="DIS1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="PO" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="PO" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L1" trajector_id="T1" id="SR2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T2" id="SR3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="DIR0" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR5"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L3" trajector_id="T0" id="SR6"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3, P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR7"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L4" trajector_id="T3" id="SR8"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L5" trajector_id="T4" id="SR9"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T8" id="SR13"/>
+        <RELATION FoR="relative" relative_value="RIGHT" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR3" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T8" id="SR14"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="East" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR4" motion_id="" spatial_indicator_id="S8" landmark_id="L9" trajector_id="T9" id="SR15"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T10" id="SR16"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P7" direction_id="" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T11" id="SR17"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S9" landmark_id="L10" trajector_id="T12" id="SR18"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S10" landmark_id="L11" trajector_id="T13" id="SR19"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="DIS0" quantitative_value="" path_id="" direction_id="DIS5" motion_id="" spatial_indicator_id="S11" landmark_id="L12" trajector_id="T14" id="SR20"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P8" direction_id="" motion_id="M9" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR21"/>
+        <RELATION FoR="intrinsic" relative_value="ABOVE" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S12" landmark_id="L13" trajector_id="T16" id="SR22"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="SE" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR6" motion_id="" spatial_indicator_id="S14" landmark_id="L14" trajector_id="T17" id="SR23"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L2" trajector_id="T5" id="SR4"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L6" trajector_id="T18" id="SR11"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="North" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR1" motion_id="" spatial_indicator_id="S7" landmark_id="L8" trajector_id="T19" id="SR24"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T20" id="SR25"/>
+        <RELATION FoR="relative" relative_value="RIGHT" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR2" motion_id="" spatial_indicator_id="S6" landmark_id="L15" trajector_id="T6" id="SR26"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S13" landmark_id="L16" trajector_id="T6" id="SR27"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P9" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR28"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L17" trajector_id="T21" id="SR29"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS1" path_id="P10" direction_id="" motion_id="M10" spatial_indicator_id="" landmark_id="" trajector_id="T22" id="SR30"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P11" direction_id="" motion_id="M11" spatial_indicator_id="" landmark_id="" trajector_id="T23" id="SR31"/>
+    </TAGS>
+</SpRL>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=18559</URL>
+    <CP>15°N 23°W</CP>
+    <TEXT>
+01-May-2003 -- On our way from Recife to Königsberg/Kaliningrad the next confluence after the Archipelago de Fernando de Noronha is in the Cape Verde Islands Archipelago.
+
+This time we decided to proceed first to 15N 23W, which is fairly close to Ilha do Maio.
+
+The wind was quite strong (force Beaufort 6-7 from NNE) and the visibility was rather limited. So we went a little closer to make some better pictures.
+
+The North part of Ilha do Maio is low and mainly occupied by salt pans which are surrounded by sand dunes. In the South thre are several peaks amongst which is Monte Penoso, 435 m (1,430 ft) high and the highest point of Ilha do Maio. The islands slopes gradually from these central peaks to the South end. The coasts of Ilha do Maio are, in general, low. The East coast is more indented than the other ones. The soil is for the most part dry and sterile. Salt, which is exported out of the archipelago, is the only produce of importance. There are also two limeworks and a fish canning factory. Landing on Ilha do Maio is bad and impeded with swell. There is no regular communication by sea. A small landing strip is suitable for light aircraft by day. 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="" end="-1" start="-1" id="T0"/>
+        <TRAJECTOR text="we" end="363" start="361" id="T2"/>
+        <TRAJECTOR text="The North part" end="430" start="416" id="T3"/>
+        <TRAJECTOR text="The North part of Ilha do Maio" end="446" start="416" id="T4"/>
+        <TRAJECTOR text="which" end="492" start="487" id="T6"/>
+        <TRAJECTOR text="Monte Penoso, 435 m (1,430 ft) high and the highest point of Ilha do Maio" end="649" start="576" id="T8"/>
+        <TRAJECTOR text="The islands slopes" end="669" start="651" id="T10"/>
+        <TRAJECTOR text="The coasts" end="733" start="723" id="T11"/>
+        <TRAJECTOR text="which" end="228" start="223" id="T5"/>
+        <TRAJECTOR text="several peaks" end="558" start="545" id="T7"/>
+        <TRAJECTOR text="which" end="572" start="567" id="T9"/>
+        <TRAJECTOR text="the highest point" end="633" start="616" id="T12"/>
+        <TRAJECTOR text="The East coast" end="786" start="772" id="T13"/>
+        <TRAJECTOR text="which" end="883" start="878" id="T14"/>
+        <LANDMARK text="Ilha do Maio" end="260" start="248" id="L0"/>
+        <LANDMARK text="Ilha do Maio" end="446" start="434" id="L1"/>
+        <LANDMARK text="salt pans" end="486" start="477" id="L2"/>
+        <LANDMARK text="sand dunes" end="521" start="511" id="L3"/>
+        <LANDMARK text="which" end="572" start="567" id="L4"/>
+        <LANDMARK text="these central peaks" end="704" start="685" id="L5"/>
+        <LANDMARK text="Ilha do Maio" end="749" start="737" id="L6"/>
+        <LANDMARK text="15N 23W" end="221" start="214" id="L7"/>
+        <LANDMARK text="several peaks" end="558" start="545" id="L8"/>
+        <LANDMARK text="Ilha do Maio" end="649" start="637" id="L9"/>
+        <LANDMARK text="" end="-1" start="-1" id="L10"/>
+        <LANDMARK text="Salt" end="876" start="872" id="L11"/>
+        <SPATIAL_INDICATOR text="to" end="247" start="245" id="S0"/>
+        <SPATIAL_INDICATOR text="of" end="433" start="431" id="S1"/>
+        <SPATIAL_INDICATOR text="occupied by" end="476" start="465" id="S2"/>
+        <SPATIAL_INDICATOR text="surrounded by" end="510" start="497" id="S3"/>
+        <SPATIAL_INDICATOR text="amongst" end="566" start="559" id="S4"/>
+        <SPATIAL_INDICATOR text="to" end="707" start="705" id="S5"/>
+        <SPATIAL_INDICATOR text="of" end="736" start="734" id="S6"/>
+        <SPATIAL_INDICATOR text="In" end="525" start="523" id="S7"/>
+        <SPATIAL_INDICATOR text="of" end="636" start="634" id="S8"/>
+        <MOTION_INDICATOR text="way" end="26" start="23" id="M0"/>
+        <MOTION_INDICATOR text="went" end="368" start="364" id="M1"/>
+        <MOTION_INDICATOR text="exported" end="895" start="887" id="M2"/>
+        <PATH text="On our way from Recife to Königsberg/Kaliningrad" end="64" start="16" id="P0"/>
+        <PATH text="a little closer" end="384" start="369" id="P2"/>
+        <PATH text="out of the archipelago" end="918" start="896" id="P1"/>
+        <DIRECTION text="the South" end="535" start="526" id="DIR0"/>
+        <DIRECTION text="the South end" end="721" start="708" id="DIR1"/>
+        <DIRECTION text="North" end="425" start="420" id="DIR2"/>
+        <DIRECTION text="East" end="780" start="776" id="DIR3"/>
+        <DISTANCE text="fairly close" end="244" start="232" id="DIS0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0, P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="North" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR2" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T3" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T3" id="SR4"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L3" trajector_id="T6" id="SR5"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION/DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR0" motion_id="" spatial_indicator_id="S4" landmark_id="L4" trajector_id="T8" id="SR6"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR1" motion_id="" spatial_indicator_id="S5" landmark_id="L5" trajector_id="T10" id="SR7"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L6" trajector_id="T11" id="SR8"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS0" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T5" id="SR9"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L7" trajector_id="T5" id="SR10"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L2" trajector_id="T6" id="SR11"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR2" motion_id="" spatial_indicator_id="S7" landmark_id="" trajector_id="T7" id="SR12"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L8" trajector_id="T9" id="SR13"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L9" trajector_id="T12" id="SR14"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR3" motion_id="" spatial_indicator_id="" landmark_id="L10" trajector_id="T13" id="SR15"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L11" trajector_id="T14" id="SR16"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T14" id="SR17"/>
+    </TAGS>
+</SpRL>

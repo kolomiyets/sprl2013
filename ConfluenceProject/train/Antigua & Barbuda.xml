@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=16948</URL>
+    <CP>17°N 62°W</CP>
+    <TEXT>
+27-Apr-2006 -- This confluence is in the sea off Antigua in the Leeward Islands of the Caribbean. It was my first successful confluence visit on my father's yacht Zille (we had an unsuccessfull visit to the Curacao confluence at 12°N 69°W a couple of years ago).
+
+We left Jolly Harbour planning to sail to Guadalupe via the confluence ... but ended up leaving a little late at around 1100. It was a lovely sunny day with the volcano on Monserrat spewing out steam ahead of us and a fair southerly breeze for our target. Two or three hours later we were approaching the target. Using the GPS to guide us in we got within a boat length of the point. We had pretty good visibility that day, with a lovely tradewind sky and I used my new birthday present Nikon D50 SLR to take the required photos. We could see the following islands from the confluence, clockwise from due West: Monserrat, Redonda, Nevis, St Kitts, Antigua and the clouds above Guadalupe. If you look carefully at the Monserrat photo you can see the marks left by the pyroclastic flows from the volcano.
+
+Nothing more to say really - no cairn to mark the spot, no pod of dolphins to congratulate us, no turtle popping its head up for a breather and a quick hello, though we had a few later on who congratulated us belatedly.
+
+Unfortunately it was getting too late to go the 50 odd nautical miles down to Guadalupe against the wind, so we detoured and, anchoring in Carlisle Bay on the south of Antigua that night for a tasty picnic supper in the cabin, we sailed off to Guadalupe the next morning at first light. It was a great trip down to Deshais (pronounced day-hay) on the North West corner of the island. After a couple of beers we returned to the boat for a sundowner. And what a sunset it was: we saw the fabled 'green flash' as the last slither of the sun plopped into the sea.
+
+The next day we sailed South to the beautiful Isles des Saintes were we had some great adventures, including seeing the green flash again, and a great lunch in Marigot Bay. We returned to Antigua on one long night crossing, coming close to another confluence, 16°N 62°W, but as we would have arrived around 1am I thought the photos would not have been up to much. You try doing a long exposure on a moving boat! That confluence is shown to the right of the sun in this photo
+
+So there we have it, my first confluence, and a completed country all in one go! You can also browse our photos of Antigua and Guadalope on my pages in Flicker
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="This confluence" end="31" start="16" id="T0"/>
+        <TRAJECTOR text="the sea" end="45" start="38" id="T1"/>
+        <TRAJECTOR text="Antigua" end="57" start="50" id="T2"/>
+        <TRAJECTOR text="the Leeward Islands" end="80" start="61" id="T3"/>
+        <TRAJECTOR text="we" end="173" start="171" id="T4"/>
+        <TRAJECTOR text="We" end="267" start="265" id="T5"/>
+        <TRAJECTOR text="the volcano" end="433" start="422" id="T6"/>
+        <TRAJECTOR text="steam" end="464" start="459" id="T7"/>
+        <TRAJECTOR text="we" end="548" start="546" id="T8"/>
+        <TRAJECTOR text="we" end="609" start="607" id="T9"/>
+        <TRAJECTOR text="the following islands" end="829" start="808" id="T10"/>
+        <TRAJECTOR text="the clouds" end="935" start="925" id="T11"/>
+        <TRAJECTOR text="hidden location" end="-1" start="-1" id="T12"/>
+        <TRAJECTOR text="we" end="1401" start="1399" id="T13"/>
+        <TRAJECTOR text="Carlisle Bay" end="1441" start="1429" id="T14"/>
+        <TRAJECTOR text="a tasty picnic supper" end="1502" start="1481" id="T15"/>
+        <TRAJECTOR text="we" end="1519" start="1517" id="T16"/>
+        <TRAJECTOR text="hidden 'we'" end="-1" start="-1" id="T17"/>
+        <TRAJECTOR text="Deshais" end="1612" start="1605" id="T18"/>
+        <TRAJECTOR text="the North West corner" end="1658" start="1637" id="T20"/>
+        <TRAJECTOR text="we" end="1700" start="1698" id="T21"/>
+        <TRAJECTOR text="the sun" end="1827" start="1820" id="T22"/>
+        <TRAJECTOR text="we" end="1866" start="1864" id="T23"/>
+        <TRAJECTOR text="we" end="1922" start="1920" id="T24"/>
+        <TRAJECTOR text="We" end="2026" start="2024" id="T25"/>
+        <TRAJECTOR text="That confluence" end="2278" start="2263" id="T26"/>
+        <TRAJECTOR text="we" end="2131" start="2129" id="T19"/>
+        <TRAJECTOR text="You" end="2218" start="2215" id="T27"/>
+        <LANDMARK text="the sea" end="45" start="38" id="L0"/>
+        <LANDMARK text="Antigua" end="57" start="50" id="L1"/>
+        <LANDMARK text="the Leeward Islands of the Caribbean" end="97" start="61" id="L2"/>
+        <LANDMARK text="the Caribbean" end="97" start="84" id="L3"/>
+        <LANDMARK text="Monserrat" end="446" start="437" id="L4"/>
+        <LANDMARK text="us" end="476" start="474" id="L5"/>
+        <LANDMARK text="the point" end="647" start="638" id="L6"/>
+        <LANDMARK text="the confluence" end="849" start="835" id="L7"/>
+        <LANDMARK text="Guadalupe" end="951" start="942" id="L8"/>
+        <LANDMARK text="Antigua" end="1465" start="1458" id="L11"/>
+        <LANDMARK text="Carlisle Bay on the south of Antigua" end="1465" start="1429" id="L12"/>
+        <LANDMARK text="the cabin" end="1515" start="1506" id="L13"/>
+        <LANDMARK text="the North West corner of the island" end="1672" start="1637" id="L14"/>
+        <LANDMARK text="the island" end="1672" start="1662" id="L15"/>
+        <LANDMARK text="Marigot Bay" end="2022" start="2011" id="L16"/>
+        <LANDMARK text="the sun" end="2311" start="2304" id="L17"/>
+        <LANDMARK text="a moving boat" end="2261" start="2248" id="L9"/>
+        <SPATIAL_INDICATOR text="in" end="37" start="35" id="S0"/>
+        <SPATIAL_INDICATOR text="off" end="49" start="46" id="S1"/>
+        <SPATIAL_INDICATOR text="in" end="60" start="58" id="S2"/>
+        <SPATIAL_INDICATOR text="of" end="83" start="81" id="S3"/>
+        <SPATIAL_INDICATOR text="on" end="436" start="434" id="S4"/>
+        <SPATIAL_INDICATOR text="ahead of" end="473" start="465" id="S5"/>
+        <SPATIAL_INDICATOR text="within" end="620" start="614" id="S6"/>
+        <SPATIAL_INDICATOR text="from" end="834" start="830" id="S7"/>
+        <SPATIAL_INDICATOR text="above" end="941" start="936" id="S8"/>
+        <SPATIAL_INDICATOR text="in" end="1428" start="1426" id="S10"/>
+        <SPATIAL_INDICATOR text="on" end="1444" start="1442" id="S12"/>
+        <SPATIAL_INDICATOR text="in" end="1505" start="1503" id="S13"/>
+        <SPATIAL_INDICATOR text="on" end="1636" start="1634" id="S14"/>
+        <SPATIAL_INDICATOR text="of" end="1661" start="1659" id="S15"/>
+        <SPATIAL_INDICATOR text="in" end="2010" start="2008" id="S16"/>
+        <SPATIAL_INDICATOR text="on" end="2247" start="2245" id="S9"/>
+        <SPATIAL_INDICATOR text="to" end="2290" start="2288" id="S11"/>
+        <MOTION_INDICATOR text="visit" end="200" start="195" id="M0"/>
+        <MOTION_INDICATOR text="left" end="272" start="268" id="M1"/>
+        <MOTION_INDICATOR text="approaching" end="565" start="554" id="M2"/>
+        <MOTION_INDICATOR text="sailed off" end="1530" start="1520" id="M4"/>
+        <MOTION_INDICATOR text="a great trip" end="1596" start="1584" id="M5"/>
+        <MOTION_INDICATOR text="returned" end="1709" start="1701" id="M6"/>
+        <MOTION_INDICATOR text="plopped" end="1835" start="1828" id="M7"/>
+        <MOTION_INDICATOR text="sailed" end="1873" start="1867" id="M8"/>
+        <MOTION_INDICATOR text="returned" end="2035" start="2027" id="M9"/>
+        <MOTION_INDICATOR text="coming" end="2081" start="2075" id="M10"/>
+        <MOTION_INDICATOR text="sail" end="303" start="299" id="M3"/>
+        <MOTION_INDICATOR text="go" end="1333" start="1331" id="M11"/>
+        <MOTION_INDICATOR text="detoured" end="1410" start="1402" id="M12"/>
+        <MOTION_INDICATOR text="arrived" end="2150" start="2143" id="M13"/>
+        <PATH text="to the Curacao confluence at 12°N 69°W" end="239" start="201" id="P0"/>
+        <PATH text="the target" end="576" start="566" id="P3"/>
+        <PATH text="to Guadalupe" end="1543" start="1531" id="P4"/>
+        <PATH text="to Deshais" end="1612" start="1602" id="P5"/>
+        <PATH text="to the boat" end="1721" start="1710" id="P6"/>
+        <PATH text="into the sea" end="1848" start="1836" id="P7"/>
+        <PATH text="to the beautiful Isles des Saintes" end="1914" start="1880" id="P8"/>
+        <PATH text="to Antigua" end="2046" start="2036" id="P10"/>
+        <PATH text="to another confluence, 16°N 62°W" end="2120" start="2088" id="P11"/>
+        <PATH text="Jolly Harbour" end="286" start="273" id="P1"/>
+        <PATH text="to Guadalupe via the confluence" end="335" start="304" id="P2"/>
+        <PATH text="to Guadalupe" end="1377" start="1365" id="P9"/>
+        <DIRECTION text="the south" end="1454" start="1445" id="DIR3"/>
+        <DIRECTION text="North West" end="1651" start="1641" id="DIR4"/>
+        <DIRECTION text="South" end="1879" start="1874" id="DIR5"/>
+        <DIRECTION text="the right" end="2300" start="2291" id="DIR0"/>
+        <DISTANCE text="a boat length" end="634" start="621" id="DIS0"/>
+        <DISTANCE text="the 50 odd nautical miles" end="1359" start="1334" id="DIS1"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L3" trajector_id="T3" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L4" trajector_id="T6" id="SR6"/>
+        <RELATION FoR="relative" relative_value="FRONT" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L5" trajector_id="T7" id="SR7"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T8" id="SR8"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L6" trajector_id="T9" id="SR9"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S7" landmark_id="L7" trajector_id="T10" id="SR10"/>
+        <RELATION FoR="relative" relative_value="ABOVE" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L8" trajector_id="T11" id="SR11"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S10" landmark_id="L12" trajector_id="T13" id="SR14"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR3" motion_id="" spatial_indicator_id="S12" landmark_id="L11" trajector_id="T14" id="SR15"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S13" landmark_id="L13" trajector_id="T15" id="SR16"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T16" id="SR17"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T17" id="SR18"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="NW" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR4" motion_id="" spatial_indicator_id="S14" landmark_id="L14" trajector_id="T18" id="SR20"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S15" landmark_id="L15" trajector_id="T20" id="SR22"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T21" id="SR23"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P7" direction_id="" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T22" id="SR24"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P8" direction_id="DIR5" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T23" id="SR25"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S16" landmark_id="L16" trajector_id="T24" id="SR26"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P10" direction_id="" motion_id="M9" spatial_indicator_id="" landmark_id="" trajector_id="T25" id="SR27"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P11" direction_id="" motion_id="M10" spatial_indicator_id="" landmark_id="" trajector_id="T25" id="SR28"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR4"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR13"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR19"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS1" path_id="P9" direction_id="" motion_id="M11" spatial_indicator_id="" landmark_id="" trajector_id="T13" id="SR21"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M12" spatial_indicator_id="" landmark_id="" trajector_id="T13" id="SR29"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M13" spatial_indicator_id="" landmark_id="" trajector_id="T19" id="SR30"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S9" landmark_id="L9" trajector_id="T27" id="SR31"/>
+        <RELATION FoR="relative" relative_value="RIGHT" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR0" motion_id="" spatial_indicator_id="S11" landmark_id="L17" trajector_id="T26" id="SR32"/>
+    </TAGS>
+</SpRL>

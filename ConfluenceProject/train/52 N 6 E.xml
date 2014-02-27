@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=2904</URL>
+    <CP>52°N 6°E</CP>
+    <TEXT>
+30-Apr-2012 -- This is the second out of three confluences that we visited during an extended weekend trip to the Netherlands. The narrative of this trip starts at 52°N 5°E.
+
+After visiting the Floriade 2012 (World Horticultural Expo) in Venlo, we drove to Schiermonnikoog, an island in the northern Netherlands, belonging to the West Frisian Islands. On our way, we made an excursion of about 5 km to visit this confluence point. The navigation system guided us to the nearest road in about 300 m distance, but safe parking is only possible at the national road N785 in 800 m distance. From there we walked all around the confluence point along the bike path. Since it was the National Holiday (Queen’s Day, in the Netherlands called Koninginnedag), there was such a dense bicycle traffic that we almost felt out of place while walking as normal pedestrians.
+
+The confluence point is located on a meadow with grass in the vicinity of a farmhouse. To access the point, it is necessary to jump over some drainage ditches.
+
+CP Visit Details:
+
+    Distance to an asphalt road: 315 m
+    Distance to a public road: 315 m
+    Distance to a track: 65 m
+    Distance of parking: 770 m
+    Distance to houses: 126 m
+    Time starting the hike: 10:20 AM
+    Time at the CP: 10:42 AM
+    Measured height: 10 m
+    Minimal distance according to GPS: 0 m
+    Position accuracy at the CP: 3 m
+    Topography: flat
+    Vegetation: agricultural field (grass)
+    Weather: sunny, 23° C (felt temperature)
+    Description of the CP: 1 km west of the town Velp and 7 km west of the city Arnhem. The confluence is located 870 m north of the river IJssel. In a densely populated, but also agricultural area.
+    Given Name: The IJssel Confluence
+
+Story continues at 53°N 6°E.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="we" end="67" start="65" id="T1"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T3"/>
+        <TRAJECTOR text="we" end="248" start="246" id="T4"/>
+        <TRAJECTOR text="an island" end="284" start="275" id="T6"/>
+        <TRAJECTOR text="we" end="367" start="365" id="T7"/>
+        <TRAJECTOR text="us" end="463" start="461" id="T8"/>
+        <TRAJECTOR text="safe parking" end="525" start="513" id="T9"/>
+        <TRAJECTOR text="we" end="601" start="599" id="T10"/>
+        <TRAJECTOR text="The confluence point" end="882" start="862" id="T12"/>
+        <TRAJECTOR text="the Floriade 2012 (World Horticultural Expo)" end="235" start="191" id="T13"/>
+        <TRAJECTOR text="that" end="64" start="60" id="T0"/>
+        <TRAJECTOR text="the nearest road" end="483" start="467" id="T2"/>
+        <TRAJECTOR text="we" end="798" start="796" id="T5"/>
+        <TRAJECTOR text="a meadow" end="905" start="897" id="T11"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T14"/>
+        <LANDMARK text="the northern Netherlands" end="312" start="288" id="L1"/>
+        <LANDMARK text="" end="-1" start="-1" id="L2"/>
+        <LANDMARK text="the national road N785" end="568" start="546" id="L4"/>
+        <LANDMARK text="a meadow" end="905" start="897" id="L6"/>
+        <LANDMARK text="Venlo" end="244" start="239" id="L7"/>
+        <LANDMARK text="the second out of three confluences" end="59" start="24" id="L0"/>
+        <LANDMARK text="" end="-1" start="-1" id="L3"/>
+        <LANDMARK text="a farmhouse" end="947" start="936" id="L5"/>
+        <SPATIAL_INDICATOR text="in" end="287" start="285" id="S1"/>
+        <SPATIAL_INDICATOR text="at" end="545" start="543" id="S3"/>
+        <SPATIAL_INDICATOR text="located on" end="896" start="886" id="S5"/>
+        <SPATIAL_INDICATOR text="in" end="238" start="236" id="S6"/>
+        <MOTION_INDICATOR text="trip" end="107" start="103" id="M0"/>
+        <MOTION_INDICATOR text="visiting" end="190" start="182" id="M1"/>
+        <MOTION_INDICATOR text="drove" end="254" start="249" id="M2"/>
+        <MOTION_INDICATOR text="made" end="372" start="368" id="M3"/>
+        <MOTION_INDICATOR text="visit" end="408" start="403" id="M4"/>
+        <MOTION_INDICATOR text="guided" end="460" start="454" id="M5"/>
+        <MOTION_INDICATOR text="walked" end="608" start="602" id="M6"/>
+        <MOTION_INDICATOR text="visited" end="75" start="68" id="M7"/>
+        <MOTION_INDICATOR text="walking" end="837" start="830" id="M8"/>
+        <MOTION_INDICATOR text="access" end="958" start="952" id="M9"/>
+        <MOTION_INDICATOR text="jump" end="993" start="989" id="M10"/>
+        <PATH text="to the Netherlands" end="126" start="108" id="P0"/>
+        <PATH text="the Floriade 2012 (World Horticultural Expo) in Venlo" end="244" start="191" id="P1"/>
+        <PATH text="to Schiermonnikoog" end="273" start="255" id="P2"/>
+        <PATH text="an excursion of about 5 km" end="399" start="373" id="P3"/>
+        <PATH text="this confluence point" end="430" start="409" id="P4"/>
+        <PATH text="to the nearest road in about 300 m distance" end="507" start="464" id="P5"/>
+        <PATH text="all around the confluence point along the bike path" end="660" start="609" id="P6"/>
+        <PATH text="that" end="64" start="60" id="P7"/>
+        <PATH text="From there" end="598" start="588" id="P8"/>
+        <PATH text="the point" end="968" start="959" id="P9"/>
+        <PATH text="over some drainage ditches" end="1020" start="994" id="P10"/>
+        <DISTANCE text="about 300 m" end="498" start="487" id="DIS0"/>
+        <DISTANCE text="800 m" end="577" start="572" id="DIS1"/>
+        <DISTANCE text="about 5 km" end="399" start="389" id="DIS2"/>
+        <DISTANCE text="in the vicinity" end="932" start="917" id="DIS3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T6" id="SR5"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS2" path_id="P3" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR6"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR7"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T8" id="SR8"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L4" trajector_id="T9" id="SR10"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P8, P6" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T10" id="SR11"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L6" trajector_id="T12" id="SR13"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L7" trajector_id="T13" id="SR14"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L0" trajector_id="T0" id="SR15"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P7" direction_id="" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR16"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L3" trajector_id="T2" id="SR17"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L3" trajector_id="T9" id="SR19"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR20"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS3" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L5" trajector_id="T11" id="SR21"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P9" direction_id="" motion_id="M9" spatial_indicator_id="" landmark_id="" trajector_id="T14" id="SR22"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P10" direction_id="" motion_id="M10" spatial_indicator_id="" landmark_id="" trajector_id="T14" id="SR23"/>
+    </TAGS>
+</SpRL>

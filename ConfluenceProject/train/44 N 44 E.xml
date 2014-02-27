@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?visitid=18453</URL>
+    <CP>44°N 44°E</CP>
+    <TEXT>
+02-Jun-2012 – We set off at 6 am, to the north, onto A-157 road. Yessentuki town remained eastern of the route (first 20 kilometers), farther east 20 km, we passed Pyatigorsk town (by southern edge). After another 30 km to the east we passed Georgievsk town, then after 35 km to the south we passed Novopavlovsk town. Another 45 km to the east... and we stopped, then walked 150 meters through a wheat field.
+
+Fate would have it, I managed to visit the Caucasus. I participated in the All-Russian Conference &quot;Industrial Safety in Subsoil Use and conservation of mineral resources.&quot; There were interesting reports, discussions with colleagues from different regions of Russia, unforgettable excursions to the Caucasus, mineral water, a special air, pleasant resort town ... But! The confluence with alluring digits 44°N 44°E is somewhere in this region... I found those who can accompany me to conquer it! Thank you, Vitaly and his friend Yura! And this summer happened to be so rainy, so the old-timers can not remember the same... But anyway, it was great! Good weather and well-being, Kislovodsk!
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="We" end="17" start="15" id="T0"/>
+        <TRAJECTOR text="Yessentuki town" end="81" start="66" id="T1"/>
+        <TRAJECTOR text="we" end="157" start="155" id="T2"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T3"/>
+        <TRAJECTOR text="we" end="235" start="233" id="T4"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T5"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T6"/>
+        <TRAJECTOR text="we" end="292" start="290" id="T7"/>
+        <TRAJECTOR text="we" end="354" start="352" id="T8"/>
+        <TRAJECTOR text="The confluence with alluring digits 44°N 44°E" end="824" start="779" id="T11"/>
+        <TRAJECTOR text="I" end="432" start="431" id="T9"/>
+        <LANDMARK text="the route" end="111" start="102" id="L0"/>
+        <LANDMARK text="Pyatigorsk town" end="180" start="165" id="L1"/>
+        <LANDMARK text="this region" end="852" start="841" id="L4"/>
+        <SPATIAL_INDICATOR text="of" end="101" start="99" id="S0"/>
+        <SPATIAL_INDICATOR text="in" end="840" start="838" id="S3"/>
+        <MOTION_INDICATOR text="set off" end="25" start="18" id="M0"/>
+        <MOTION_INDICATOR text="passed" end="164" start="158" id="M1"/>
+        <MOTION_INDICATOR text="passed" end="242" start="236" id="M2"/>
+        <MOTION_INDICATOR text="passed" end="299" start="293" id="M4"/>
+        <MOTION_INDICATOR text="walked" end="375" start="369" id="M6"/>
+        <MOTION_INDICATOR text="farther" end="142" start="135" id="M3"/>
+        <MOTION_INDICATOR text="After" end="206" start="201" id="M5"/>
+        <MOTION_INDICATOR text="after" end="270" start="265" id="M7"/>
+        <MOTION_INDICATOR text="Another" end="326" start="319" id="M8"/>
+        <MOTION_INDICATOR text="stopped" end="362" start="355" id="M9"/>
+        <MOTION_INDICATOR text="visit" end="449" start="444" id="M10"/>
+        <MOTION_INDICATOR text="excursions" end="701" start="691" id="M11"/>
+        <PATH text="to the north, onto A-157 road" end="64" start="35" id="P0"/>
+        <PATH text="Pyatigorsk town (by southern edge)" end="199" start="165" id="P2"/>
+        <PATH text="Georgievsk town" end="258" start="243" id="P3"/>
+        <PATH text="Novopavlovsk town" end="317" start="300" id="P4"/>
+        <PATH text="through a wheat field" end="408" start="387" id="P6"/>
+        <PATH text="to the east" end="232" start="221" id="P1"/>
+        <PATH text="to the south" end="289" start="277" id="P5"/>
+        <PATH text="to the east" end="344" start="333" id="P7"/>
+        <PATH text="the Caucasus" end="462" start="450" id="P8"/>
+        <PATH text="to the Caucasus" end="717" start="702" id="P9"/>
+        <DIRECTION text="the north" end="47" start="38" id="DIR0"/>
+        <DIRECTION text="eastern" end="98" start="91" id="DIR1"/>
+        <DIRECTION text="the east" end="232" start="224" id="DIR2"/>
+        <DIRECTION text="the south" end="289" start="280" id="DIR3"/>
+        <DIRECTION text="east" end="147" start="143" id="DIR5"/>
+        <DIRECTION text="the east" end="344" start="336" id="DIR4"/>
+        <DISTANCE text="30 km" end="220" start="215" id="DIS2"/>
+        <DISTANCE text="150 meters" end="386" start="376" id="DIS3"/>
+        <DISTANCE text="20 km" end="153" start="148" id="DIS4"/>
+        <DISTANCE text="35 km" end="276" start="271" id="DIS5"/>
+        <DISTANCE text="45 km" end="332" start="327" id="DIS0"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="North" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="DIR0" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="East" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR1" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T2" id="SR3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR7"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR9"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS3" path_id="P6" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T8" id="SR10"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L4" trajector_id="T11" id="SR12"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="East" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS4" path_id="" direction_id="DIR5" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR5"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="East" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS2" path_id="P1" direction_id="DIR2" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR6"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS5" path_id="P5" direction_id="DIR3" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR11"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="East" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS0" path_id="P7" direction_id="DIR4" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T8" id="SR13"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M9" spatial_indicator_id="" landmark_id="" trajector_id="T8" id="SR14"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P8" direction_id="" motion_id="M10" spatial_indicator_id="" landmark_id="" trajector_id="T9" id="SR15"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P9" direction_id="" motion_id="M11" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR16"/>
+    </TAGS>
+</SpRL>

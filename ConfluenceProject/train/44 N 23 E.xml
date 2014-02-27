@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=9795</URL>
+    <CP>44°N 23°E</CP>
+    <TEXT>
+06-Nov-2007 -- What a weather we chose for confluence hunting?! November is a month not so friendly for geographical expeditions.
+
+A business trip brought me to the town of Vidin. One of our film productions had chosen the “Baba Vida Fortress“ for shooting. Spread on more than 100 dca, built nearly before 3000 years, this incredible military facility is a marvellous background for retrospective film story about the moving history of the Balkans during the last “Luminal year” 
+
+According the map, this fortress is 2km far from the confluence N44 E23, with the only small detail is that is in another country in the field of absolute strangers for us. I could not stand the temptation to visit this confluence. It is beautiful that there are friends who follow me in my crazy adventures. Deyana is a typical representative of the kind. It was about 12 o’clock in the afternoon when we started our journey from Vidin, Bulgaria to Kalafat, Romania.
+
+It was a slow and annoying journey between two countries which are supposed to be adopting the European standards.
+
+I will give you some examples from my point of view, trying not to be boring. For unknown reasons the boats across the river Danube are only two. The one is small and the other is smaller. For that big traffic across the river with this old ferries /constructed at accelerated rates in the first days after the victory of the communism and celebrated with a lot of vodka and seliodka/ is simply ridiculous.
+
+You have to wait for hours the the boat and there is nothing around like café, internet or restaurant, no shop or anything else to ease the waiting. You just wait staring at the other drivers gathering in small groups, who smoke cigarettes one after another and discus their truck problems.
+
+Grim faced customs officers and border police officers, wandering round the vehicles with a rare glance, looking at their watches with hope… Profound dullness! It is unbelievable, that no one made the slight effort to put one Wi-Fi and to give access for one Bulgarian Lev per hour, so that you can at least surf the web while waiting. What about the fact that, as a result of ill political and commercial interests the two countries don’t have the will to build a bridge across the Danube. Everything is like it was in the times of the ancient Roman Empire and the ”Great Peoples’ Migration”. Which is the reason preventing the bridge construction, even for a kapok bridge?!
+
+Transportation with a ferry costs 17 Euro for a car, plus 3 Euro per person. But this is only for the line Bulgaria-Romania, against the river flow. On your return line, Romania-Bulgaria the price is different – 30 Euro for a car and 3 Euro per person, plus 2 Euro road tax in Romania. This is a real paradox – the price is higher even it is cheaper for the boat to go along the river flow, not against it.
+
+This is not everything, there is one more tax and it is 6 Euro for the port, just like airport tax and if you forgot to take enough cash in your pocket, you are lost. You cannot pay anything. There is no bank machine on the territory of the port, they don’t work with any credit or debit cards and so on. Medieval darkness and so were the faces. European Union… goodness, years, many years need to pass until this terrible Balkan mentality washes out.
+
+These people are born in hostility and had lived with the thought, that the neighbour is an enemy. Poverty and dirt. The attraction for the travellers on the ferry is the play of several homeless dogs in breeding period, a sight which slightly touched the souls of the truck drivers. That’s it.
+
+What follows is finding the confluence, which wasn’t that hard. We found it on the right side of one of the main streets in the village Besarab which is perpendicular to the main road. We stepped in that perfect black soil. Everything you seed in this soil will grow gold. The only confusion was that it stuck to our boots and with every step we grew taller and taller and our boots became much heavier. I inserted the navigation in the GPS and after 10 min the camera caught the happy face of the winner.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="me" end="158" start="156" id="T1"/>
+        <TRAJECTOR text="this fortress" end="516" start="503" id="T2"/>
+        <TRAJECTOR text="we" end="889" start="887" id="T5"/>
+        <TRAJECTOR text="the boats" end="1176" start="1167" id="T6"/>
+        <TRAJECTOR text="it" end="3678" start="3676" id="T8"/>
+        <TRAJECTOR text="one of the main streets" end="3723" start="3700" id="T10"/>
+        <TRAJECTOR text="the village Besarab" end="3746" start="3727" id="T11"/>
+        <TRAJECTOR text="this old ferries" end="1317" start="1301" id="T4"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T7"/>
+        <TRAJECTOR text="that" end="591" start="587" id="T0"/>
+        <TRAJECTOR text="I" end="658" start="657" id="T3"/>
+        <TRAJECTOR text="who" end="758" start="755" id="T12"/>
+        <TRAJECTOR text="Vidin" end="920" start="915" id="T13"/>
+        <TRAJECTOR text="Kalafat" end="941" start="934" id="T14"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T15"/>
+        <TRAJECTOR text="the other drivers" end="1668" start="1651" id="T16"/>
+        <TRAJECTOR text="customs officers and border police officers" end="1823" start="1780" id="T17"/>
+        <TRAJECTOR text="a bridge" end="2240" start="2232" id="T18"/>
+        <TRAJECTOR text="the boat" end="2808" start="2800" id="T19"/>
+        <TRAJECTOR text="no bank machine" end="3070" start="3055" id="T20"/>
+        <TRAJECTOR text="the travellers" end="3457" start="3443" id="T21"/>
+        <TRAJECTOR text="which" end="3752" start="3747" id="T22"/>
+        <TRAJECTOR text="We" end="3790" start="3788" id="T23"/>
+        <TRAJECTOR text="it" end="3906" start="3904" id="T24"/>
+        <LANDMARK text="the confluence N44 E23" end="555" start="533" id="L1"/>
+        <LANDMARK text="another country" end="613" start="598" id="L2"/>
+        <LANDMARK text="the river Danube" end="1200" start="1184" id="L5"/>
+        <LANDMARK text="the right side of one of the main streets" end="3723" start="3682" id="L7"/>
+        <LANDMARK text="one of the main streets" end="3723" start="3700" id="L8"/>
+        <LANDMARK text="the village Besarab" end="3746" start="3727" id="L9"/>
+        <LANDMARK text="the main road" end="3786" start="3773" id="L10"/>
+        <LANDMARK text="Bulgaria" end="930" start="922" id="L3"/>
+        <LANDMARK text="Romania" end="950" start="943" id="L4"/>
+        <LANDMARK text="the Danube" end="2258" start="2248" id="L6"/>
+        <LANDMARK text="the territory of the port" end="3099" start="3074" id="L11"/>
+        <LANDMARK text="the ferry" end="3470" start="3461" id="L12"/>
+        <LANDMARK text="our boots" end="3925" start="3916" id="L14"/>
+        <SPATIAL_INDICATOR text="from" end="532" start="528" id="S1"/>
+        <SPATIAL_INDICATOR text="in" end="597" start="595" id="S2"/>
+        <SPATIAL_INDICATOR text="across" end="1183" start="1177" id="S5"/>
+        <SPATIAL_INDICATOR text="on the right side of" end="3699" start="3679" id="S7"/>
+        <SPATIAL_INDICATOR text="of" end="3699" start="3697" id="S8"/>
+        <SPATIAL_INDICATOR text="in" end="3726" start="3724" id="S9"/>
+        <SPATIAL_INDICATOR text="perpendicular to" end="3772" start="3756" id="S10"/>
+        <SPATIAL_INDICATOR text="," end="921" start="920" id="S0"/>
+        <SPATIAL_INDICATOR text="," end="942" start="941" id="S3"/>
+        <SPATIAL_INDICATOR text="across" end="2247" start="2241" id="S4"/>
+        <SPATIAL_INDICATOR text="on" end="3073" start="3071" id="S6"/>
+        <SPATIAL_INDICATOR text="on" end="3460" start="3458" id="S11"/>
+        <SPATIAL_INDICATOR text="stuck to" end="3915" start="3907" id="S12"/>
+        <MOTION_INDICATOR text="brought" end="155" start="148" id="M0"/>
+        <MOTION_INDICATOR text="started" end="897" start="890" id="M1"/>
+        <MOTION_INDICATOR text="that big traffic" end="1278" start="1262" id="M2"/>
+        <MOTION_INDICATOR text="finding" end="3626" start="3619" id="M3"/>
+        <MOTION_INDICATOR text="visit" end="698" start="693" id="M4"/>
+        <MOTION_INDICATOR text="follow" end="765" start="759" id="M5"/>
+        <MOTION_INDICATOR text="a slow and annoying journey" end="987" start="960" id="M6"/>
+        <MOTION_INDICATOR text="gathering" end="1678" start="1669" id="M7"/>
+        <MOTION_INDICATOR text="wandering" end="1834" start="1825" id="M8"/>
+        <MOTION_INDICATOR text="go" end="2814" start="2812" id="M9"/>
+        <MOTION_INDICATOR text="stepped" end="3798" start="3791" id="M10"/>
+        <PATH text="to the town of Vidin" end="179" start="159" id="P0"/>
+        <PATH text="from Vidin, Bulgaria to Kalafat, Romania" end="950" start="910" id="P1"/>
+        <PATH text="across the river" end="1295" start="1279" id="P2"/>
+        <PATH text="the confluence" end="3641" start="3627" id="P3"/>
+        <PATH text="this confluence" end="714" start="699" id="P4"/>
+        <PATH text="me" end="768" start="766" id="P5"/>
+        <PATH text="between two countries" end="1009" start="988" id="P6"/>
+        <PATH text="round the vehicles" end="1853" start="1835" id="P7"/>
+        <PATH text="along the river flow" end="2835" start="2815" id="P8"/>
+        <PATH text="in that perfect black soil" end="3825" start="3799" id="P9"/>
+        <DIRECTION text="the right" end="3691" start="3682" id="DIR1"/>
+        <DISTANCE text="2km" end="523" start="520" id="DIS0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR6"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L5" trajector_id="T6" id="SR7"/>
+        <RELATION FoR="relative" relative_value="RIGHT" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR1" motion_id="" spatial_indicator_id="S7" landmark_id="L7" trajector_id="T8" id="SR9"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S9" landmark_id="L9" trajector_id="T10" id="SR11"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR5"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR8"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T0" id="SR4"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L1" trajector_id="T0" id="SR13"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR14"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T12" id="SR16"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L3" trajector_id="T13" id="SR17"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L4" trajector_id="T14" id="SR18"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR19"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T16" id="SR20"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P7" direction_id="" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T17" id="SR21"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="PO" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L6" trajector_id="T18" id="SR22"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P8" direction_id="" motion_id="M9" spatial_indicator_id="" landmark_id="" trajector_id="T19" id="SR23"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L11" trajector_id="T20" id="SR24"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S11" landmark_id="L12" trajector_id="T21" id="SR25"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L8" trajector_id="T22" id="SR26"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S10" landmark_id="L10" trajector_id="T22" id="SR27"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P9" direction_id="" motion_id="M10" spatial_indicator_id="" landmark_id="" trajector_id="T23" id="SR28"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S12" landmark_id="L14" trajector_id="T24" id="SR29"/>
+    </TAGS>
+</SpRL>

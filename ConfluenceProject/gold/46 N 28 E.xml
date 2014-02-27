@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=9797</URL>
+    <CP>46°N 28°E</CP>
+    <TEXT>
+28-Mar-2004 -- we started our trip in Galaţi, it takes around 1.5 h from our hotel to the confluence point. The point was very easy to access because the confluence point was only 35 m next to the street..... 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="we" end="18" start="16" id="T0"/>
+        <TRAJECTOR text="the confluence point" end="171" start="151" id="T1"/>
+        <TRAJECTOR text="our hotel" end="83" start="74" id="T2"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T3"/>
+        <LANDMARK text="the street" end="204" start="194" id="L0"/>
+        <LANDMARK text="the confluence point" end="107" start="87" id="L1"/>
+        <SPATIAL_INDICATOR text="next to" end="193" start="186" id="S0"/>
+        <SPATIAL_INDICATOR text="to" end="86" start="84" id="S1"/>
+        <MOTION_INDICATOR text="started" end="26" start="19" id="M0"/>
+        <MOTION_INDICATOR text="access" end="142" start="136" id="M1"/>
+        <PATH text="in Galaţi" end="45" start="36" id="P0"/>
+        <PATH text="The point" end="118" start="109" id="P1"/>
+        <DISTANCE text="around 1.5 h" end="68" start="56" id="DIS0"/>
+        <DISTANCE text="only 35 m" end="185" start="176" id="DIS1"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T1" id="SR0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR3"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS0" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T2" id="SR4"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR5"/>
+    </TAGS>
+</SpRL>

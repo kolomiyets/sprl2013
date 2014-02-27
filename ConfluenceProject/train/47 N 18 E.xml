@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=7388</URL>
+    <CP>47°N 18°E</CP>
+    <TEXT>
+04-May-2002 -- It is a late report because when I found this confluence I was only a geocacher. So here is a geocache, please visit it: Hungarian or English. It is an interesting point because it is 50m from the shore of Lake Balaton, in the reeds. But thx to low water we found it without swimming or diving.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="it" end="196" start="194" id="T0"/>
+        <TRAJECTOR text="the shore" end="218" start="209" id="T1"/>
+        <LANDMARK text="the shore of Lake Balaton" end="234" start="209" id="L0"/>
+        <LANDMARK text="Lake Balaton" end="234" start="222" id="L1"/>
+        <LANDMARK text="the reeds" end="248" start="239" id="L2"/>
+        <LANDMARK text="an interesting point" end="185" start="165" id="L3"/>
+        <SPATIAL_INDICATOR text="from" end="208" start="204" id="S0"/>
+        <SPATIAL_INDICATOR text="of" end="221" start="219" id="S1"/>
+        <SPATIAL_INDICATOR text="in" end="238" start="236" id="S2"/>
+        <DISTANCE text="50m" end="203" start="200" id="DIS0"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T0" id="SR2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L3" trajector_id="T0" id="SR3"/>
+    </TAGS>
+</SpRL>

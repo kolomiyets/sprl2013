@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <TEXT>
+26-Jun-2012 -- I went to this confluence on the return trip to Perth from the Northern Territory. I talked my travelling mates to take me to this confluence. We travelled down the Great Central Road and then at Warburton we joined the Connie Sue Hwy. At Neale Junction we headed west on the Ann Beadell Highway and when we came to Point Sunday Road we headed north towards the confluence.
+
+When the confluence was due east of the road it was 2.7km away so we headed into the bush towards it.
+
+With 700 metres to go we had to stop because of the thick bushes and then I walked to the spot and took the necessary photos. 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="I" end="17" start="16" id="T0"/>
+        <TRAJECTOR text="We" end="161" start="159" id="T1"/>
+        <TRAJECTOR text="we" end="224" start="222" id="T2"/>
+        <TRAJECTOR text="we" end="272" start="270" id="T3"/>
+        <TRAJECTOR text="we" end="323" start="321" id="T4"/>
+        <TRAJECTOR text="we" end="352" start="350" id="T5"/>
+        <TRAJECTOR text="it" end="438" start="436" id="T6"/>
+        <TRAJECTOR text="we" end="459" start="457" id="T7"/>
+        <TRAJECTOR text="we" end="518" start="516" id="T8"/>
+        <TRAJECTOR text="I" end="569" start="568" id="T9"/>
+        <TRAJECTOR text="me" end="138" start="136" id="T10"/>
+        <TRAJECTOR text="the confluence" end="410" start="396" id="T11"/>
+        <LANDMARK text="Warburton" end="221" start="212" id="L0"/>
+        <LANDMARK text="Neale Junction" end="269" start="255" id="L1"/>
+        <LANDMARK text="the road" end="435" start="427" id="L2"/>
+        <LANDMARK text=" assumed CP" end="-1" start="-1" id="L4"/>
+        <LANDMARK text="the confluence" end="410" start="396" id="L5"/>
+        <SPATIAL_INDICATOR text="at" end="211" start="209" id="S0"/>
+        <SPATIAL_INDICATOR text="At" end="254" start="252" id="S1"/>
+        <SPATIAL_INDICATOR text="away" end="453" start="449" id="S2"/>
+        <SPATIAL_INDICATOR text="of" end="426" start="424" id="S4"/>
+        <MOTION_INDICATOR text="went" end="22" start="18" id="M0"/>
+        <MOTION_INDICATOR text="the return trip" end="60" start="45" id="M1"/>
+        <MOTION_INDICATOR text="travelled" end="171" start="162" id="M2"/>
+        <MOTION_INDICATOR text="joined" end="231" start="225" id="M3"/>
+        <MOTION_INDICATOR text="headed" end="279" start="273" id="M4"/>
+        <MOTION_INDICATOR text="came" end="328" start="324" id="M5"/>
+        <MOTION_INDICATOR text="headed" end="359" start="353" id="M6"/>
+        <MOTION_INDICATOR text="headed" end="466" start="460" id="M7"/>
+        <MOTION_INDICATOR text="walked" end="576" start="570" id="M8"/>
+        <MOTION_INDICATOR text="take" end="135" start="131" id="M9"/>
+        <MOTION_INDICATOR text="stop" end="530" start="526" id="M10"/>
+        <MOTION_INDICATOR text="go" end="515" start="513" id="M11"/>
+        <PATH text="to this confluence" end="41" start="23" id="P0"/>
+        <PATH text="to Perth from the Northern Territory" end="97" start="61" id="P1"/>
+        <PATH text="down the Great Central Road" end="199" start="172" id="P2"/>
+        <PATH text="the Connie Sue Hwy" end="250" start="232" id="P3"/>
+        <PATH text="on the Ann Beadell Highway" end="311" start="285" id="P4"/>
+        <PATH text="to Point Sunday Road" end="349" start="329" id="P5"/>
+        <PATH text="towards the confluence" end="388" start="366" id="P6"/>
+        <PATH text="into the bush towards it" end="491" start="467" id="P7"/>
+        <PATH text="to the spot" end="588" start="577" id="P8"/>
+        <PATH text="to this confluence" end="157" start="139" id="P9"/>
+        <PATH text="the thick bushes" end="558" start="542" id="P10"/>
+        <DIRECTION text="west" end="284" start="280" id="DIR0"/>
+        <DIRECTION text="north" end="365" start="360" id="DIR1"/>
+        <DIRECTION text="east" end="423" start="419" id="DIR2"/>
+        <DISTANCE text="2.7km" end="448" start="443" id="DIS0"/>
+        <DISTANCE text="700 metres" end="509" start="499" id="DIS1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T0" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M3" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T2" id="SR6"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="West" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="DIR0" motion_id="M4" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T3" id="SR7"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR8"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="North" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="DIR1" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR9"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS0" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T6" id="SR10"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P7" direction_id="" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR11"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P8" direction_id="" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T9" id="SR14"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P9" direction_id="" motion_id="M9" spatial_indicator_id="" landmark_id="" trajector_id="T10" id="SR3"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="East" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR2" motion_id="" spatial_indicator_id="S4" landmark_id="L2" trajector_id="T11" id="SR4"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L5" trajector_id="T6" id="SR5"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P10" direction_id="" motion_id="M10" spatial_indicator_id="" landmark_id="" trajector_id="T8" id="SR13"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="" motion_id="M11" spatial_indicator_id="" landmark_id="" trajector_id="T8" id="SR12"/>
+    </TAGS>
+</SpRL>

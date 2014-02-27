@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=9810</URL>
+    <CP>45°N 29°E</CP>
+    <TEXT>
+20-Aug-2005 -- I had a plan – to drive home from Kosovo to Scotland via Greece (to climb Mt Olympus with friends) and Romania and Ukraine to conquer some of the unconquered points. Well, all plans are subject to change and as it happens, I am not going home yet. So last weekend I decided to the middle bit – attack to CPs in Romania that were not visited or complete. At the beginning of plan B I thought there were 3 points to do – 48N 27E, 47N 28E and 45N 29E. As it turned out Matthias and Jonas Kremer had recently visited 48N 27E so my task was reduced to two points.
+
+The distance from Priština to Tulcea is around 900 km with only about 100 km of motorway and 6 sets of customs/immigration (via Serbia and Bulgaria). I set out on Friday afternoon and arrived at around 10 a.m. on Saturday morning. I had planned to buy a small children's rubber dinghy as it was clear from the previous attempt and from the map that water was involved. However I did not see anything suitable and decided that I could follow the example of Hermann Grebner and swim 400 m to the point with camera and GPS on an inflatable mattress.
+
+I did not find the nearest land point by car – there are many tracks through the rough ground leading to the reeds. I parked and walked the last kilometre to the “nearest point”. A reed cutting business operates there. Several men were repairing equipment and passing a peaceful Saturday not working too hard. I put my camera into a watertight(ish) plastic tub and launched myself into the water with my equipment. Although muddy at the edge the water away from the reeds was very clear.
+
+In fact the “swim” was mostly “wade” as I could keep close to the edge of the reeds for most of the way. Just the last 150 metres needed swimming. I was travelling so slowly that the GPS had difficulty telling me which way to go – but the track gave a good idea. I managed to get all the zeroes lined up and then went for the camera. This was the delicate stage – avoiding dropping the expensive digital camera in the water while treading water and taking photos of the CP and the GPS. By the time I took the photos I had drifted off a few metres but I did not want to risk the camera while doing a water dance. Getting cramp in my leg at that point definitely did not help.
+
+The camera went back in the tub and I swam back to the shore. I thought for a while that the camera had suffered as it the lens cover did not open – then I realised it was set to display pictures – how many times have I given myself that fright! It was quite fogged up though and the photos of the reed cutting tractor, reeds and finished bundles are not up to standard. During the trip a white pelican flew past. The shoreline was alive with frogs – it must be deafening at night. It was now 3 p.m. and time to move on to the 47N 28E.
+
+Mission accomplished – without boat!
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="many tracks" end="1192" start="1181" id="T0"/>
+        <TRAJECTOR text="I" end="1241" start="1240" id="T1"/>
+        <TRAJECTOR text="I" end="1435" start="1434" id="T2"/>
+        <TRAJECTOR text="I" end="1654" start="1653" id="T3"/>
+        <TRAJECTOR text="the edge" end="1683" start="1675" id="T4"/>
+        <TRAJECTOR text="I" end="1761" start="1760" id="T5"/>
+        <TRAJECTOR text="I" end="1877" start="1876" id="T6"/>
+        <TRAJECTOR text="I" end="2326" start="2325" id="T7"/>
+        <TRAJECTOR text="I" end="1003" start="1002" id="T9"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T10"/>
+        <TRAJECTOR text="I" end="17" start="16" id="T11"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T8"/>
+        <TRAJECTOR text="I" end="240" start="239" id="T12"/>
+        <TRAJECTOR text="CPs" end="323" start="320" id="T13"/>
+        <TRAJECTOR text="Matthias and Jonas Kremer" end="507" start="482" id="T14"/>
+        <TRAJECTOR text="I" end="727" start="726" id="T15"/>
+        <TRAJECTOR text="the nearest land point" end="1161" start="1139" id="T16"/>
+        <TRAJECTOR text="the “nearest point”" end="1301" start="1282" id="T17"/>
+        <TRAJECTOR text="my camera" end="1449" start="1440" id="T18"/>
+        <TRAJECTOR text="the water" end="1575" start="1566" id="T19"/>
+        <TRAJECTOR text="the expensive digital camera" end="2023" start="1995" id="T20"/>
+        <TRAJECTOR text="I" end="2130" start="2129" id="T21"/>
+        <TRAJECTOR text="I" end="2165" start="2164" id="T22"/>
+        <TRAJECTOR text="The camera" end="2299" start="2289" id="T23"/>
+        <TRAJECTOR text="a white pelican" end="2691" start="2676" id="T24"/>
+        <TRAJECTOR text="The shoreline" end="2716" start="2703" id="T25"/>
+        <TRAJECTOR text="that" end="339" start="335" id="T26"/>
+        <LANDMARK text="the rough ground" end="1217" start="1201" id="L0"/>
+        <LANDMARK text="the reeds" end="1696" start="1687" id="L1"/>
+        <LANDMARK text="Romania" end="334" start="327" id="L2"/>
+        <LANDMARK text="" end="-1" start="-1" id="L3"/>
+        <LANDMARK text="the reeds" end="1595" start="1586" id="L5"/>
+        <LANDMARK text="the edge of the reeds" end="1696" start="1675" id="L6"/>
+        <LANDMARK text="frogs" end="2737" start="2732" id="L7"/>
+        <LANDMARK text="the reeds" end="1238" start="1229" id="L8"/>
+        <LANDMARK text="CPs in Romania" end="334" start="320" id="L9"/>
+        <SPATIAL_INDICATOR text="through" end="1200" start="1193" id="S0"/>
+        <SPATIAL_INDICATOR text="of" end="1686" start="1684" id="S1"/>
+        <SPATIAL_INDICATOR text="in" end="326" start="324" id="S2"/>
+        <SPATIAL_INDICATOR text="away from" end="1585" start="1576" id="S3"/>
+        <SPATIAL_INDICATOR text="to" end="1674" start="1672" id="S4"/>
+        <SPATIAL_INDICATOR text="alive with" end="2731" start="2721" id="S5"/>
+        <SPATIAL_INDICATOR text="leading to" end="1228" start="1218" id="S6"/>
+        <MOTION_INDICATOR text="walked" end="1259" start="1253" id="M0"/>
+        <MOTION_INDICATOR text="launched" end="1497" start="1489" id="M1"/>
+        <MOTION_INDICATOR text="keep" end="1665" start="1661" id="M2"/>
+        <MOTION_INDICATOR text="travelling" end="1776" start="1766" id="M3"/>
+        <MOTION_INDICATOR text="went" end="1930" start="1926" id="M4"/>
+        <MOTION_INDICATOR text="swam back" end="2336" start="2327" id="M5"/>
+        <MOTION_INDICATOR text="swim" end="1056" start="1052" id="M6"/>
+        <MOTION_INDICATOR text="move on" end="2808" start="2801" id="M7"/>
+        <MOTION_INDICATOR text="drive" end="39" start="34" id="M8"/>
+        <MOTION_INDICATOR text="climb" end="89" start="84" id="M9"/>
+        <MOTION_INDICATOR text="going" end="253" start="248" id="M10"/>
+        <MOTION_INDICATOR text="visited" end="356" start="349" id="M11"/>
+        <MOTION_INDICATOR text="visited" end="528" start="521" id="M12"/>
+        <MOTION_INDICATOR text="set out" end="735" start="728" id="M13"/>
+        <MOTION_INDICATOR text="arrived" end="767" start="760" id="M14"/>
+        <MOTION_INDICATOR text="put" end="1439" start="1436" id="M15"/>
+        <MOTION_INDICATOR text="swimming" end="1758" start="1750" id="M16"/>
+        <MOTION_INDICATOR text="go" end="1841" start="1839" id="M17"/>
+        <MOTION_INDICATOR text="dropping" end="1994" start="1986" id="M18"/>
+        <MOTION_INDICATOR text="drifted off" end="2146" start="2135" id="M19"/>
+        <MOTION_INDICATOR text="a water dance" end="2223" start="2210" id="M20"/>
+        <MOTION_INDICATOR text="went back" end="2309" start="2300" id="M21"/>
+        <MOTION_INDICATOR text="flew past" end="2701" start="2692" id="M23"/>
+        <PATH text="to the “nearest point”" end="1301" start="1279" id="P0"/>
+        <PATH text="into the water" end="1519" start="1505" id="P1"/>
+        <PATH text="to the edge of the reeds" end="1696" start="1672" id="P2"/>
+        <PATH text="for the camera" end="1945" start="1931" id="P3"/>
+        <PATH text="to the shore" end="2349" start="2337" id="P4"/>
+        <PATH text="to the point" end="1075" start="1063" id="P5"/>
+        <PATH text="to the 47N 28E" end="2823" start="2809" id="P6"/>
+        <PATH text="home from Kosovo to Scotland via Greece" end="79" start="40" id="P7"/>
+        <PATH text="Mt Olympus" end="100" start="90" id="P8"/>
+        <PATH text="home" end="258" start="254" id="P9"/>
+        <PATH text="48N 27E" end="536" start="529" id="P11"/>
+        <PATH text="into a watertight(ish) plastic tub" end="1484" start="1450" id="P12"/>
+        <PATH text="which way" end="1835" start="1826" id="P14"/>
+        <PATH text="in the water" end="2036" start="2024" id="P15"/>
+        <PATH text="in the tub" end="2320" start="2310" id="P16"/>
+        <PATH text="that" end="339" start="335" id="P17"/>
+        <DISTANCE text="the last kilometre" end="1278" start="1260" id="DIS0"/>
+        <DISTANCE text="close" end="1671" start="1666" id="DIS1"/>
+        <DISTANCE text="400 m" end="1062" start="1057" id="DIS2"/>
+        <DISTANCE text="nearest" end="1150" start="1143" id="DIS3"/>
+        <DISTANCE text="“nearest" end="1294" start="1286" id="DIS4"/>
+        <DISTANCE text="the last 150 metres" end="1742" start="1723" id="DIS5"/>
+        <DISTANCE text="a few metres" end="2159" start="2147" id="DIS6"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS0" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T4" id="SR4"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR5"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T6" id="SR6"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR7"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS2" path_id="P5" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T9" id="SR8"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P6" direction_id="" motion_id="M7" spatial_indicator_id="" landmark_id="" trajector_id="T10" id="SR9"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P7" direction_id="" motion_id="M8" spatial_indicator_id="" landmark_id="" trajector_id="T11" id="SR10"/>
+        <RELATION FoR="relative" relative_value="ABOVE" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P8" direction_id="" motion_id="M9" spatial_indicator_id="" landmark_id="" trajector_id="T10" id="SR11"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P9" direction_id="" motion_id="M10" spatial_indicator_id="" landmark_id="" trajector_id="T12" id="SR12"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T13" id="SR13"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P11" direction_id="" motion_id="M12" spatial_indicator_id="" landmark_id="" trajector_id="T14" id="SR15"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M13" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR16"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M14" spatial_indicator_id="" landmark_id="" trajector_id="T15" id="SR17"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS3" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L3" trajector_id="T16" id="SR18"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS4" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L3" trajector_id="T17" id="SR19"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P12" direction_id="" motion_id="M15" spatial_indicator_id="" landmark_id="" trajector_id="T18" id="SR20"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L5" trajector_id="T19" id="SR21"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS1" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L6" trajector_id="T10" id="SR22"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS5" path_id="" direction_id="" motion_id="M16" spatial_indicator_id="" landmark_id="" trajector_id="T10" id="SR23"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P14" direction_id="" motion_id="M17" spatial_indicator_id="" landmark_id="" trajector_id="T10" id="SR24"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P15" direction_id="" motion_id="M18" spatial_indicator_id="" landmark_id="" trajector_id="T20" id="SR25"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS6" path_id="" direction_id="" motion_id="M19" spatial_indicator_id="" landmark_id="" trajector_id="T21" id="SR26"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M20" spatial_indicator_id="" landmark_id="" trajector_id="T22" id="SR27"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P16" direction_id="" motion_id="M21" spatial_indicator_id="" landmark_id="" trajector_id="T23" id="SR28"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M23" spatial_indicator_id="" landmark_id="" trajector_id="T24" id="SR29"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP-1" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L7" trajector_id="T25" id="SR30"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L8" trajector_id="T0" id="SR31"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L9" trajector_id="T26" id="SR32"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P17" direction_id="" motion_id="M11" spatial_indicator_id="" landmark_id="" trajector_id="T10" id="SR33"/>
+    </TAGS>
+</SpRL>

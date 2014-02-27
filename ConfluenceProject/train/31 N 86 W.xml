@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?id=733</URL>
+    <CP>31°N 86°W</CP>
+    <TEXT>
+22-Apr-2001 -- This confluence is located in the middle of a swamp just to the North of the Pea river, which is just North of the Florida/Alabama border. I plugged the coordinates into my GPS, and the pointer feature indicated that it was almost exactly North of where I live. Travelling without an atlas, I relied solely on my receiver and wound my way through the Florida countryside, past Ebro Greyhound Park, and finally arrived within 1/4 mile of my goal. I parked my truck on the side of the road, and began hiking through the swamp. To my benefit, we have been experiencing a drought as of recent, and the area was relatively dry. This made the travelling easier, as I only had to wade through water up to my knees. As for wildlife, I encountered one alligator, but it was the twenty or so mosquitos that sampled my blood, as the bites on my arms and legs can testify. I also came across a box turtle, and used her for a photo-op. Besides, I didn't think the gator would be agreeable and mosquitos take lousy pictures.
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="This confluence" end="31" start="16" id="T0"/>
+        <TRAJECTOR text="a swamp" end="67" start="60" id="T2"/>
+        <TRAJECTOR text="it" end="235" start="233" id="T4"/>
+        <TRAJECTOR text="I" end="308" start="307" id="T5"/>
+        <TRAJECTOR text="my truck" end="479" start="471" id="T7"/>
+        <TRAJECTOR text="I" end="463" start="462" id="T8"/>
+        <TRAJECTOR text="I" end="676" start="675" id="T9"/>
+        <TRAJECTOR text="I" end="878" start="877" id="T10"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T11"/>
+        <TRAJECTOR text="which" end="109" start="104" id="T1"/>
+        <TRAJECTOR text="the bites" end="843" start="834" id="T3"/>
+        <LANDMARK text="the Florida/Alabama border" end="153" start="127" id="L2"/>
+        <LANDMARK text="the Pea river" end="102" start="89" id="L3"/>
+        <LANDMARK text="a swamp" end="67" start="60" id="L4"/>
+        <LANDMARK text="where I live" end="276" start="264" id="L5"/>
+        <LANDMARK text="the side of the road" end="503" start="483" id="L6"/>
+        <LANDMARK text="my goal" end="460" start="453" id="L7"/>
+        <LANDMARK text="my arms and legs" end="863" start="847" id="L1"/>
+        <SPATIAL_INDICATOR text="in the middle of" end="59" start="43" id="S1"/>
+        <SPATIAL_INDICATOR text="to" end="75" start="73" id="S2"/>
+        <SPATIAL_INDICATOR text="on" end="482" start="480" id="S3"/>
+        <SPATIAL_INDICATOR text="within" end="440" start="434" id="S5"/>
+        <SPATIAL_INDICATOR text="on" end="846" start="844" id="S0"/>
+        <MOTION_INDICATOR text="arrived" end="433" start="426" id="M1"/>
+        <MOTION_INDICATOR text="hiking" end="521" start="515" id="M2"/>
+        <MOTION_INDICATOR text="came across" end="895" start="884" id="M5"/>
+        <MOTION_INDICATOR text="past" end="392" start="388" id="M3"/>
+        <MOTION_INDICATOR text="wade" end="693" start="689" id="M4"/>
+        <MOTION_INDICATOR text="wound" end="347" start="342" id="M6"/>
+        <PATH text="through the Florida countryside" end="386" start="355" id="P0"/>
+        <PATH text="through the swamp" end="539" start="522" id="P2"/>
+        <PATH text="through water" end="707" start="694" id="P3"/>
+        <PATH text="a box turtle" end="908" start="896" id="P4"/>
+        <PATH text="within 1/4 mile of my goal" end="460" start="434" id="P5"/>
+        <PATH text="Ebro Greyhound Park" end="412" start="393" id="P1"/>
+        <DIRECTION text="North" end="123" start="118" id="DIR0"/>
+        <DIRECTION text="the North" end="85" start="76" id="DIR1"/>
+        <DIRECTION text="almost exactly North" end="260" start="240" id="DIR3"/>
+        <DISTANCE text="1/4 mile" end="449" start="441" id="DIS1"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L4" trajector_id="T0" id="SR3"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="North" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR1" motion_id="" spatial_indicator_id="S2" landmark_id="L3" trajector_id="T2" id="SR4"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="North" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR3" motion_id="" spatial_indicator_id="" landmark_id="L5" trajector_id="T4" id="SR6"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR7"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="PO" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L6" trajector_id="T7" id="SR9"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T8" id="SR10"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M4" spatial_indicator_id="" landmark_id="" trajector_id="T9" id="SR11"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P4" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T10" id="SR12"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P5" direction_id="" motion_id="M1" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR13"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="" motion_id="" spatial_indicator_id="S5" landmark_id="L7" trajector_id="T11" id="SR14"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L3" trajector_id="T1" id="SR0"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="North" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR0" motion_id="" spatial_indicator_id="" landmark_id="L2" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T5" id="SR5"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L1" trajector_id="T3" id="SR8"/>
+    </TAGS>
+</SpRL>

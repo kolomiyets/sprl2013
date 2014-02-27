@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?lat=37&amp;lon=-112</URL>
+    <CP>37°N 112°W</CP>
+    <TEXT>
+11-Jul-2012 -- The most difficult thing about reaching this confluence point is getting the required permit to be in the area. The confluence point lies in the Coyote Buttes North area of the Paria Canyon-Vermilion Cliffs Wilderness. However, the same area is also home to &quot;The Wave&quot; - a spectacular undulating sandstone formation prized by photographers. Because of this, permits to hike in this area are highly sought after. The BLM (Bureau of Land Management) holds monthly lotteries for the few permits given out each day.
+
+For several months, I had entered the lottery for a permit to hike in this area. I first won the lottery for one day in December 2011, but the weather that day turned out to be terrible: very cold (around 0 degrees C), with falling snow. So I was unable to hike in the area that day. However I kept entering the lottery each month thereafter, and eventually won the lottery again, for July 11th, 2012. In contrast to December, that July day turned out to be one of the hottest days of the year, with temperatures around 110 degrees F (43 degrees C).
+
+Nonetheless, I was determined to complete the hike. With a big hat, lots of sunscreen, and lots and lots of drinking water, I embarked on the 7-mile (round-trip) hike from the Wire Pass trailhead. The ground was so hot that it softened the glue holding the rubber soles of my hiking boots, and both soles fell off my boots, just 1 mile into the hike! (Fortunately there was enough rubber left on the bottom of my boots to protect my feet from the heat for the remainder of the hike.) After a grueling slog through blazing desert heat, I reached &quot;The Wave&quot;, and then hiked along scenic sandstone formations to the Degree Confluence Point, which - coincidentally - was less than 1/2 mile away.
+
+The Degree Confluence Point was scenic in its own right, as it lies among a group of beehive-shaped sandstone formations. Overall, I'd rate it as one of the most scenic Degree Confluence Points in the U.S. 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="The confluence point" end="148" start="128" id="T0"/>
+        <TRAJECTOR text="the Coyote Buttes North area" end="185" start="157" id="T1"/>
+        <TRAJECTOR text="the same area" end="257" start="244" id="T2"/>
+        <TRAJECTOR text="I" end="1205" start="1204" id="T3"/>
+        <TRAJECTOR text="the rubber soles" end="1349" start="1333" id="T4"/>
+        <TRAJECTOR text="both soles" end="1384" start="1374" id="T5"/>
+        <TRAJECTOR text="enough rubber" end="1467" start="1454" id="T6"/>
+        <TRAJECTOR text="I" end="1616" start="1615" id="T7"/>
+        <TRAJECTOR text="it" end="1835" start="1833" id="T10"/>
+        <TRAJECTOR text="I" end="771" start="770" id="T11"/>
+        <TRAJECTOR text="" end="-1" start="-1" id="T12"/>
+        <TRAJECTOR text="which" end="1723" start="1718" id="T13"/>
+        <TRAJECTOR text="one of the most scenic Degree Confluence Points" end="1966" start="1919" id="T14"/>
+        <TRAJECTOR text="The Degree Confluence Point" end="1800" start="1773" id="T15"/>
+        <LANDMARK text="the Coyote Buttes North area" end="185" start="157" id="L0"/>
+        <LANDMARK text="the Paria Canyon-Vermilion Cliffs Wilderness" end="233" start="189" id="L1"/>
+        <LANDMARK text="a spectacular undulating sandstone formation" end="331" start="287" id="L2"/>
+        <LANDMARK text="my hiking boots" end="1368" start="1353" id="L3"/>
+        <LANDMARK text="my boots" end="1402" start="1394" id="L4"/>
+        <LANDMARK text="location 1 mile into the hike" end="-1" start="-1" id="L5"/>
+        <LANDMARK text="my boots" end="1498" start="1490" id="L6"/>
+        <LANDMARK text="" end="-1" start="-1" id="L7"/>
+        <LANDMARK text="a group of beehive-shaped sandstone formations" end="1893" start="1847" id="L8"/>
+        <LANDMARK text="the Degree Confluence Point" end="1716" start="1689" id="L9"/>
+        <LANDMARK text="the U.S" end="1977" start="1970" id="L11"/>
+        <LANDMARK text="it" end="1835" start="1833" id="L12"/>
+        <SPATIAL_INDICATOR text="lies in" end="156" start="149" id="S0"/>
+        <SPATIAL_INDICATOR text="of" end="188" start="186" id="S1"/>
+        <SPATIAL_INDICATOR text="home" end="270" start="266" id="S2"/>
+        <SPATIAL_INDICATOR text="of" end="1352" start="1350" id="S3"/>
+        <SPATIAL_INDICATOR text="on the bottom of" end="1489" start="1473" id="S4"/>
+        <SPATIAL_INDICATOR text="away" end="1770" start="1766" id="S5"/>
+        <SPATIAL_INDICATOR text="lies among" end="1846" start="1836" id="S6"/>
+        <SPATIAL_INDICATOR text="fell off" end="1393" start="1385" id="S7"/>
+        <SPATIAL_INDICATOR text="in" end="1969" start="1967" id="S8"/>
+        <MOTION_INDICATOR text="embarked" end="1214" start="1206" id="M0"/>
+        <MOTION_INDICATOR text="reached" end="1624" start="1617" id="M2"/>
+        <MOTION_INDICATOR text="hiked" end="1651" start="1646" id="M3"/>
+        <MOTION_INDICATOR text="hike" end="790" start="786" id="M4"/>
+        <MOTION_INDICATOR text="the hike" end="1429" start="1421" id="M5"/>
+        <MOTION_INDICATOR text="a grueling slog" end="1585" start="1570" id="M6"/>
+        <PATH text="on the 7-mile (round-trip) hike from the Wire Pass trailhead" end="1275" start="1215" id="P0"/>
+        <PATH text="&quot;The Wave&quot;" end="1635" start="1625" id="P1"/>
+        <PATH text="along scenic sandstone formations to the Degree Confluence Point" end="1716" start="1652" id="P2"/>
+        <PATH text="in the area" end="802" start="791" id="P3"/>
+        <PATH text="through blazing desert heat" end="1613" start="1586" id="P4"/>
+        <DISTANCE text="1 mile" end="1415" start="1409" id="DIS1"/>
+        <DISTANCE text="less than 1/2 mile" end="1765" start="1747" id="DIS2"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L1" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S2" landmark_id="L2" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P0" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T3" id="SR3"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S3" landmark_id="L3" trajector_id="T4" id="SR4"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S4" landmark_id="L6" trajector_id="T6" id="SR6"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P1" direction_id="" motion_id="M2" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR7"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P2" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR8"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S6" landmark_id="L8" trajector_id="T10" id="SR10"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="P3" direction_id="" motion_id="M3" spatial_indicator_id="" landmark_id="" trajector_id="T11" id="SR11"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="DC" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S7" landmark_id="L4" trajector_id="T5" id="SR12"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="DIS1" path_id="" direction_id="" motion_id="M5" spatial_indicator_id="" landmark_id="" trajector_id="T12" id="SR13"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M6" spatial_indicator_id="" landmark_id="" trajector_id="T7" id="SR14"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L9" trajector_id="T13" id="SR15"/>
+        <RELATION FoR="relative" relative_value="" absolute_value="" RCC8_value="" specific_type="QUANTITATIVE" general_type="DISTANCE" qualitative_value="" quantitative_value="DIS2" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L7" trajector_id="T13" id="SR16"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S8" landmark_id="L11" trajector_id="T14" id="SR18"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="EQ" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L12" trajector_id="T15" id="SR19"/>
+    </TAGS>
+</SpRL>

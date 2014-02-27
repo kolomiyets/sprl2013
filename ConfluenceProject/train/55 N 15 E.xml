@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <URL>﻿http://confluence.org/confluence.php?visitid=17202</URL>
+    <CP>55°N 15°E</CP>
+    <TEXT>
+26-Aug-2010 -- At the confluence point there is a granite stone with a north-south-east-west marking. Next to it a poster stating that at this point, 15 East, the sun is at its summit at 12 noon. A definition of the central European time, in other words.
+
+Close to the confluence is an old watermill and a former trout breeding centre. A couple of ladies walking their dogs could also told us that there were a number of archeological findings in the area, this southernmost tip of the Bornholm island. Queen Margrethe was excavating some of these finds about fifty years ago while she was a student, the ladies told us. 
+</TEXT>
+    <TAGS>
+        <TRAJECTOR text="a granite stone with a north-south-east-west marking" end="101" start="49" id="T0"/>
+        <TRAJECTOR text="a poster" end="122" start="114" id="T1"/>
+        <TRAJECTOR text="an old watermill" end="300" start="284" id="T2"/>
+        <TRAJECTOR text="a former trout breeding centre" end="335" start="305" id="T3"/>
+        <TRAJECTOR text="A couple of ladies" end="355" start="337" id="T4"/>
+        <TRAJECTOR text="a number of archeological findings" end="444" start="410" id="T5"/>
+        <TRAJECTOR text="this southernmost tip" end="479" start="458" id="T6"/>
+        <LANDMARK text="the confluence point" end="39" start="19" id="L0"/>
+        <LANDMARK text="it" end="113" start="111" id="L1"/>
+        <LANDMARK text="the confluence" end="280" start="266" id="L2"/>
+        <LANDMARK text="the area" end="456" start="448" id="L3"/>
+        <LANDMARK text="the Bornholm island" end="502" start="483" id="L4"/>
+        <SPATIAL_INDICATOR text="At" end="18" start="16" id="S0"/>
+        <SPATIAL_INDICATOR text="in" end="447" start="445" id="S1"/>
+        <SPATIAL_INDICATOR text="of" end="482" start="480" id="S2"/>
+        <MOTION_INDICATOR text="walking" end="363" start="356" id="M0"/>
+        <DIRECTION text="southernmost" end="475" start="463" id="DIR0"/>
+        <DISTANCE text="Next to" end="110" start="103" id="DIS0"/>
+        <DISTANCE text="Close to" end="265" start="257" id="DIS1"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="PO" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S0" landmark_id="L0" trajector_id="T0" id="SR0"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS0" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L1" trajector_id="T1" id="SR1"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS1" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L2" trajector_id="T2" id="SR2"/>
+        <RELATION FoR="" relative_value="" absolute_value="" RCC8_value="" specific_type="QUALITATIVE" general_type="DISTANCE" qualitative_value="DIS1" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="" landmark_id="L2" trajector_id="T3" id="SR3"/>
+        <RELATION FoR="relative" relative_value="OTHER" absolute_value="" RCC8_value="" specific_type="RELATIVE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="M0" spatial_indicator_id="" landmark_id="" trajector_id="T4" id="SR4"/>
+        <RELATION FoR="intrinsic" relative_value="" absolute_value="" RCC8_value="NTPP" specific_type="RCC8" general_type="REGION" qualitative_value="" quantitative_value="" path_id="" direction_id="" motion_id="" spatial_indicator_id="S1" landmark_id="L3" trajector_id="T5" id="SR5"/>
+        <RELATION FoR="absolute" relative_value="" absolute_value="South" RCC8_value="" specific_type="ABSOLUTE" general_type="DIRECTION" qualitative_value="" quantitative_value="" path_id="" direction_id="DIR0" motion_id="" spatial_indicator_id="S2" landmark_id="L4" trajector_id="T6" id="SR6"/>
+    </TAGS>
+</SpRL>

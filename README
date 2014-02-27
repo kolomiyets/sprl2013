@@ -1,0 +1,4 @@
+SpRL (Spatial Role Labeling) is a data repository for the Spatial Role Labeling shared task at Semantic Evaluations 2013 (SemEval-2013). 
+It contains two data sets: 
+	- SpRL-2012 training and test data which come from the IAPR TC-12 image benchmark corpus;
+	- a confluence project corpus with descriptions of locations situated at integer degree intersection points of the latitude and longitude.
